@@ -1,8 +1,5 @@
 #!/usr/bin/env sh
 
-# Se hace un pull antes de los demás comandos
-git pull --rebase
-
 # Añade todos los cambios al área de preparación de Git
 git add .
 
@@ -11,6 +8,9 @@ currentDateTime=$(date "+%Y-%m-%d %H:%M:%S")
 
 # Realiza un commit con estos cambios
 git commit -m "Saved - $currentDateTime"
+
+# Se hace un pull con rebase antes de los demás comandos
+git pull --rebase
 
 # Sube estos cambios a GitHub
 git push origin master
