@@ -1,0 +1,119 @@
+---- Minecraft Crash Report ----
+// Ouch. That hurt :(
+
+Time: 2023-05-31 22:12:54
+Description: Exception in server tick loop
+
+java.lang.IllegalStateException: Failed to initialize server
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:638) ~[server-1.19.4-20230314.122934-srg.jar%23179!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:252) ~[server-1.19.4-20230314.122934-srg.jar%23179!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:1623) ~[?:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.4
+	Minecraft Version ID: 1.19.4
+	Operating System: Linux (aarch64) version 5.15.0-100.96.32.el8uek.aarch64
+	Java Version: 20.0.1, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 758168024 bytes (723 MiB) / 1962934272 bytes (1872 MiB) up to 15032385536 bytes (14336 MiB)
+	CPUs: 4
+	Processor Vendor: aarch64
+	Processor Name: 
+	Identifier: aarch64 Family 8 Model 0xd0c Stepping r0x3p1
+	Microarchitecture: unknown
+	Frequency (GHz): 2.00
+	Number of physical packages: 1
+	Number of physical CPUs: 4
+	Number of logical CPUs: 4
+	Graphics card #0 name: Virtio GPU
+	Graphics card #0 vendor: Red Hat, Inc.
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: version: 01
+	Memory slot #0 capacity (MB): 16384.00
+	Memory slot #0 clockSpeed (GHz): -0.00
+	Memory slot #0 type: RAM
+	Memory slot #1 capacity (MB): 8192.00
+	Memory slot #1 clockSpeed (GHz): -0.00
+	Memory slot #1 type: RAM
+	Virtual memory max (MB): 19444.49
+	Virtual memory used (MB): 8712.79
+	Swap memory total (MB): 7904.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 1 total; -Xmx14G
+	Server Running: true
+	Data Packs: vanilla, mod:saturn (incompatible), mod:terrablender (incompatible), mod:blue_skies (incompatible), mod:biomesoplenty (incompatible), mod:playeranimator (incompatible), mod:easymagic (incompatible), mod:aether, mod:jei (incompatible), mod:spectrelib (incompatible), mod:conjurer_illager (incompatible), mod:pehkui (incompatible), mod:bendylib (incompatible), mod:curios (incompatible), mod:structory, mod:clumps (incompatible), mod:camera (incompatible), mod:comforts (incompatible), mod:securitycraft, mod:travelersbackpack (incompatible), mod:artifacts (incompatible), mod:jumpboat, mod:elevatorid (incompatible), mod:upgradednetherite_items (incompatible), mod:antixray (incompatible), mod:worldedit (incompatible), mod:upgradedcore (incompatible), mod:architectury (incompatible), mod:taniwha (incompatible), mod:biomemakeover (incompatible), mod:puzzleslib (incompatible), mod:memoryleakfix (incompatible), mod:cloth_config (incompatible), mod:voicechat (incompatible), mod:forge, mod:appleskin (incompatible), mod:scuba_gear (incompatible), mod:expandability (incompatible), mod:upgradednetherite (incompatible), mod:emotecraft (incompatible), mod:structure_gel, mod:corpse (incompatible), mod:tinyskeletons (incompatible)
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
+	ModLauncher: 10.0.8+10.0.8+main.0ef7e830
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.3.jar eventbus PLUGINSERVICE 
+		fmlloader-1.19.4-45.0.66.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.19.4-45.0.66.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.19.4-45.0.66.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.19.4-45.0.66.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.19.4-45.0.66.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.8.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.8.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		lowcodefml@null
+		javafml@null
+	Mod List: 
+		server-1.19.4-20230314.122934-srg.jar             |Minecraft                     |minecraft                     |1.19.4              |DONE      |Manifest: NOSIGNATURE
+		saturn-mc1.19.4-0.0.3.jar                         |Saturn                        |saturn                        |0.0.3               |DONE      |Manifest: NOSIGNATURE
+		TerraBlender-forge-1.19.4-2.2.0.154.jar           |TerraBlender                  |terrablender                  |2.2.0.154           |DONE      |Manifest: NOSIGNATURE
+		blue_skies-1.19.4-1.3.25.jar                      |Blue Skies                    |blue_skies                    |1.3.25              |DONE      |Manifest: NOSIGNATURE
+		BiomesOPlenty-1.19.4-17.3.0.545.jar               |Biomes O' Plenty              |biomesoplenty                 |17.3.0.545          |DONE      |Manifest: NOSIGNATURE
+		player-animation-lib-forge-1.0.21.19.4.jar        |Player Animator               |playeranimator                |1.0.2+1.19.4        |DONE      |Manifest: NOSIGNATURE
+		EasyMagic-v6.0.0-1.19.4-Forge.jar                 |Easy Magic                    |easymagic                     |6.0.0               |DONE      |Manifest: 9a:09:85:98:65:c4:8c:11:c5:49:f6:d6:33:23:39:df:8d:b4:ff:92:84:b8:bd:a5:83:9f:ac:7f:2a:d1:4b:6a
+		aether-1.19.4-1.0.0-beta.4-forge.jar              |The Aether                    |aether                        |1.19.4-1.0.0-beta.4-|DONE      |Manifest: NOSIGNATURE
+		jei-1.19.4-forge-13.1.0.11.jar                    |Just Enough Items             |jei                           |13.1.0.11           |DONE      |Manifest: NOSIGNATURE
+		spectrelib-forge-0.12.4+1.19.2.jar                |SpectreLib                    |spectrelib                    |0.12.4+1.19.2       |DONE      |Manifest: NOSIGNATURE
+		the-conjurer-1.19.4-1.1.6.jar                     |The Conjurer                  |conjurer_illager              |1.1.6               |DONE      |Manifest: NOSIGNATURE
+		Pehkui-3.7.51.19.4-forge.jar                      |Pehkui                        |pehkui                        |3.7.5+1.19.4-forge  |DONE      |Manifest: NOSIGNATURE
+		bendy-lib-forge-4.0.0.jar                         |Bendy lib                     |bendylib                      |4.0.0               |DONE      |Manifest: NOSIGNATURE
+		curios-forge-1.19.4-5.1.5.3.jar                   |Curios API                    |curios                        |1.19.4-5.1.5.3      |DONE      |Manifest: NOSIGNATURE
+		Structory_1.19.4_v1.3.1a.jar                      |Structory                     |structory                     |1.3.1a              |DONE      |Manifest: NOSIGNATURE
+		Clumps-forge-1.19.4-10.0.0.2.jar                  |Clumps                        |clumps                        |10.0.0.2            |DONE      |Manifest: NOSIGNATURE
+		camera-1.19.4-1.0.3.jar                           |Camera Mod                    |camera                        |1.19.4-1.0.3        |DONE      |Manifest: NOSIGNATURE
+		comforts-forge-6.2.11.19.4.jar                    |Comforts                      |comforts                      |6.2.1+1.19.4        |DONE      |Manifest: NOSIGNATURE
+		1.19.4_SecurityCraft_v1.9.6.2.jar                 |SecurityCraft                 |securitycraft                 |1.9.6.2             |DONE      |Manifest: NOSIGNATURE
+		TravelersBackpack-1.19.4-8.4.5.jar                |Traveler's Backpack           |travelersbackpack             |8.4.5               |DONE      |Manifest: NOSIGNATURE
+		artifacts-1.19.4-6.1.0.jar                        |Artifacts                     |artifacts                     |1.19.4-6.1.0        |DONE      |Manifest: NOSIGNATURE
+		jumpboat-1.19.4-0.1.0.5.jar                       |Jumpy Boats                   |jumpboat                      |1.19.4-0.1.0.5      |DONE      |Manifest: NOSIGNATURE
+		elevatorid-1.19.4-1.8.12.jar                      |Elevator Mod                  |elevatorid                    |1.19.4-1.8.12       |DONE      |Manifest: NOSIGNATURE
+		upgradednetherite_items-1.19.4-4.3.0.0-beta.jar   |Upgraded Netherite : Items    |upgradednetherite_items       |1.19.4-4.3.0.0-beta |DONE      |Manifest: NOSIGNATURE
+		anti-xray-1.3.0-Forge-1.19.4.jar                  |AntiXray                      |antixray                      |1.3.0               |DONE      |Manifest: NOSIGNATURE
+		worldedit-mod-7.2.14.jar                          |WorldEdit                     |worldedit                     |7.2.14+6360-094b734 |DONE      |Manifest: NOSIGNATURE
+		upgradedcore-1.19.4-4.3.0.1-beta.jar              |Upgraded Core                 |upgradedcore                  |1.19.4-4.3.0.1-beta |DONE      |Manifest: NOSIGNATURE
+		architectury-8.1.87-forge.jar                     |Architectury                  |architectury                  |8.1.87              |DONE      |Manifest: NOSIGNATURE
+		taniwha-forge-1.19.4-4.1.25.jar                   |Taniwha                       |taniwha                       |1.19.4-4.1.25       |DONE      |Manifest: NOSIGNATURE
+		biomemakeover-FORGE-1.19.4-1.9.4.jar              |Biome Makeover                |biomemakeover                 |1.19.4-1.9.4        |DONE      |Manifest: NOSIGNATURE
+		PuzzlesLib-v6.0.9-1.19.4-Forge.jar                |Puzzles Lib                   |puzzleslib                    |6.0.9               |DONE      |Manifest: 9a:09:85:98:65:c4:8c:11:c5:49:f6:d6:33:23:39:df:8d:b4:ff:92:84:b8:bd:a5:83:9f:ac:7f:2a:d1:4b:6a
+		memoryleakfix-forge-1.17-1.0.0.jar                |Memory Leak Fix               |memoryleakfix                 |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		cloth-config-10.0.96-forge.jar                    |Cloth Config v10 API          |cloth_config                  |10.0.96             |DONE      |Manifest: NOSIGNATURE
+		voicechat-forge-1.19.4-2.4.8.jar                  |Simple Voice Chat             |voicechat                     |1.19.4-2.4.8        |DONE      |Manifest: NOSIGNATURE
+		forge-1.19.4-45.0.66-universal.jar                |Forge                         |forge                         |45.0.66             |DONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		appleskin-forge-mc1.19.4-2.4.3.jar                |AppleSkin                     |appleskin                     |2.4.3+mc1.19.4      |DONE      |Manifest: NOSIGNATURE
+		scuba_gear-1.19.4-1.0.6.jar                       |Scuba Gear                    |scuba_gear                    |1.0.6               |DONE      |Manifest: NOSIGNATURE
+		expandability-8.0.0.jar                           |ExpandAbility                 |expandability                 |8.0.0               |DONE      |Manifest: NOSIGNATURE
+		upgradednetherite-1.19.4-5.3.0.1-beta.jar         |Upgraded Netherite            |upgradednetherite             |1.19.4-5.3.0.1-beta |DONE      |Manifest: NOSIGNATURE
+		emotecraft-for-MC1.19.4-2.2.7-b.build.48-forge.jar|Emotecraft                    |emotecraft                    |2.2.7-b.build.48    |DONE      |Manifest: NOSIGNATURE
+		structure_gel-1.19.4-2.12.0.jar                   |Structure Gel API             |structure_gel                 |2.12.0              |DONE      |Manifest: NOSIGNATURE
+		corpse-1.19.4-1.0.3.jar                           |Corpse                        |corpse                        |1.19.4-1.0.3        |DONE      |Manifest: NOSIGNATURE
+		TinySkeletons-v6.0.0-1.19.4-Forge.jar             |Tiny Skeletons                |tinyskeletons                 |6.0.0               |DONE      |Manifest: 9a:09:85:98:65:c4:8c:11:c5:49:f6:d6:33:23:39:df:8d:b4:ff:92:84:b8:bd:a5:83:9f:ac:7f:2a:d1:4b:6a
+	Crash Report UUID: 2a65fa23-4a79-4f0b-a38c-291f740f6fb1
+	FML: 45.0
+	Forge: net.minecraftforge:45.0.66

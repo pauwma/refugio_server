@@ -1,0 +1,7 @@
+{
+  "comment": "Disabling these is not advised unless necessary",
+  "com.aetherteam.aether.core.mixin.client.AdvancementToastMixin": true,
+  "com.aetherteam.aether.core.mixin.client.MinecraftMixin": true,
+  "com.aetherteam.aether.core.mixin.client.SplashManagerMixin": true,
+  "com.aetherteam.aether.core.mixin.client.TippableArrowRendererMixin": true
+}

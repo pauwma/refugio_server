@@ -1,0 +1,24 @@
+"Mod Compatibility" = {}
+
+[Debug]
+	#
+	# When loading files from datapacks, set this to true to log missing registry data for things like items.
+	# Default: false
+	log_missing_registry_data_for_datapacks = false
+
+["Holiday Content"]
+	#
+	# Determines if Halloween cosmetic effects should happen.
+	# Default: true
+	allow_halloween_content = true
+	#
+	# Determines if Christmas cosmetic effects should happen.
+	# Default: true
+	allow_christmas_content = true
+
+[Gatekeeper]
+	#
+	# The emerald cost for the Zeal Lighter sold by the Gatekeeper.
+	# Default: 8
+	zeal_lighter_cost = 8
+
