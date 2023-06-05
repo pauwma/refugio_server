@@ -26,7 +26,7 @@ serverStarted = ":green_circle: **Servidor iniciado!** :green_circle:"
 # This will be edited to SERVER_STARTED_MSG when webhook is false
 serverStarting = ":orange_circle: **Iniciando servidor** :orange_circle:"
 # This message will be sent when the server was stopped
-serverStopped = ":red_circle: **Servidor desconectado!** :red_circle:" 
+serverStopped = ":red_circle: **Servidor desconectado!** :red_circle:"
 # The message to print to discord when it was possible to detect a server crash
 serverCrash = "**Posible crasheo** :quep:"
 # Gets sent when an player joins
