@@ -19,7 +19,7 @@ ingame_discordReplyMessage = "§9DISCORD§r §a%user%§r respondiendo a §3%ruse
 # %id% - The user ID
 # 
 # NOTE: using an @ here can cause ping sounds ingame
-discordUserHover = "§3Discord User %user#tag%\n§aMencionar"
+discordUserHover = "§3%user#tag%\n§aMencionar"
 # This message will edited in / sent when the server finished starting
 serverStarted = ":green_circle: **Servidor iniciado!** :green_circle:"
 # Message to show while the server is starting
@@ -44,7 +44,7 @@ playerLeave = "*%player% se ha ido*"
 # PLACEHOLDERS:
 # %player% - The player's name
 # %msg% - The death message
-playerDeath = "%player% %msg%"
+playerDeath = "*%player% %msg%*"
 # Message sent instead of playerLeave, when the player times out
 # 
 # PLACEHOLDERS:
@@ -57,13 +57,13 @@ playerTimeout = "%player% timed out!"
 # %player% - The player's name
 # %name% - The advancement name
 # %desc% - The advancement description
-advancementMessage = "*%player% just made the advancement **%name%**\n_%desc%_*"
+advancementMessage = "*%player% ha hecho el logro **%name%**\n_%desc%_*"
 # The chat message in discord, sent from an player in-game
 # 
 # PLACEHOLDERS:
 # %player% - The player's name
 # %msg% - The chat message
-discordChatMessage = "**%player%**: %msg%"
+discordChatMessage = "%player%: %msg%"
 # Sent to a player when someone reacts to his messages
 # PLACEHOLDERS:
 # %name% - (Nick-)Name of the user who reacted (format: 'SomeNickName')
