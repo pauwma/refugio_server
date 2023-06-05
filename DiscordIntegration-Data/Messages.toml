@@ -11,7 +11,7 @@ ingame_discordMessage = "§9DISCORD§r <%user%> %msg%"
 # %msg% - The reply message
 # %ruser% - The username of the message that got the reply
 # %rmsg% - The replied message
-ingame_discordReplyMessage = "§6[§5DISCORD§6]§r §a%user%§r in reply to §3%ruser%§r: %msg%"
+ingame_discordReplyMessage = "§9DISCORD§r §a%user%§r respondiendo a §3%ruser%§r: %msg%"
 # Message shown when hovering over the username of an discord message
 # PLACEHOLDERS:
 # %user% - The username/nickname (Someone123)
@@ -21,24 +21,24 @@ ingame_discordReplyMessage = "§6[§5DISCORD§6]§r §a%user%§r in reply to §3
 # NOTE: using an @ here can cause ping sounds ingame
 discordUserHover = "§3Discord User %user#tag%\n§aClick to mention"
 # This message will edited in / sent when the server finished starting
-serverStarted = "Server Started!"
+serverStarted = "**Servidor iniciado!**"
 # Message to show while the server is starting
 # This will be edited to SERVER_STARTED_MSG when webhook is false
-serverStarting = "Server Starting..."
+serverStarting = "**Iniciando servidor**"
 # This message will be sent when the server was stopped
-serverStopped = "Server Stopped!"
+serverStopped = "**Servidor desconectado!**"
 # The message to print to discord when it was possible to detect a server crash
-serverCrash = "Server Crash Detected :thinking:"
+serverCrash = "**Posible crasheo** :quep:"
 # Gets sent when an player joins
 # 
 # PLACEHOLDERS:
 # %player% - The player's name
-playerJoin = "%player% joined"
+playerJoin = "*%player% se ha unido*"
 # Gets sent when an player leaves
 # 
 # PLACEHOLDERS:
 # %player% - The player's name
-playerLeave = "%player% left"
+playerLeave = "*%player% se ha ido*"
 # Gets sent when an player dies
 # 
 # PLACEHOLDERS:
@@ -57,20 +57,20 @@ playerTimeout = "%player% timed out!"
 # %player% - The player's name
 # %name% - The advancement name
 # %desc% - The advancement description
-advancementMessage = "%player% just made the advancement **%name%**\n_%desc%_"
+advancementMessage = "*%player% just made the advancement **%name%**\n_%desc%_*"
 # The chat message in discord, sent from an player in-game
 # 
 # PLACEHOLDERS:
 # %player% - The player's name
 # %msg% - The chat message
-discordChatMessage = "%player%: %msg%"
+discordChatMessage = "*%player%*: %msg%"
 # Sent to a player when someone reacts to his messages
 # PLACEHOLDERS:
 # %name% - (Nick-)Name of the user who reacted (format: 'SomeNickName')
 # %name2% - Name of the user who reacted with discord discriminator (format: 'SomeName#0123')
 # %msg% - Content of the message which got the reaction
 # %emote% - The reacted emote
-reactionMessage = "§6[§5DISCORD§6]§r§7 %name% reacted to your message \"§9%msg%§7\" with '%emote%'"
+reactionMessage = "§9DISCORD§r§7 %name% ha reaccionado a tu mensaje \"§9%msg%§7\" con '%emote%'"
 # Message shown for attachments
 attachment = "Attachment"
 # Message shown for stickers
