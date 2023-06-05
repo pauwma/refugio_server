@@ -199,11 +199,11 @@ settingsBlacklist = [    ]
   # Enable the /discord command to show an custom message with invite URL?
   enabled = true
   # The message displayed when typing /discord in the server chat
-  message = "Join our discord! https://discord.gg/myserver"
+  message = "Únete al servidor https://discord.gg/nA5pSvK"
   # The message shown when hovering the /discord command message
-  hoverMessage = "Click to open the invite url"
+  hoverMessage = "Click para entrar al servidor!"
   # The url to open when clicking the /discord command text
-  inviteURL = "https://discord.gg/myserver"
+  inviteURL = "https://discord.gg/nA5pSvK"
 # The command log channel is an channel where every command execution gets logged
 [commandLog]
   # Channel ID for the command log channel
