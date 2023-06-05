@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
-# Realiza un git pull para obtener los últimos cambios
-git pull
+# Se hace un pull antes de los demás comandos
+git pull --rebase
 
 # Añade todos los cambios al área de preparación de Git
 git add .
