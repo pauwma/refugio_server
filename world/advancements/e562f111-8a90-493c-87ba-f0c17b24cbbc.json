@@ -2406,6 +2406,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2023-06-05 16:10:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2023-06-05 16:10:20 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_cyan_wool": "2023-06-05 16:10:21 +0000"
@@ -2448,33 +2460,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
-    "criteria": {
-      "has_yellow_terracotta": "2023-06-05 16:10:20 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_gray_wool": "2023-06-05 16:10:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_carpet": {
+  "comforts:hammock_cyan": {
     "criteria": {
-      "has_cyan_wool": "2023-06-05 16:10:20 +0000"
+      "has_cyan_wool": "2023-06-05 16:10:21 +0000"
     },
     "done": true
   },
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_gray_wool": "2023-06-05 16:10:22 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_cyan": {
-    "criteria": {
-      "has_cyan_wool": "2023-06-05 16:10:21 +0000"
     },
     "done": true
   },
