@@ -18,3 +18,4 @@ git push origin master
 # Inicia el servidor
 java @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.19.4-45.0.66/unix_args.txt --nogui "$@"
 
+exit
