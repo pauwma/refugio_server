@@ -3,7 +3,7 @@
 # %user% - The username
 # %id% - The user ID
 # %msg% - The message
-ingame_discordMessage = "§6[§5DISCORD§6]§r <%user%> %msg%"
+ingame_discordMessage = "§9DISCORD§r <%user%> %msg%"
 # This is what will be displayed ingame when someone sends an reply into the bot's channel
 # PLACEHOLDERS:
 # %user% - The username
