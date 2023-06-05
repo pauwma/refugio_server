@@ -19,14 +19,14 @@ ingame_discordReplyMessage = "§9DISCORD§r §a%user%§r respondiendo a §3%ruse
 # %id% - The user ID
 # 
 # NOTE: using an @ here can cause ping sounds ingame
-discordUserHover = "§3Discord User %user#tag%\n§aClick to mention"
+discordUserHover = "§3Discord User %user#tag%\n§aMencionar"
 # This message will edited in / sent when the server finished starting
-serverStarted = "**Servidor iniciado!**"
+serverStarted = ":green_circle: **Servidor iniciado!** :green_circle:"
 # Message to show while the server is starting
 # This will be edited to SERVER_STARTED_MSG when webhook is false
-serverStarting = "**Iniciando servidor**"
+serverStarting = ":orange_circle: **Iniciando servidor** :orange_circle:"
 # This message will be sent when the server was stopped
-serverStopped = "**Servidor desconectado!**"
+serverStopped = ":red_circle: **Servidor desconectado!** :red_circle:" 
 # The message to print to discord when it was possible to detect a server crash
 serverCrash = "**Posible crasheo** :quep:"
 # Gets sent when an player joins
