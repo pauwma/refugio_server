@@ -63,7 +63,7 @@ advancementMessage = "*%player% just made the advancement **%name%**\n_%desc%_*"
 # PLACEHOLDERS:
 # %player% - The player's name
 # %msg% - The chat message
-discordChatMessage = "*%player%*: %msg%"
+discordChatMessage = "**%player%**: %msg%"
 # Sent to a player when someone reacts to his messages
 # PLACEHOLDERS:
 # %name% - (Nick-)Name of the user who reacted (format: 'SomeNickName')
