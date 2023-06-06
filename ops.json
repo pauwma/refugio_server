@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "efb6ea63-725d-3c62-a3ee-657a21f0f63d",
+    "name": "Wallasito",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "e562f111-8a90-493c-87ba-f0c17b24cbbc",
     "name": "Wallasito",
     "level": 4,
