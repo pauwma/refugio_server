@@ -74,5 +74,197 @@
     },
     "done": true
   },
+  "corail_woodcutter:recipes/from_umbran_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_time_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2023-06-07 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_redwood_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_canopy_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_hellbark_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_twilight_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_dead_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_willow_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2023-06-07 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-06-07 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_mining_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_mangrove_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "geode_plus:recipes/building_blocks/smooth_end_stone_stairs": {
+    "criteria": {
+      "has_smooth_end_stone": "2023-06-07 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2023-06-07 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2023-06-07 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-06-07 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_palm_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_cherry_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2023-06-07 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "geode_plus:recipes/building_blocks/smooth_end_stone_slab": {
+    "criteria": {
+      "has_smooth_end_stone": "2023-06-07 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-06-07 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_axe_repairing": {
+    "criteria": {
+      "has_wooden_axe": "2023-06-07 19:03:05 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_sorting_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2023-06-07 19:03:34 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_jacaranda_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_magic_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_fir_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_mahogany_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_transformation_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_dark_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-07 19:01:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
