@@ -104,24 +104,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2023-06-08 14:06:40 +0000"
-    },
-    "done": false
-  },
-  "aether:recipes/combat/bow_repairing": {
-    "criteria": {
-      "has_bow": "2023-06-08 14:06:50 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/undead_eye_recipe": {
-    "criteria": {
-      "soul": "2023-06-08 14:06:44 +0000"
-    },
-    "done": true
-  },
   "corail_woodcutter:recipes/from_hellbark_planks": {
     "criteria": {
       "has_ingredient": "2023-06-08 14:06:24 +0000"
@@ -152,39 +134,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2023-06-08 14:06:50 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_helmet_repairing": {
-    "criteria": {
-      "has_iron_helmet": "2023-06-08 14:06:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2023-06-08 14:06:38 +0000"
-    },
-    "done": true
-  },
   "corail_woodcutter:recipes/from_mangrove_planks": {
     "criteria": {
       "has_ingredient": "2023-06-08 14:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2023-06-08 14:06:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_helmet": "2023-06-08 14:06:40 +0000"
     },
     "done": true
   },
@@ -197,12 +149,6 @@
   "corail_woodcutter:recipes/from_cherry_planks": {
     "criteria": {
       "has_ingredient": "2023-06-08 14:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2023-06-08 14:06:39 +0000"
     },
     "done": true
   },
@@ -242,6 +188,54 @@
     },
     "done": true
   },
+  "corail_woodcutter:recipes/from_transformation_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-08 14:06:24 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_dark_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-08 14:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-06-08 14:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2023-06-08 14:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2023-06-08 14:06:40 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2023-06-08 14:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2023-06-08 14:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2023-06-08 14:06:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_helmet": "2023-06-08 14:06:40 +0000"
@@ -254,17 +248,47 @@
     },
     "done": true
   },
-  "corail_woodcutter:recipes/from_transformation_planks": {
+  "endrem:main/undead_eye_recipe": {
     "criteria": {
-      "has_ingredient": "2023-06-08 14:06:24 +0000"
+      "soul": "2023-06-08 14:06:44 +0000"
     },
     "done": true
   },
-  "corail_woodcutter:recipes/from_dark_planks": {
+  "aether:recipes/combat/bow_repairing": {
     "criteria": {
-      "has_ingredient": "2023-06-08 14:06:24 +0000"
+      "has_bow": "2023-06-08 14:06:50 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2023-06-08 14:06:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-06-08 16:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-06-08 16:35:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-06-08 16:40:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "glow_berries": "2023-06-08 16:35:40 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3337
 }
