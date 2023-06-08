@@ -19,7 +19,7 @@
 	# - 5s - For a message 5 seconds before a restart
 	# - 7m - For a message 7 minutes before a restart
 	# - 2h - For a message 2 hours before a restart
-	warning_times = ["5m","1m","30s","10s","5s", "4s", "3s", "2s", "1s"]
+	warning_times = ["5m", "1m", "30s", "10s", "5s", "4s", "3s", "2s", "1s"]
 
 #Options for restart, if the server is empty:
 [on_empty_restart]
