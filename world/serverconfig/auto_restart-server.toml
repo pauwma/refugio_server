@@ -2,7 +2,7 @@
 #Options for restarting:
 [restart]
 	#Is the server started by an external restart script?
-	use_external_restart_script = false
+	use_external_restart_script = true
 	#Command that is executed on Server stopped to restart the server. Only called if "[restart, use_external_restart_script]" is false.
 	restart_command = ""
 
