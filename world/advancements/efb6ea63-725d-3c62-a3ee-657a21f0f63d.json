@@ -1,334 +1,76 @@
 {
   "vanillatweaks:spectator_night_vision": {
     "criteria": {
-      "tick": "2023-06-07 16:38:57 +0000"
+      "tick": "2023-06-08 13:34:44 +0000"
     },
     "done": true
   },
   "vanillatweaks:root": {
     "criteria": {
-      "tick": "2023-06-07 16:38:57 +0000"
+      "tick": "2023-06-08 13:34:44 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2023-06-07 16:38:57 +0000"
+      "unlock_right_away": "2023-06-08 13:34:44 +0000"
     },
     "done": true
   },
   "vanillatweaks:anti_enderman_grief": {
     "criteria": {
-      "tick": "2023-06-07 16:38:57 +0000"
+      "tick": "2023-06-08 13:34:44 +0000"
     },
     "done": true
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "rocky_shrubland": "2023-06-07 16:38:57 +0000"
+      "rocky_shrubland": "2023-06-08 13:34:44 +0000"
     },
     "done": true
   },
   "vanillatweaks:name_colors": {
     "criteria": {
-      "tick": "2023-06-07 16:38:57 +0000"
+      "tick": "2023-06-08 13:34:44 +0000"
     },
     "done": true
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "rocky_shrubland": "2023-06-07 16:38:57 +0000"
+      "rocky_shrubland": "2023-06-08 13:34:44 +0000"
     },
     "done": false
   },
   "cataclysm:root": {
     "criteria": {
-      "custom_test_name": "2023-06-07 16:38:57 +0000"
+      "custom_test_name": "2023-06-08 13:34:44 +0000"
     },
     "done": true
   },
   "biomemakeover:biomemakeover/root": {
     "criteria": {
-      "enter_mushroom_fields": "2023-06-07 16:38:57 +0000",
-      "enter_swamp": "2023-06-07 16:38:57 +0000",
-      "enter_dark_forest": "2023-06-07 16:38:57 +0000",
-      "enter_badlands": "2023-06-07 16:38:57 +0000"
+      "enter_mushroom_fields": "2023-06-08 13:34:44 +0000",
+      "enter_swamp": "2023-06-08 13:34:44 +0000",
+      "enter_dark_forest": "2023-06-08 13:34:44 +0000",
+      "enter_badlands": "2023-06-08 13:34:44 +0000"
     },
     "done": true
   },
   "vanillatweaks:player_head_drops": {
     "criteria": {
-      "tick": "2023-06-07 16:38:57 +0000"
+      "tick": "2023-06-08 13:34:44 +0000"
     },
     "done": true
   },
   "vanillatweaks:more_mob_heads": {
     "criteria": {
-      "tick": "2023-06-07 16:38:57 +0000"
+      "tick": "2023-06-08 13:34:44 +0000"
     },
     "done": true
   },
   "betterdeserttemples:root": {
     "criteria": {
-      "always": "2023-06-07 16:38:57 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_umbran_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_time_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_redwood_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_canopy_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_hellbark_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_twilight_oak_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_dead_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_willow_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_mining_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_mangrove_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_palm_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_cherry_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_sorting_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_jacaranda_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_magic_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_fir_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "ironfurnaces:coal": {
-    "criteria": {
-      "rainbowcoal": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_mahogany_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_transformation_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_dark_planks": {
-    "criteria": {
-      "has_ingredient": "2023-06-07 19:01:33 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/wooden_axe_repairing": {
-    "criteria": {
-      "has_wooden_axe": "2023-06-07 19:03:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2023-06-07 19:03:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2023-06-07 19:03:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2023-06-07 19:03:34 +0000"
-    },
-    "done": true
-  },
-  "geode_plus:recipes/building_blocks/smooth_end_stone_stairs": {
-    "criteria": {
-      "has_smooth_end_stone": "2023-06-07 19:03:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2023-06-07 19:03:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2023-06-07 19:03:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2023-06-07 19:03:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2023-06-07 19:03:34 +0000"
-    },
-    "done": true
-  },
-  "geode_plus:recipes/building_blocks/smooth_end_stone_slab": {
-    "criteria": {
-      "has_smooth_end_stone": "2023-06-07 19:03:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2023-06-07 19:03:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2023-06-07 19:03:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_birch_sign_item": {
-    "criteria": {
-      "has_sign": "2023-06-08 12:50:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_crimson_sign_item": {
-    "criteria": {
-      "has_sign": "2023-06-08 12:50:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_acacia_sign_item": {
-    "criteria": {
-      "has_sign": "2023-06-08 12:50:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2023-06-08 12:49:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_jungle_sign_item": {
-    "criteria": {
-      "has_sign": "2023-06-08 12:50:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_spruce_sign_item": {
-    "criteria": {
-      "has_sign": "2023-06-08 12:50:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_sign_item": {
-    "criteria": {
-      "has_sign": "2023-06-08 12:50:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_warped_sign_item": {
-    "criteria": {
-      "has_sign": "2023-06-08 12:50:40 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_dark_oak_sign_item": {
-    "criteria": {
-      "has_sign": "2023-06-08 12:50:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2023-06-08 12:49:21 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/secret_mangrove_sign_item": {
-    "criteria": {
-      "has_sign": "2023-06-08 12:50:40 +0000"
+      "always": "2023-06-08 13:34:44 +0000"
     },
     "done": true
   },
