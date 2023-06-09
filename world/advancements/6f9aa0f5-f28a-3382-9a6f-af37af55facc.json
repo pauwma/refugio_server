@@ -308,12 +308,6 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/rope_jungle_bridge": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
-    },
-    "done": true
-  },
   "mcwpaths:recipes/warped": {
     "criteria": {
       "has_planks": "2023-06-09 11:03:05 +0000"
@@ -329,12 +323,6 @@
   "mcwbridges:recipes/dark_oak_log_bridge_stair": {
     "criteria": {
       "has_planks": "2023-06-09 11:03:05 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/deepslate_brick_bridge": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
     },
     "done": true
   },
@@ -386,12 +374,6 @@
     },
     "done": true
   },
-  "mcwdoors:recipes/acacia": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
-    },
-    "done": true
-  },
   "mcwpaths:recipes/cobbled_deepslate": {
     "criteria": {
       "has_cbl_deepslate": "2023-06-09 11:03:05 +0000"
@@ -401,12 +383,6 @@
   "mcwbridges:recipes/dry_bamboo_bridge": {
     "criteria": {
       "has_planks": "2023-06-09 11:03:05 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/crimson": {
-    "criteria": {
-      "has_crimson": "2023-06-09 11:03:06 +0000"
     },
     "done": true
   },
@@ -425,18 +401,6 @@
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2023-06-09 11:03:05 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/crimson_rope_bridge_stair": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/rope_warped_bridge": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
     },
     "done": true
   },
@@ -476,12 +440,6 @@
     },
     "done": true
   },
-  "mcwdoors:recipes/birch": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
-    },
-    "done": true
-  },
   "mcwlights:recipes/lamps_ceilings": {
     "criteria": {
       "ceiling": "2023-06-09 11:03:05 +0000"
@@ -512,12 +470,6 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/oak_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/iron_bridge_pier": {
     "criteria": {
       "has_planks": "2023-06-09 11:03:05 +0000"
@@ -530,21 +482,9 @@
     },
     "done": true
   },
-  "mcwpaths:recipes/diorite": {
-    "criteria": {
-      "has_diorite": "2023-06-09 11:03:06 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/bamboo": {
     "criteria": {
       "has_bamboo": "2023-06-09 11:03:05 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/sandstone_bridge_pier": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
     },
     "done": true
   },
@@ -581,12 +521,6 @@
   "mcwpaths:recipes/granite": {
     "criteria": {
       "has_granite": "2023-06-09 11:03:05 +0000"
-    },
-    "done": true
-  },
-  "mcwfences:recipes/spruce": {
-    "criteria": {
-      "has_spruce": "2023-06-09 11:03:06 +0000"
     },
     "done": true
   },
@@ -680,12 +614,6 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/sandstone_bridge": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/brick_bridge_pier": {
     "criteria": {
       "has_planks": "2023-06-09 11:03:05 +0000"
@@ -728,12 +656,6 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/birch_log_bridge_stair": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
-    },
-    "done": true
-  },
   "mcwdoors:recipes/mangrove": {
     "criteria": {
       "has_planks": "2023-06-09 11:03:05 +0000"
@@ -761,12 +683,6 @@
   "mcwpaths:recipes/mud_brick": {
     "criteria": {
       "has_mud_brick": "2023-06-09 11:03:05 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:iammusicplayer/add_music": {
-    "criteria": {
-      "add_music": "2023-06-09 11:04:02 +0000"
     },
     "done": true
   },
@@ -896,12 +812,6 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/warped_rail_bridge": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
-    },
-    "done": true
-  },
   "mcwfences:recipes/blackstone": {
     "criteria": {
       "has_blackstone": "2023-06-09 11:03:05 +0000"
@@ -920,45 +830,15 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/rope_oak_bridge": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/oak_rail_bridge": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
-    },
-    "done": true
-  },
   "mcwpaths:recipes/acacia": {
     "criteria": {
       "has_planks": "2023-06-09 11:03:05 +0000"
     },
     "done": true
   },
-  "mcwbridges:recipes/warped_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/mud_brick_bridge_pier": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/jungle_bridge_pier": {
     "criteria": {
       "has_planks": "2023-06-09 11:03:05 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/mud_brick_bridge_stair": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
     },
     "done": true
   },
@@ -1013,12 +893,6 @@
   "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
       "has_planks": "2023-06-09 11:03:05 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/birch_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
     },
     "done": true
   },
@@ -1118,12 +992,6 @@
     },
     "done": true
   },
-  "mcwdoors:recipes/oak": {
-    "criteria": {
-      "has_planks": "2023-06-09 11:03:06 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/rope_acacia_bridge": {
     "criteria": {
       "has_planks": "2023-06-09 11:03:05 +0000"
@@ -1208,9 +1076,141 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_jungle_bridge": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/deepslate_brick_bridge": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/crimson": {
+    "criteria": {
+      "has_crimson": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/crimson_rope_bridge_stair": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_warped_bridge": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwpaths:recipes/diorite": {
+    "criteria": {
+      "has_diorite": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwfences:recipes/spruce": {
+    "criteria": {
+      "has_spruce": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_log_bridge_stair": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_rail_bridge": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_oak_bridge": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/warped_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mud_brick_bridge_pier": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/mud_brick_bridge_stair": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/oak": {
+    "criteria": {
+      "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_planks": "2023-06-09 11:03:06 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/add_music": {
+    "criteria": {
+      "add_music": "2023-06-09 11:04:02 +0000"
     },
     "done": true
   },
