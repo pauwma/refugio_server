@@ -3280,5 +3280,23 @@
     },
     "done": false
   },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2023-06-10 12:26:48 +0000"
+    },
+    "done": true
+  },
+  "vinery:fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2023-06-10 13:00:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2023-06-10 12:48:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }

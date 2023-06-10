@@ -395,12 +395,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "rocky_shrubland": "2023-06-10 11:43:00 +0000"
-    },
-    "done": true
-  },
   "mcwpaths:recipes/birch": {
     "criteria": {
       "has_planks": "2023-06-10 11:42:59 +0000"
@@ -611,12 +605,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2023-06-10 11:53:38 +0000"
-    },
-    "done": true
-  },
   "mcwbridges:recipes/crimson_log_bridge_middle": {
     "criteria": {
       "has_planks": "2023-06-10 11:42:59 +0000"
@@ -695,12 +683,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "rocky_shrubland": "2023-06-10 11:43:00 +0000"
-    },
-    "done": false
-  },
   "iammusicplayer:iammusicplayer/root": {
     "criteria": {
       "iammusicplayer": "2023-06-10 11:42:59 +0000"
@@ -734,12 +716,6 @@
   "mcwfences:recipes/hedge": {
     "criteria": {
       "has_birch": "2023-06-10 11:42:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2023-06-10 11:53:38 +0000"
     },
     "done": true
   },
@@ -800,15 +776,6 @@
   "mcwbridges:recipes/mud_brick_bridge_stair": {
     "criteria": {
       "has_planks": "2023-06-10 11:42:59 +0000"
-    },
-    "done": true
-  },
-  "biomemakeover:biomemakeover/root": {
-    "criteria": {
-      "enter_mushroom_fields": "2023-06-10 11:43:00 +0000",
-      "enter_swamp": "2023-06-10 11:43:00 +0000",
-      "enter_dark_forest": "2023-06-10 11:43:00 +0000",
-      "enter_badlands": "2023-06-10 11:43:00 +0000"
     },
     "done": true
   },
@@ -1121,6 +1088,46 @@
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_planks": "2023-06-10 11:42:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "rocky_shrubland": "2023-06-10 11:43:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2023-06-10 12:44:33 +0000",
+      "rocky_shrubland": "2023-06-10 11:43:00 +0000"
+    },
+    "done": false
+  },
+  "biomemakeover:biomemakeover/root": {
+    "criteria": {
+      "enter_mushroom_fields": "2023-06-10 11:43:00 +0000",
+      "enter_swamp": "2023-06-10 11:43:00 +0000",
+      "enter_dark_forest": "2023-06-10 11:43:00 +0000",
+      "enter_badlands": "2023-06-10 11:43:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2023-06-10 11:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-06-10 11:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2023-06-10 12:45:24 +0000"
     },
     "done": true
   },
