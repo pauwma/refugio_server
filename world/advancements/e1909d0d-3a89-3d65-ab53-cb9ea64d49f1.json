@@ -1099,7 +1099,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "rocky_shrubland": "2023-06-10 12:54:57 +0000"
+      "rocky_shrubland": "2023-06-10 12:54:57 +0000",
+      "lavender_forest": "2023-06-11 15:38:33 +0000"
     },
     "done": false
   },
