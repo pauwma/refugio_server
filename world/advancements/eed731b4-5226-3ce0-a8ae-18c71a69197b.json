@@ -1110,19 +1110,24 @@
       "maple_woods": "2023-06-11 21:11:54 +0000",
       "field": "2023-06-11 21:38:12 +0000",
       "orchard": "2023-06-11 20:57:42 +0000",
+      "lavender_forest": "2023-06-12 12:26:22 +0000",
       "coniferous_forest": "2023-06-11 21:51:10 +0000",
       "forested_field": "2023-06-11 22:14:29 +0000",
       "spider_nest": "2023-06-11 20:58:01 +0000",
       "redwood_forest": "2023-06-11 20:56:30 +0000",
       "cherry_blossom_grove": "2023-06-11 21:10:31 +0000",
       "seasonal_orchard": "2023-06-11 21:02:56 +0000",
+      "dune_beach": "2023-06-12 13:58:06 +0000",
+      "highland_moor": "2023-06-12 14:16:01 +0000",
       "seasonal_forest": "2023-06-11 20:56:31 +0000",
+      "pasture": "2023-06-12 13:58:14 +0000",
       "lavender_field": "2023-06-11 20:45:19 +0000",
       "fir_clearing": "2023-06-11 22:11:51 +0000",
       "pumpkin_patch": "2023-06-11 20:59:17 +0000",
       "grassland": "2023-06-11 22:35:45 +0000",
       "prairie": "2023-06-11 20:38:13 +0000",
       "snowy_fir_clearing": "2023-06-12 10:31:26 +0000",
+      "snowy_coniferous_forest": "2023-06-12 12:40:54 +0000",
       "ominous_woods": "2023-06-11 22:17:16 +0000"
     },
     "done": false
@@ -1545,6 +1550,7 @@
       "minecraft:taiga": "2023-06-11 21:37:57 +0000",
       "minecraft:deep_ocean": "2023-06-11 22:39:18 +0000",
       "minecraft:sunflower_plains": "2023-06-11 20:38:38 +0000",
+      "minecraft:birch_forest": "2023-06-12 12:28:52 +0000",
       "minecraft:beach": "2023-06-11 22:18:20 +0000",
       "minecraft:dark_forest": "2023-06-12 10:45:39 +0000",
       "minecraft:river": "2023-06-11 20:56:45 +0000",
@@ -1682,10 +1688,14 @@
       "cooked_mutton": "2023-06-11 20:41:46 +0000",
       "sweet_berries": "2023-06-12 10:37:49 +0000",
       "cooked_beef": "2023-06-11 21:57:20 +0000",
+      "beef": "2023-06-12 13:57:35 +0000",
+      "porkchop": "2023-06-12 13:51:50 +0000",
       "tropical_fish": "2023-06-11 22:49:39 +0000",
       "spider_eye": "2023-06-11 23:03:09 +0000",
       "potato": "2023-06-12 10:41:52 +0000",
       "rabbit": "2023-06-11 21:14:16 +0000",
+      "cooked_cod": "2023-06-12 12:15:51 +0000",
+      "mutton": "2023-06-12 13:14:06 +0000",
       "bread": "2023-06-12 10:58:45 +0000",
       "salmon": "2023-06-12 01:16:41 +0000",
       "cod": "2023-06-11 22:41:25 +0000"
@@ -2258,6 +2268,7 @@
       "minecraft:spider": "2023-06-11 23:04:13 +0000",
       "minecraft:creeper": "2023-06-11 21:03:35 +0000",
       "minecraft:slime": "2023-06-12 11:37:43 +0000",
+      "minecraft:evoker": "2023-06-12 12:13:07 +0000",
       "minecraft:witch": "2023-06-11 23:00:37 +0000",
       "minecraft:stray": "2023-06-12 01:12:11 +0000",
       "minecraft:zombie": "2023-06-11 21:58:44 +0000",
@@ -5835,24 +5846,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/enderiophage": {
-    "criteria": {
-      "killed_by": "2023-06-12 11:44:12 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/ender_flu": {
-    "criteria": {
-      "all_effects": "2023-06-12 11:44:13 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/capsid": {
-    "criteria": {
-      "capsid": "2023-06-12 11:44:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2023-06-12 11:37:49 +0000"
@@ -5876,6 +5869,198 @@
       "has_slime_ball": "2023-06-12 11:37:49 +0000"
     },
     "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2023-06-12 11:44:12 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/ender_flu": {
+    "criteria": {
+      "all_effects": "2023-06-12 11:44:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2023-06-12 11:44:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2023-06-12 12:17:51 +0000"
+    },
+    "done": true
+  },
+  "vinery:white_grape_crate": {
+    "criteria": {
+      "has_white_grape": "2023-06-12 13:35:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everbright": "2023-06-12 12:30:50 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 13:00:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/falconry_glove": {
+    "criteria": {
+      "falconry_glove": "2023-06-12 14:28:45 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 13:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2023-06-12 12:06:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 13:00:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2023-06-12 12:15:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/lost_tentacle": {
+    "criteria": {
+      "capsid": "2023-06-12 13:15:00 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 13:00:05 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 13:00:05 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 13:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2023-06-12 12:15:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2023-06-12 12:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2023-06-12 13:49:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 13:00:05 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 13:00:05 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 13:00:05 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2023-06-12 13:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2023-06-12 13:00:05 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 13:00:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2023-06-12 13:41:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2023-06-12 13:00:05 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 13:00:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2023-06-12 13:49:36 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 13:00:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2023-06-12 12:48:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everbright": "2023-06-12 12:30:50 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3337
 }
