@@ -5821,27 +5821,39 @@
     },
     "done": true
   },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everbright": "2023-06-11 23:06:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2023-06-11 23:06:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everbright": "2023-06-11 23:06:33 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:everbright/get_wood": {
+    "criteria": {
+      "has_starlit_log": "2023-06-11 23:09:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_planks": {
+    "criteria": {
+      "has_item": "2023-06-11 23:09:04 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/starlit_button": {
     "criteria": {
       "has_item": "2023-06-11 23:09:30 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_pink_pane2": {
-    "criteria": {
-      "recipe_condition2": "2023-06-11 23:10:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2023-06-11 23:14:22 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/redstone/turquoise_lever": {
-    "criteria": {
-      "has_item": "2023-06-11 23:13:10 +0000"
     },
     "done": true
   },
@@ -5851,57 +5863,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab_stonecutting_turquoise_cobblestone": {
-    "criteria": {
-      "has_item": "2023-06-11 23:13:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2023-06-11 23:10:29 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:root": {
-    "criteria": {
-      "enter_everbright": "2023-06-11 23:06:33 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/starlit_stairs": {
     "criteria": {
       "has_item": "2023-06-11 23:09:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_candle": {
-    "criteria": {
-      "has_pink_dye": "2023-06-11 23:10:11 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/starlit_chest": {
-    "criteria": {
-      "has_item": "2023-06-11 23:12:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
-    "criteria": {
-      "has_pink_dye": "2023-06-11 23:10:11 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everbright/get_wood": {
-    "criteria": {
-      "has_starlit_log": "2023-06-11 23:09:04 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
-    "criteria": {
-      "has_resource": "2023-06-11 23:13:10 +0000"
     },
     "done": true
   },
@@ -5917,21 +5881,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/misc/pink_dye_from_camellia": {
-    "criteria": {
-      "has_item": "2023-06-11 23:10:06 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/misc/starlit_stick": {
     "criteria": {
       "has_item": "2023-06-11 23:09:30 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall_stonecutting_turquoise_cobblestone": {
-    "criteria": {
-      "has_item": "2023-06-11 23:13:10 +0000"
     },
     "done": true
   },
@@ -5953,33 +5905,9 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/tinted_borderless_glass_pink2": {
-    "criteria": {
-      "recipe_condition2": "2023-06-11 23:10:11 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/blue_skies_tools/starlit_sword": {
     "criteria": {
       "has_resource": "2023-06-11 23:09:30 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/starlit_planks": {
-    "criteria": {
-      "has_item": "2023-06-11 23:09:04 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_hoe": {
-    "criteria": {
-      "has_resource": "2023-06-11 23:13:10 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_pink_pane2": {
-    "criteria": {
-      "recipe_condition2": "2023-06-11 23:10:11 +0000"
     },
     "done": true
   },
@@ -5995,51 +5923,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
-    "criteria": {
-      "has_resource": "2023-06-11 23:13:10 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everbright/enter": {
-    "criteria": {
-      "enter_everbright": "2023-06-11 23:06:33 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs_stonecutting_turquoise_cobblestone": {
-    "criteria": {
-      "has_item": "2023-06-11 23:13:10 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_pink_pane2": {
-    "criteria": {
-      "recipe_condition2": "2023-06-11 23:10:11 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/blue_skies_tools/starlit_axe": {
     "criteria": {
       "has_resource": "2023-06-11 23:09:30 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_pink2": {
-    "criteria": {
-      "recipe_condition2": "2023-06-11 23:10:11 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab": {
-    "criteria": {
-      "has_item": "2023-06-11 23:13:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_pink_dye": "2023-06-11 23:10:11 +0000"
     },
     "done": true
   },
@@ -6049,27 +5935,75 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_pink2": {
-    "criteria": {
-      "recipe_condition2": "2023-06-11 23:10:11 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/starlit_fence_gate": {
     "criteria": {
       "has_item": "2023-06-11 23:09:30 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
+  "blue_skies:recipes/building_blocks/starlit_trapdoor": {
     "criteria": {
-      "has_resource": "2023-06-11 23:13:10 +0000"
+      "has_item": "2023-06-11 23:09:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton": {
+  "blue_skies:recipes/misc/pink_dye_from_camellia": {
     "criteria": {
-      "has_mutton": "2023-06-11 23:14:22 +0000"
+      "has_item": "2023-06-11 23:10:06 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pink_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-11 23:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2023-06-11 23:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2023-06-11 23:10:11 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-11 23:10:11 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_pink_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-11 23:10:11 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_pink_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-11 23:10:11 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_pink2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-11 23:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_pink_dye": "2023-06-11 23:10:11 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-11 23:10:11 +0000"
     },
     "done": true
   },
@@ -6079,21 +6013,87 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/starlit_ladder": {
-    "criteria": {
-      "has_item": "2023-06-11 23:12:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_pink_dye": "2023-06-11 23:10:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_mutton": "2023-06-11 23:14:22 +0000"
+      "has_snowball": "2023-06-11 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2023-06-11 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_chest": {
+    "criteria": {
+      "has_item": "2023-06-11 23:12:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_ladder": {
+    "criteria": {
+      "has_item": "2023-06-11 23:12:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/turquoise_lever": {
+    "criteria": {
+      "has_item": "2023-06-11 23:13:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-11 23:13:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
+    "criteria": {
+      "has_resource": "2023-06-11 23:13:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-11 23:13:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-11 23:13:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
+    "criteria": {
+      "has_resource": "2023-06-11 23:13:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-11 23:13:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab": {
+    "criteria": {
+      "has_item": "2023-06-11 23:13:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-11 23:13:10 +0000"
     },
     "done": true
   },
@@ -6127,21 +6127,99 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/starlit_trapdoor": {
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
-      "has_item": "2023-06-11 23:09:30 +0000"
+      "has_mutton": "2023-06-11 23:14:22 +0000"
     },
     "done": true
   },
-  "blue_skies:thinking_with_portals": {
+  "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
-      "enter_everbright": "2023-06-11 23:06:33 +0000"
+      "has_mutton": "2023-06-11 23:14:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
-      "has_snowball": "2023-06-11 23:10:29 +0000"
+      "has_mutton": "2023-06-11 23:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-06-11 23:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-06-11 23:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-06-11 23:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-06-11 23:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-06-11 23:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-06-11 23:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-06-11 23:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-06-11 23:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-06-11 23:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-06-11 23:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-06-11 23:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-06-11 23:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2023-06-11 23:34:33 +0000"
     },
     "done": true
   },
