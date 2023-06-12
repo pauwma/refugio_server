@@ -1496,7 +1496,9 @@
       "cooked_porkchop": "2023-06-11 22:36:00 +0000",
       "cooked_beef": "2023-06-11 16:45:47 +0000",
       "baked_potato": "2023-06-11 20:50:31 +0000",
-      "bread": "2023-06-11 16:18:47 +0000"
+      "bread": "2023-06-11 16:18:47 +0000",
+      "rotten_flesh": "2023-06-12 00:37:21 +0000",
+      "cooked_chicken": "2023-06-12 00:38:17 +0000"
     },
     "done": false
   },
@@ -2272,6 +2274,7 @@
       "minecraft:river": "2023-06-11 17:48:23 +0000",
       "minecraft:stony_shore": "2023-06-11 20:32:19 +0000",
       "minecraft:dripstone_caves": "2023-06-11 17:10:14 +0000",
+      "minecraft:snowy_taiga": "2023-06-12 01:03:33 +0000",
       "minecraft:jagged_peaks": "2023-06-11 22:25:27 +0000",
       "minecraft:cold_ocean": "2023-06-11 20:32:23 +0000",
       "minecraft:forest": "2023-06-11 18:29:54 +0000",
@@ -7070,6 +7073,120 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2023-06-11 23:21:25 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_mat": {
+    "criteria": {
+      "has_bamboo": "2023-06-12 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2023-06-12 00:36:48 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2023-06-12 00:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2023-06-12 00:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-06-12 00:34:32 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2023-06-12 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo/bamboo_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/bamboo_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-12 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2023-06-12 00:43:21 +0000"
     },
     "done": true
   },

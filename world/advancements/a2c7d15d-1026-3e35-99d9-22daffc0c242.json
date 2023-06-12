@@ -7000,5 +7000,71 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2023-06-12 00:05:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2023-06-12 00:05:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_turquoise_stonebrick_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2023-06-12 00:05:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2023-06-12 00:05:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2023-06-12 00:05:45 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/moth_blossom": {
+    "criteria": {
+      "get_stew": "2023-06-12 00:14:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2023-06-12 00:05:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/warding_pearl": {
+    "criteria": {
+      "has_item": "2023-06-12 00:05:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/brumble_block": {
+    "criteria": {
+      "has_item": "2023-06-12 00:03:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2023-06-12 00:05:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2023-06-12 00:05:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
