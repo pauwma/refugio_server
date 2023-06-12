@@ -9175,33 +9175,21 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2023-06-12 16:26:43 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/tools/chicken_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2023-06-12 16:44:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_deepslate_wall": {
-    "criteria": {
-      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks": {
-    "criteria": {
-      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/tools/blaze_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2023-06-12 16:44:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
-    "criteria": {
-      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
     },
     "done": true
   },
@@ -9238,12 +9226,6 @@
   "travelersbackpack:recipes/tools/wolf_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2023-06-12 16:44:57 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
-    "criteria": {
-      "has_flower": "2023-06-12 17:39:29 +0000"
     },
     "done": true
   },
@@ -9301,18 +9283,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/ventium_bucket": {
-    "criteria": {
-      "has_item": "2023-06-12 17:50:46 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/tools/dragon_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2023-06-12 16:44:57 +0000"
@@ -9325,33 +9295,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_sword_repairing": {
-    "criteria": {
-      "has_diamond_sword": "2023-06-12 17:07:23 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/tools/skeleton_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2023-06-12 16:44:57 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/tool_box": {
-    "criteria": {
-      "has_item": "2023-06-12 17:50:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
     },
     "done": true
   },
@@ -9373,33 +9319,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
-    "criteria": {
-      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/ventium_shears": {
-    "criteria": {
-      "has_item": "2023-06-12 17:50:46 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:iammusicplayer/add_music": {
-    "criteria": {
-      "add_music": "2023-06-12 17:18:39 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/tools/cow_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2023-06-12 16:44:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2023-06-12 16:45:06 +0000"
     },
     "done": true
   },
@@ -9412,18 +9334,6 @@
   "travelersbackpack:recipes/tools/cactus_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2023-06-12 16:44:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
     },
     "done": true
   },
@@ -9457,27 +9367,9 @@
     },
     "done": true
   },
-  "blue_skies:everbright/get_ventium": {
-    "criteria": {
-      "obtain_material": "2023-06-12 17:50:46 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/tools/netherite_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2023-06-12 16:44:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2023-06-12 17:47:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
     },
     "done": true
   },
@@ -9487,39 +9379,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/tools/cake_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2023-06-12 16:44:57 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/anvil_compat": {
-    "criteria": {
-      "has_item": "2023-06-12 17:50:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/tools/enderman_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2023-06-12 16:44:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
     },
     "done": true
   },
@@ -9541,12 +9409,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
-    "criteria": {
-      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/tools/iron_golem_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2023-06-12 16:44:57 +0000"
@@ -9556,12 +9418,6 @@
   "travelersbackpack:recipes/tools/redstone_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2023-06-12 16:44:57 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2023-06-12 16:26:43 +0000"
     },
     "done": true
   },
@@ -9577,15 +9433,99 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/ventium_block": {
-    "criteria": {
-      "has_item": "2023-06-12 17:50:46 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/tools/melon_smithing_diamond": {
     "criteria": {
       "has_diamond_tier_upgrade": "2023-06-12 16:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2023-06-12 16:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2023-06-12 16:56:51 +0000"
     },
     "done": true
   },
@@ -9595,9 +9535,93 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2023-06-12 17:07:23 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/add_music": {
+    "criteria": {
+      "add_music": "2023-06-12 17:18:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_flower": "2023-06-12 17:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-06-12 17:47:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2023-06-12 17:50:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2023-06-12 17:50:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2023-06-12 17:50:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2023-06-12 17:50:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2023-06-12 17:50:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2023-06-12 17:50:46 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
     "criteria": {
       "has_item": "2023-06-12 17:50:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-06-12 18:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-06-12 18:18:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2023-06-12 18:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2023-06-12 18:18:40 +0000"
     },
     "done": true
   },

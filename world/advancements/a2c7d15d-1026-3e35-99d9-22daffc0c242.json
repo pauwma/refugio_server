@@ -10022,12 +10022,6 @@
     },
     "done": true
   },
-  "twigs:recipes/copper_pillar/copper_pillar_stonecutting": {
-    "criteria": {
-      "has_cut_copper_slab": "2023-06-12 17:50:44 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_trophy": "2023-06-12 17:46:09 +0000"
@@ -10046,12 +10040,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2023-06-12 17:50:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-06-12 17:46:09 +0000"
@@ -10064,39 +10052,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2023-06-12 17:50:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2023-06-12 17:46:09 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/diopside_axe": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:50:43 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/diopside_leggings": {
-    "criteria": {
-      "has_item": "2023-06-12 17:50:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2023-06-12 17:50:44 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:50:43 +0000"
     },
     "done": true
   },
@@ -10106,27 +10064,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/diopside_sword": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:50:43 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_trophy": "2023-06-12 17:46:09 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/diopside_chestplate": {
-    "criteria": {
-      "has_item": "2023-06-12 17:50:43 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:50:43 +0000"
     },
     "done": true
   },
@@ -10139,12 +10079,6 @@
   "handcrafted:recipes/misc/skeleton_trophy": {
     "criteria": {
       "has_trophy": "2023-06-12 17:46:09 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/diopside_helmet": {
-    "criteria": {
-      "has_item": "2023-06-12 17:50:43 +0000"
     },
     "done": true
   },
@@ -10166,24 +10100,6 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/diopside_boots": {
-    "criteria": {
-      "has_item": "2023-06-12 17:50:43 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/diopside_pickaxe": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:50:43 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:get_diopside": {
-    "criteria": {
-      "obtain_material": "2023-06-12 17:50:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2023-06-12 17:46:09 +0000"
@@ -10196,21 +10112,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2023-06-12 17:50:44 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/columns/stone_column_stonecutting": {
     "criteria": {
       "has_item": "2023-06-12 17:46:09 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/diopside_block": {
-    "criteria": {
-      "has_item": "2023-06-12 17:50:43 +0000"
     },
     "done": true
   },
@@ -10226,12 +10130,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2023-06-12 17:50:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-06-12 17:46:09 +0000"
@@ -10241,12 +10139,6 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2023-06-12 17:46:09 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keypad_item": {
-    "criteria": {
-      "has_stone_button": "2023-06-12 17:46:11 +0000"
     },
     "done": true
   },
@@ -10268,9 +10160,225 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2023-06-12 17:46:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_axe": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:50:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_leggings": {
+    "criteria": {
+      "has_item": "2023-06-12 17:50:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:50:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_sword": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:50:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_chestplate": {
+    "criteria": {
+      "has_item": "2023-06-12 17:50:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:50:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_helmet": {
+    "criteria": {
+      "has_item": "2023-06-12 17:50:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_boots": {
+    "criteria": {
+      "has_item": "2023-06-12 17:50:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:50:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_diopside": {
+    "criteria": {
+      "obtain_material": "2023-06-12 17:50:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/diopside_block": {
+    "criteria": {
+      "has_item": "2023-06-12 17:50:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/copper_pillar_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2023-06-12 17:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-06-12 17:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2023-06-12 17:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2023-06-12 17:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-06-12 17:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2023-06-12 17:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2023-06-12 17:50:44 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2023-06-12 18:18:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2023-06-12 18:18:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2023-06-12 18:30:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall": {
+    "criteria": {
+      "has_item": "2023-06-12 18:18:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2023-06-12 18:18:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_wall_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2023-06-12 18:18:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2023-06-12 18:18:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2023-06-12 18:30:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2023-06-12 18:18:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab": {
+    "criteria": {
+      "has_item": "2023-06-12 18:18:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2023-06-12 18:18:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_bricks": {
+    "criteria": {
+      "has_item": "2023-06-12 18:18:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_slab_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2023-06-12 18:18:11 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite": {
+    "criteria": {
+      "has_item": "2023-06-12 18:18:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs": {
+    "criteria": {
+      "has_item": "2023-06-12 18:18:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2023-06-12 18:18:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2023-06-12 18:18:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/basalt_blocks/smooth_basalt_brick_stairs_from_smooth_basalt_stonecutting": {
+    "criteria": {
+      "has_item": "2023-06-12 18:18:11 +0000"
     },
     "done": true
   },
