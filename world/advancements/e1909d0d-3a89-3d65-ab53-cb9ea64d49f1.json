@@ -8398,15 +8398,15 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/bluebright_chest": {
-    "criteria": {
-      "has_item": "2023-06-12 10:59:54 +0000"
-    },
-    "done": true
-  },
   "blue_skies:progression/unlock_nature_key_trade": {
     "criteria": {
       "click_keystone": "2023-06-12 10:56:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_chest": {
+    "criteria": {
+      "has_item": "2023-06-12 10:59:54 +0000"
     },
     "done": true
   },
@@ -8437,6 +8437,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2023-06-12 11:07:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone": {
+    "criteria": {
+      "has_item": "2023-06-12 11:29:04 +0000"
     },
     "done": true
   },

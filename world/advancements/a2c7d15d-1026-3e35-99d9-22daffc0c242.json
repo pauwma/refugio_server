@@ -8603,5 +8603,23 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2023-06-12 11:56:48 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_from_block": {
+    "criteria": {
+      "has_item": "2023-06-12 11:43:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2023-06-12 11:56:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
