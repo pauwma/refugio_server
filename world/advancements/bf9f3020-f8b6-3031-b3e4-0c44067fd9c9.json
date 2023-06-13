@@ -4782,7 +4782,9 @@
     "criteria": {
       "twilight_oak_chest": "2023-06-12 15:46:25 +0000",
       "twilight_oak_planks": "2023-06-12 15:40:14 +0000",
-      "twilight_oak_log": "2023-06-12 15:40:02 +0000"
+      "twilight_oak_log": "2023-06-12 15:40:02 +0000",
+      "twilight_oak_sapling": "2023-06-13 17:32:26 +0000",
+      "twilight_oak_boat": "2023-06-13 15:31:50 +0000"
     },
     "done": false
   },
@@ -5345,9 +5347,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+  "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "has_black_dye": "2023-06-12 17:39:53 +0000"
+      "kill_lich": "2023-06-12 16:14:44 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2023-06-12 16:14:44 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2023-06-12 16:14:44 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2023-06-12 16:15:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2023-06-12 16:15:00 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/lifedrain_scepter": {
+    "criteria": {
+      "has_item": "2023-06-12 16:15:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2023-06-12 16:15:00 +0000"
     },
     "done": true
   },
@@ -5363,159 +5401,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/bluebright_spear": {
-    "criteria": {
-      "has_item": "2023-06-12 16:55:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/pyrope_block": {
-    "criteria": {
-      "has_item": "2023-06-12 16:54:41 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_chest": {
-    "criteria": {
-      "has_item": "2023-06-12 17:01:04 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/aquite_hoe": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:07:47 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/transportation/sorting_chest_boat": {
-    "criteria": {
-      "has_boat": "2023-06-12 16:59:51 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/redstone/turquoise_lever": {
-    "criteria": {
-      "has_item": "2023-06-12 16:53:52 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/palm_chest_boat": {
-    "criteria": {
-      "has_boat": "2023-06-12 16:59:51 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2023-06-12 17:39:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/rimestone_slab_stonecutting_rimestone": {
-    "criteria": {
-      "has_item": "2023-06-12 17:12:28 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab_stonecutting_turquoise_cobblestone": {
-    "criteria": {
-      "has_item": "2023-06-12 16:53:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_fence_gate": {
-    "criteria": {
-      "has_item": "2023-06-12 17:01:00 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/polished_rimestone": {
-    "criteria": {
-      "has_item": "2023-06-12 17:12:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2023-06-12 16:59:51 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/charoite_shovel": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:26:29 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/rimestone_stairs_stonecutting_rimestone": {
-    "criteria": {
-      "has_item": "2023-06-12 17:12:28 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/maple_spear": {
-    "criteria": {
-      "has_item": "2023-06-12 16:55:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/charoite_hoe": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:26:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2023-06-12 16:59:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2023-06-12 16:31:40 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/snowcap_mushroom_block": {
-    "criteria": {
-      "has_item": "2023-06-12 17:15:15 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_sign": {
-    "criteria": {
-      "has_item": "2023-06-12 17:01:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2023-06-12 16:59:51 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_brown": {
     "criteria": {
       "has_brown_wool": "2023-06-12 16:18:03 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/charoite_block": {
-    "criteria": {
-      "has_item": "2023-06-12 17:26:29 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/pyrope_helmet": {
-    "criteria": {
-      "has_item": "2023-06-12 16:54:41 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/diopside_axe": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:08:22 +0000"
     },
     "done": true
   },
@@ -5525,15 +5413,225 @@
     },
     "done": true
   },
-  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smelting_municipal_monkfish": {
+  "handcrafted:recipes/misc/brown_sheet": {
     "criteria": {
-      "has_item": "2023-06-12 17:02:33 +0000"
+      "has_sheet": "2023-06-12 16:18:03 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/combat/diopside_leggings": {
+  "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
-      "has_item": "2023-06-12 17:08:22 +0000"
+      "has_brown_wool": "2023-06-12 16:18:03 +0000"
+    },
+    "done": true
+  },
+  "vinery:vinemaker_boots": {
+    "criteria": {
+      "has_brown_wool": "2023-06-12 16:18:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_cushion": {
+    "criteria": {
+      "has_cushion": "2023-06-12 16:18:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2023-06-12 16:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2023-06-12 16:26:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-06-12 16:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2023-06-12 16:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2023-06-12 16:37:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2023-06-12 16:37:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2023-06-12 16:38:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2023-06-12 16:39:41 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:chiselsandbits/root": {
+    "criteria": {
+      "chisel": "2023-06-12 16:40:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/warding_pearl": {
+    "criteria": {
+      "has_item": "2023-06-12 16:51:59 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/turquoise_lever": {
+    "criteria": {
+      "has_item": "2023-06-12 16:53:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-12 16:53:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
+    "criteria": {
+      "has_resource": "2023-06-12 16:53:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-12 16:53:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-12 16:53:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
+    "criteria": {
+      "has_resource": "2023-06-12 16:53:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-12 16:53:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab": {
+    "criteria": {
+      "has_item": "2023-06-12 16:53:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-12 16:53:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/furnace_compat": {
+    "criteria": {
+      "has_item": "2023-06-12 16:53:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone_from_smelting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-12 16:53:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-12 16:53:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs": {
+    "criteria": {
+      "has_item": "2023-06-12 16:53:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall": {
+    "criteria": {
+      "has_item": "2023-06-12 16:53:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_from_smelting_raw_aquite": {
+    "criteria": {
+      "has_item": "2023-06-12 16:54:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/raw_aquite_block_from_raw_aquite": {
+    "criteria": {
+      "has_item": "2023-06-12 16:54:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_from_blasting_raw_aquite": {
+    "criteria": {
+      "has_item": "2023-06-12 16:54:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/raw_falsite_block_from_raw_falsite": {
+    "criteria": {
+      "has_item": "2023-06-12 16:54:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/falsite_ingot_from_smelting_raw_falsite": {
+    "criteria": {
+      "has_item": "2023-06-12 16:54:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/falsite_ingot_from_blasting_raw_falsite": {
+    "criteria": {
+      "has_item": "2023-06-12 16:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2023-06-12 16:54:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/pyrope_block": {
+    "criteria": {
+      "has_item": "2023-06-12 16:54:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_helmet": {
+    "criteria": {
+      "has_item": "2023-06-12 16:54:41 +0000"
     },
     "done": true
   },
@@ -5543,9 +5641,171 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/bluebright_planks": {
+  "blue_skies:recipes/blue_skies_tools/pyrope_axe": {
     "criteria": {
-      "has_item": "2023-06-12 17:00:49 +0000"
+      "has_resource": "2023-06-12 16:54:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_ingot_from_blasting_raw_ventium": {
+    "criteria": {
+      "has_item": "2023-06-12 16:54:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-12 16:54:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_ingot_from_smelting_raw_ventium": {
+    "criteria": {
+      "has_item": "2023-06-12 16:54:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-12 16:54:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_boots": {
+    "criteria": {
+      "has_item": "2023-06-12 16:54:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_sword": {
+    "criteria": {
+      "has_resource": "2023-06-12 16:54:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_leggings": {
+    "criteria": {
+      "has_item": "2023-06-12 16:54:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-12 16:54:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/raw_ventium_block_from_raw_ventium": {
+    "criteria": {
+      "has_item": "2023-06-12 16:54:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_chestplate": {
+    "criteria": {
+      "has_item": "2023-06-12 16:54:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2023-06-12 16:55:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2023-06-12 16:55:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2023-06-12 16:55:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2023-06-12 16:55:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2023-06-12 16:55:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2023-06-12 16:55:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2023-06-12 16:55:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2023-06-12 16:55:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/cherry_spear": {
+    "criteria": {
+      "has_item": "2023-06-12 16:55:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2023-06-12 16:55:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2023-06-12 16:55:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone": {
+    "criteria": {
+      "has_item": "2023-06-12 16:56:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-06-12 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-06-12 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-06-12 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-06-12 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-06-12 16:59:51 +0000"
     },
     "done": true
   },
@@ -5561,171 +5821,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/frostbright_spear": {
-    "criteria": {
-      "has_item": "2023-06-12 16:55:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/charoite_chestplate": {
-    "criteria": {
-      "has_item": "2023-06-12 17:26:29 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/taratite_wall": {
-    "criteria": {
-      "has_item": "2023-06-12 17:04:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/aether_iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_gloves": "2023-06-12 16:37:41 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/rimestone_wall_stonecutting_rimestone": {
-    "criteria": {
-      "has_item": "2023-06-12 17:12:28 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/lunar_spear": {
-    "criteria": {
-      "has_item": "2023-06-12 16:55:06 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_black_pane2": {
-    "criteria": {
-      "recipe_condition2": "2023-06-12 17:39:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everbright/craft_snowcap_oven": {
-    "criteria": {
-      "obtain_oven": "2023-06-12 17:38:56 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/aquite_axe": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:07:47 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everbright/get_wood": {
-    "criteria": {
-      "has_bluebright_log": "2023-06-12 17:00:49 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
-    "criteria": {
-      "has_item": "2023-06-12 16:55:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/rimestone_stairs": {
-    "criteria": {
-      "has_item": "2023-06-12 17:12:28 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/aquite_sword": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:07:47 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
-    "criteria": {
-      "has_resource": "2023-06-12 16:53:52 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_leggings_repairing": {
-    "criteria": {
-      "has_golden_leggings": "2023-06-12 16:15:00 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2023-06-12 17:39:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/lich_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2023-06-12 16:15:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2023-06-12 16:26:36 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2023-06-12 16:59:51 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:08:22 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_ladder": {
-    "criteria": {
-      "has_item": "2023-06-12 17:01:04 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/charoite_boots": {
-    "criteria": {
-      "has_item": "2023-06-12 17:26:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/aether_iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_gloves": "2023-06-12 16:37:41 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/pyrope_axe": {
-    "criteria": {
-      "has_resource": "2023-06-12 16:54:41 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_fence": {
-    "criteria": {
-      "has_item": "2023-06-12 17:01:00 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/diopside_sword": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:08:22 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/lifedrain_scepter": {
-    "criteria": {
-      "has_item": "2023-06-12 16:15:00 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/polished_taratite_stonecutting_taratite": {
-    "criteria": {
-      "has_item": "2023-06-12 17:04:27 +0000"
     },
     "done": true
   },
@@ -5741,219 +5839,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/charoite_leggings": {
-    "criteria": {
-      "has_item": "2023-06-12 17:26:29 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_slab": {
-    "criteria": {
-      "has_item": "2023-06-12 17:01:00 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/moonstone_from_shard": {
-    "criteria": {
-      "has_item": "2023-06-12 16:55:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/bluebright_stick": {
-    "criteria": {
-      "has_item": "2023-06-12 17:01:00 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/dusk_spear": {
-    "criteria": {
-      "has_item": "2023-06-12 16:55:06 +0000"
-    },
-    "done": true
-  },
-  "chiselsandbits:chiselsandbits/root": {
-    "criteria": {
-      "chisel": "2023-06-12 16:40:50 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/taratite_slab_stonecutting_taratite": {
-    "criteria": {
-      "has_item": "2023-06-12 17:04:27 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/ventium_ingot_from_blasting_raw_ventium": {
-    "criteria": {
-      "has_item": "2023-06-12 16:54:41 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/brown_sheet": {
-    "criteria": {
-      "has_sheet": "2023-06-12 16:18:03 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/taratite_slab": {
-    "criteria": {
-      "has_item": "2023-06-12 17:04:27 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/diopside_chestplate": {
-    "criteria": {
-      "has_item": "2023-06-12 17:08:22 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:08:22 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/bone_meal_from_azulfo": {
-    "criteria": {
-      "has_item": "2023-06-12 17:00:36 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/pyrope_hoe": {
-    "criteria": {
-      "has_resource": "2023-06-12 16:54:41 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/charoite_axe": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:26:29 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/aquite_shovel": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:07:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_black_dye": "2023-06-12 17:39:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/ventium_ingot_from_smelting_raw_ventium": {
-    "criteria": {
-      "has_item": "2023-06-12 16:54:41 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/aquite_leggings": {
-    "criteria": {
-      "has_item": "2023-06-12 17:07:47 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/scratched_glass_black_pane2": {
-    "criteria": {
-      "recipe_condition2": "2023-06-12 17:39:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/charoite_pickaxe": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:26:29 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/bluebright_shovel": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:01:00 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall_stonecutting_turquoise_cobblestone": {
-    "criteria": {
-      "has_item": "2023-06-12 16:53:52 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2023-06-12 17:39:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/aquite_from_smelting_raw_aquite": {
-    "criteria": {
-      "has_item": "2023-06-12 16:54:12 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/tinted_borderless_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2023-06-12 17:39:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/rimestone_wall": {
-    "criteria": {
-      "has_item": "2023-06-12 17:12:28 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/charoite_from_smelting_raw_charoite": {
-    "criteria": {
-      "has_item": "2023-06-12 17:15:56 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_door": {
-    "criteria": {
-      "has_item": "2023-06-12 17:01:00 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/bluebright_sword": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:01:00 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/diopside_helmet": {
-    "criteria": {
-      "has_item": "2023-06-12 17:08:22 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/raw_falsite_block_from_raw_falsite": {
-    "criteria": {
-      "has_item": "2023-06-12 16:54:25 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/aquite_boots": {
-    "criteria": {
-      "has_item": "2023-06-12 17:07:47 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2023-06-12 16:59:51 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_trophy_pedestal": {
-    "criteria": {
-      "kill_lich": "2023-06-12 16:14:44 +0000"
-    },
-    "done": false
-  },
-  "blue_skies:recipes/combat/starlit_spear": {
-    "criteria": {
-      "has_item": "2023-06-12 16:55:06 +0000"
     },
     "done": true
   },
@@ -5963,45 +5851,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/starlit_planks": {
-    "criteria": {
-      "has_item": "2023-06-12 17:33:25 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/charoite_helmet": {
-    "criteria": {
-      "has_item": "2023-06-12 17:26:29 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
-    "criteria": {
-      "has_resource": "2023-06-12 16:54:41 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:enter_blinding_dungeon": {
-    "criteria": {
-      "entered_everbright_blinding_dungeon": "2023-06-12 17:24:29 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_labyrinth": {
-    "criteria": {
-      "kill_lich": "2023-06-12 16:14:44 +0000"
-    },
-    "done": false
-  },
   "biomesoplenty:recipes/magic_chest_boat": {
     "criteria": {
       "has_boat": "2023-06-12 16:59:51 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_hoe": {
-    "criteria": {
-      "has_resource": "2023-06-12 16:53:52 +0000"
     },
     "done": true
   },
@@ -6011,75 +5863,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2023-06-12 16:18:03 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/cherry_spear": {
-    "criteria": {
-      "has_item": "2023-06-12 16:55:06 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2023-06-12 16:59:51 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/taratite_stairs": {
-    "criteria": {
-      "has_item": "2023-06-12 17:04:27 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/warding_pearl": {
-    "criteria": {
-      "has_item": "2023-06-12 16:51:59 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/canopy_chest_boat": {
     "criteria": {
       "has_boat": "2023-06-12 16:59:51 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/diopside_boots": {
-    "criteria": {
-      "has_item": "2023-06-12 17:08:22 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/falsite_ingot_from_smelting_raw_falsite": {
-    "criteria": {
-      "has_item": "2023-06-12 16:54:25 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:get_moonstone_shard": {
-    "criteria": {
-      "obtain_moonstone_shard": "2023-06-12 16:55:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_stone": {
-    "criteria": {
-      "has_item": "2023-06-12 16:56:27 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/polished_taratite": {
-    "criteria": {
-      "has_item": "2023-06-12 17:04:27 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
-    "criteria": {
-      "has_resource": "2023-06-12 16:53:52 +0000"
     },
     "done": true
   },
@@ -6095,171 +5887,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/enchanting_table_compat": {
-    "criteria": {
-      "has_item": "2023-06-12 17:26:29 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/diopside_pickaxe": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:08:22 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:get_diopside": {
-    "criteria": {
-      "obtain_material": "2023-06-12 17:08:22 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
-    "criteria": {
-      "recipe_condition2": "2023-06-12 17:39:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/redstone/bluebright_button": {
-    "criteria": {
-      "has_item": "2023-06-12 17:01:00 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs_stonecutting_turquoise_cobblestone": {
-    "criteria": {
-      "has_item": "2023-06-12 16:53:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/redstone/bluebright_pressure_plate": {
-    "criteria": {
-      "has_item": "2023-06-12 17:01:00 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smoking_municipal_monkfish": {
-    "criteria": {
-      "has_item": "2023-06-12 17:02:33 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/pyrope_boots": {
-    "criteria": {
-      "has_item": "2023-06-12 16:54:41 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_crafting_table": {
-    "criteria": {
-      "has_item": "2023-06-12 17:01:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2023-06-12 16:54:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:get_aquite": {
-    "criteria": {
-      "obtain_material": "2023-06-12 17:07:47 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/bluebright_axe": {
-    "criteria": {
-      "has_resource": "2023-06-12 17:01:00 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_chestplate_repairing": {
-    "criteria": {
-      "has_golden_chestplate": "2023-06-12 16:15:00 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab": {
-    "criteria": {
-      "has_item": "2023-06-12 16:53:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2023-06-12 17:05:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2023-06-12 17:28:21 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/food/cooked_carabeef_from_campfire_cooking_carabeef": {
-    "criteria": {
-      "has_item": "2023-06-12 17:00:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2023-06-12 16:59:51 +0000"
-    },
-    "done": true
-  },
-  "vinery:vinemaker_boots": {
-    "criteria": {
-      "has_brown_wool": "2023-06-12 16:18:03 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/food/cooked_municipal_monkfish_from_campfire_cooking_municipal_monkfish": {
-    "criteria": {
-      "has_item": "2023-06-12 17:02:33 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/rimestone_slab": {
-    "criteria": {
-      "has_item": "2023-06-12 17:12:28 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/diopside_block": {
-    "criteria": {
-      "has_item": "2023-06-12 17:08:22 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/iron_shovel_repairing": {
-    "criteria": {
-      "has_iron_shovel": "2023-06-12 16:39:41 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_gloves_repairing": {
-    "criteria": {
-      "has_iron_gloves": "2023-06-12 16:37:41 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/combat/aquite_helmet": {
-    "criteria": {
-      "has_item": "2023-06-12 17:07:47 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/zeal_lighter": {
-    "criteria": {
-      "has_item": "2023-06-12 16:55:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/food/cooked_carabeef_from_smoking_carabeef": {
-    "criteria": {
-      "has_item": "2023-06-12 17:00:30 +0000"
     },
     "done": true
   },
@@ -6293,57 +5923,297 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-06-12 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-06-12 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-06-12 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2023-06-12 16:59:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_carabeef_from_campfire_cooking_carabeef": {
+    "criteria": {
+      "has_item": "2023-06-12 17:00:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_carabeef_from_smoking_carabeef": {
+    "criteria": {
+      "has_item": "2023-06-12 17:00:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_carabeef_from_smelting_carabeef": {
+    "criteria": {
+      "has_item": "2023-06-12 17:00:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/bone_meal_from_azulfo": {
+    "criteria": {
+      "has_item": "2023-06-12 17:00:36 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_planks": {
+    "criteria": {
+      "has_item": "2023-06-12 17:00:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_wood": {
+    "criteria": {
+      "has_bluebright_log": "2023-06-12 17:00:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_fence_gate": {
+    "criteria": {
+      "has_item": "2023-06-12 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_sign": {
+    "criteria": {
+      "has_item": "2023-06-12 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_fence": {
+    "criteria": {
+      "has_item": "2023-06-12 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_slab": {
+    "criteria": {
+      "has_item": "2023-06-12 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/bluebright_stick": {
+    "criteria": {
+      "has_item": "2023-06-12 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_door": {
+    "criteria": {
+      "has_item": "2023-06-12 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_sword": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/bluebright_button": {
+    "criteria": {
+      "has_item": "2023-06-12 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/bluebright_pressure_plate": {
+    "criteria": {
+      "has_item": "2023-06-12 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_crafting_table": {
+    "criteria": {
+      "has_item": "2023-06-12 17:01:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/bluebright_axe": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:01:00 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_tools/bluebright_pickaxe": {
     "criteria": {
       "has_resource": "2023-06-12 17:01:00 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
+  "blue_skies:recipes/building_blocks/bluebright_stairs": {
     "criteria": {
-      "has_resource": "2023-06-12 16:53:52 +0000"
+      "has_item": "2023-06-12 17:01:00 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/misc/falsite_ingot_from_blasting_raw_falsite": {
+  "blue_skies:recipes/blue_skies_tools/bluebright_hoe": {
     "criteria": {
-      "has_item": "2023-06-12 16:54:25 +0000"
+      "has_resource": "2023-06-12 17:01:00 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/pyrope_sword": {
+  "blue_skies:recipes/building_blocks/bluebright_trapdoor": {
     "criteria": {
-      "has_resource": "2023-06-12 16:54:41 +0000"
+      "has_item": "2023-06-12 17:01:00 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/combat/pyrope_leggings": {
+  "blue_skies:recipes/building_blocks/bluebright_chest": {
     "criteria": {
-      "has_item": "2023-06-12 16:54:41 +0000"
+      "has_item": "2023-06-12 17:01:04 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/raw_aquite_block_from_raw_aquite": {
+  "blue_skies:recipes/building_blocks/bluebright_ladder": {
     "criteria": {
-      "has_item": "2023-06-12 16:54:12 +0000"
+      "has_item": "2023-06-12 17:01:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smelting_municipal_monkfish": {
     "criteria": {
-      "has_black_dye": "2023-06-12 17:39:53 +0000"
+      "has_item": "2023-06-12 17:02:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smoking_municipal_monkfish": {
     "criteria": {
-      "has_lapis_block": "2023-06-12 16:25:09 +0000"
+      "has_item": "2023-06-12 17:02:33 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/misc/aquite_from_blasting_raw_aquite": {
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_campfire_cooking_municipal_monkfish": {
     "criteria": {
-      "has_item": "2023-06-12 16:54:12 +0000"
+      "has_item": "2023-06-12 17:02:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/taratite_wall": {
+    "criteria": {
+      "has_item": "2023-06-12 17:04:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/polished_taratite_stonecutting_taratite": {
+    "criteria": {
+      "has_item": "2023-06-12 17:04:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/taratite_slab_stonecutting_taratite": {
+    "criteria": {
+      "has_item": "2023-06-12 17:04:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/taratite_slab": {
+    "criteria": {
+      "has_item": "2023-06-12 17:04:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/taratite_stairs": {
+    "criteria": {
+      "has_item": "2023-06-12 17:04:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/polished_taratite": {
+    "criteria": {
+      "has_item": "2023-06-12 17:04:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/stonecutter_compat": {
+    "criteria": {
+      "has_item": "2023-06-12 17:04:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/taratite_wall_stonecutting_taratite": {
+    "criteria": {
+      "has_item": "2023-06-12 17:04:27 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/taratite_stairs_stonecutting_taratite": {
+    "criteria": {
+      "has_item": "2023-06-12 17:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2023-06-12 17:05:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:07:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_axe": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:07:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_sword": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:07:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:07:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_leggings": {
+    "criteria": {
+      "has_item": "2023-06-12 17:07:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_boots": {
+    "criteria": {
+      "has_item": "2023-06-12 17:07:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_aquite": {
+    "criteria": {
+      "obtain_material": "2023-06-12 17:07:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_helmet": {
+    "criteria": {
+      "has_item": "2023-06-12 17:07:47 +0000"
     },
     "done": true
   },
@@ -6359,99 +6229,75 @@
     },
     "done": true
   },
-  "twilightforest:progress_yeti": {
+  "blue_skies:recipes/misc/aquite_block": {
     "criteria": {
-      "previous_progression": "2023-06-12 16:14:44 +0000"
-    },
-    "done": false
-  },
-  "blue_skies:recipes/building_blocks/furnace_compat": {
-    "criteria": {
-      "has_item": "2023-06-12 16:53:52 +0000"
+      "has_item": "2023-06-12 17:07:47 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/charoite_sword": {
+  "blue_skies:recipes/blue_skies_tools/diopside_axe": {
     "criteria": {
-      "has_resource": "2023-06-12 17:26:29 +0000"
+      "has_resource": "2023-06-12 17:08:22 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/cherry_chest_boat": {
+  "blue_skies:recipes/combat/diopside_leggings": {
     "criteria": {
-      "has_boat": "2023-06-12 16:59:51 +0000"
+      "has_item": "2023-06-12 17:08:22 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/raw_charoite_block_from_raw_charoite": {
+  "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
     "criteria": {
-      "has_item": "2023-06-12 17:15:56 +0000"
+      "has_resource": "2023-06-12 17:08:22 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/pyrope_pickaxe": {
+  "blue_skies:recipes/blue_skies_tools/diopside_sword": {
     "criteria": {
-      "has_resource": "2023-06-12 16:54:41 +0000"
+      "has_resource": "2023-06-12 17:08:22 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/bluebright_stairs": {
+  "blue_skies:recipes/combat/diopside_chestplate": {
     "criteria": {
-      "has_item": "2023-06-12 17:01:00 +0000"
+      "has_item": "2023-06-12 17:08:22 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/jukebox_compat": {
+  "blue_skies:recipes/blue_skies_tools/diopside_hoe": {
     "criteria": {
-      "has_item": "2023-06-12 17:26:29 +0000"
+      "has_resource": "2023-06-12 17:08:22 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/turquoise_stone_from_smelting_turquoise_cobblestone": {
+  "blue_skies:recipes/combat/diopside_helmet": {
     "criteria": {
-      "has_item": "2023-06-12 16:53:52 +0000"
+      "has_item": "2023-06-12 17:08:22 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/stonecutter_compat": {
+  "blue_skies:recipes/combat/diopside_boots": {
     "criteria": {
-      "has_item": "2023-06-12 17:04:27 +0000"
+      "has_item": "2023-06-12 17:08:22 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/bluebright_hoe": {
+  "blue_skies:recipes/blue_skies_tools/diopside_pickaxe": {
     "criteria": {
-      "has_resource": "2023-06-12 17:01:00 +0000"
+      "has_resource": "2023-06-12 17:08:22 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/polished_rimestone_stonecutting_rimestone": {
+  "blue_skies:get_diopside": {
     "criteria": {
-      "has_item": "2023-06-12 17:12:28 +0000"
+      "obtain_material": "2023-06-12 17:08:22 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/willow_chest_boat": {
+  "blue_skies:recipes/misc/diopside_block": {
     "criteria": {
-      "has_boat": "2023-06-12 16:59:51 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/raw_ventium_block_from_raw_ventium": {
-    "criteria": {
-      "has_item": "2023-06-12 16:54:41 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
-    "criteria": {
-      "has_resource": "2023-06-12 16:53:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_black_dye": "2023-06-12 17:39:53 +0000"
+      "has_item": "2023-06-12 17:08:22 +0000"
     },
     "done": true
   },
@@ -6461,15 +6307,69 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/taratite_wall_stonecutting_taratite": {
+  "blue_skies:recipes/building_blocks/rimestone_slab_stonecutting_rimestone": {
     "criteria": {
-      "has_item": "2023-06-12 17:04:27 +0000"
+      "has_item": "2023-06-12 17:12:28 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs": {
+  "blue_skies:recipes/building_blocks/polished_rimestone": {
     "criteria": {
-      "has_item": "2023-06-12 16:53:52 +0000"
+      "has_item": "2023-06-12 17:12:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rimestone_stairs_stonecutting_rimestone": {
+    "criteria": {
+      "has_item": "2023-06-12 17:12:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rimestone_wall_stonecutting_rimestone": {
+    "criteria": {
+      "has_item": "2023-06-12 17:12:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rimestone_stairs": {
+    "criteria": {
+      "has_item": "2023-06-12 17:12:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rimestone_wall": {
+    "criteria": {
+      "has_item": "2023-06-12 17:12:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rimestone_slab": {
+    "criteria": {
+      "has_item": "2023-06-12 17:12:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/polished_rimestone_stonecutting_rimestone": {
+    "criteria": {
+      "has_item": "2023-06-12 17:12:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/snowcap_mushroom_block": {
+    "criteria": {
+      "has_item": "2023-06-12 17:15:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/charoite_from_smelting_raw_charoite": {
+    "criteria": {
+      "has_item": "2023-06-12 17:15:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/raw_charoite_block_from_raw_charoite": {
+    "criteria": {
+      "has_item": "2023-06-12 17:15:56 +0000"
     },
     "done": true
   },
@@ -6479,45 +6379,171 @@
     },
     "done": true
   },
+  "blue_skies:enter_blinding_dungeon": {
+    "criteria": {
+      "entered_everbright_blinding_dungeon": "2023-06-12 17:24:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:26:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:26:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/charoite_block": {
+    "criteria": {
+      "has_item": "2023-06-12 17:26:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/charoite_chestplate": {
+    "criteria": {
+      "has_item": "2023-06-12 17:26:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/charoite_boots": {
+    "criteria": {
+      "has_item": "2023-06-12 17:26:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/charoite_leggings": {
+    "criteria": {
+      "has_item": "2023-06-12 17:26:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_axe": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:26:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:26:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/charoite_helmet": {
+    "criteria": {
+      "has_item": "2023-06-12 17:26:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/enchanting_table_compat": {
+    "criteria": {
+      "has_item": "2023-06-12 17:26:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/charoite_sword": {
+    "criteria": {
+      "has_resource": "2023-06-12 17:26:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/jukebox_compat": {
+    "criteria": {
+      "has_item": "2023-06-12 17:26:29 +0000"
+    },
+    "done": true
+  },
   "blue_skies:get_charoite": {
     "criteria": {
       "obtain_material": "2023-06-12 17:26:29 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/bluebright_trapdoor": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_item": "2023-06-12 17:01:00 +0000"
+      "traded": "2023-06-12 17:28:21 +0000"
     },
     "done": true
   },
-  "aether:recipes/transportation/skyroot_chest_boat": {
+  "blue_skies:recipes/building_blocks/starlit_planks": {
     "criteria": {
-      "has_boat": "2023-06-12 16:59:51 +0000"
+      "has_item": "2023-06-12 17:33:25 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/firefly_jar": {
+  "blue_skies:everbright/craft_snowcap_oven": {
     "criteria": {
-      "has_item": "2023-06-12 16:38:43 +0000"
+      "obtain_oven": "2023-06-12 17:38:56 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/food/cooked_carabeef_from_smelting_carabeef": {
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
-      "has_item": "2023-06-12 17:00:30 +0000"
+      "has_black_dye": "2023-06-12 17:39:53 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/taratite_stairs_stonecutting_taratite": {
+  "connectedglass:recipes/misc/borderless_glass_black2": {
     "criteria": {
-      "has_item": "2023-06-12 17:04:27 +0000"
+      "recipe_condition2": "2023-06-12 17:39:53 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/brown_cushion": {
+  "connectedglass:recipes/misc/clear_glass_black_pane2": {
     "criteria": {
-      "has_cushion": "2023-06-12 16:18:03 +0000"
+      "recipe_condition2": "2023-06-12 17:39:53 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-12 17:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2023-06-12 17:39:53 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-12 17:39:53 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-12 17:39:53 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-12 17:39:53 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-12 17:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2023-06-12 17:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2023-06-12 17:39:53 +0000"
     },
     "done": true
   },
@@ -6527,27 +6553,873 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall": {
+  "blue_skies:recipes/building_blocks/falsite_block": {
     "criteria": {
-      "has_item": "2023-06-12 16:53:52 +0000"
+      "has_item": "2023-06-13 16:05:35 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/hellbark_chest_boat": {
+  "blue_skies:recipes/building_blocks/star_emitter": {
     "criteria": {
-      "has_boat": "2023-06-12 16:59:51 +0000"
+      "has_item": "2023-06-13 16:05:35 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/combat/pyrope_chestplate": {
+  "blue_skies:everbright/get_falsite": {
     "criteria": {
-      "has_item": "2023-06-12 16:54:41 +0000"
+      "obtain_material": "2023-06-13 16:05:35 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/misc/aquite_block": {
+  "blue_skies:recipes/misc/falsite_nugget_from_ingot": {
     "criteria": {
-      "has_item": "2023-06-12 17:07:47 +0000"
+      "has_item": "2023-06-13 16:05:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2023-06-13 16:34:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2023-06-13 16:34:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2023-06-13 16:34:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2023-06-13 16:34:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2023-06-13 16:34:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2023-06-13 16:34:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2023-06-13 16:34:16 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2023-06-13 16:39:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2023-06-13 16:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2023-06-13 16:41:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2023-06-13 16:41:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:49:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_fence": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:49:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:49:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:49:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_button": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:49:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_stairs": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:49:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_slab": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:49:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_sign": {
+    "criteria": {
+      "has_umbran_planks": "2023-06-13 16:49:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_door": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:49:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass1": {
+    "criteria": {
+      "recipe_condition": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_box": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_black_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_jar": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_magic_planks": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_orange_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_magenta_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2023-06-13 16:49:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_cushion": "2023-06-13 16:50:01 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2023-06-13 16:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2023-06-13 16:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2023-06-13 16:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2023-06-13 16:50:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2023-06-13 16:50:01 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2023-06-13 16:50:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_sheet": "2023-06-13 16:50:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2023-06-13 16:50:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2023-06-13 16:50:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2023-06-13 16:50:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2023-06-13 16:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2023-06-13 16:50:01 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2023-06-13 16:50:01 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2023-06-13 16:52:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2023-06-13 16:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2023-06-13 17:13:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_gold_block": "2023-06-13 17:13:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_gold_block": "2023-06-13 17:13:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_gold_block": "2023-06-13 17:13:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_gold_block": "2023-06-13 17:13:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2023-06-13 17:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2023-06-13 17:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2023-06-13 17:31:37 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2023-06-13 17:31:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/cherry_stick": {
+    "criteria": {
+      "has_item": "2023-06-13 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/cherry_axe": {
+    "criteria": {
+      "has_resource": "2023-06-13 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_item": "2023-06-13 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_item": "2023-06-13 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_item": "2023-06-13 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/cherry_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-13 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/cherry_sword": {
+    "criteria": {
+      "has_resource": "2023-06-13 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cherry_trapdoor": {
+    "criteria": {
+      "has_item": "2023-06-13 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cherry_sign": {
+    "criteria": {
+      "has_item": "2023-06-13 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cherry_door": {
+    "criteria": {
+      "has_item": "2023-06-13 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cherry_fence_gate": {
+    "criteria": {
+      "has_item": "2023-06-13 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cherry_fence": {
+    "criteria": {
+      "has_item": "2023-06-13 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_item": "2023-06-13 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cherry_crafting_table": {
+    "criteria": {
+      "has_item": "2023-06-13 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/cherry_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-13 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/cherry_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-13 17:36:30 +0000"
     },
     "done": true
   },

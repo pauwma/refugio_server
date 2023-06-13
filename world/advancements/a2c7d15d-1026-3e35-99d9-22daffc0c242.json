@@ -62,16 +62,29 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "muskeg": "2023-06-11 23:24:36 +0000",
+      "woodland": "2023-06-13 14:00:00 +0000",
       "shrubland": "2023-06-11 16:18:42 +0000",
       "rocky_shrubland": "2023-06-11 16:18:17 +0000",
+      "bayou": "2023-06-13 14:02:05 +0000",
       "erupting_inferno": "2023-06-12 12:28:35 +0000",
+      "floodplain": "2023-06-13 14:02:03 +0000",
       "highland": "2023-06-11 17:12:34 +0000",
+      "bamboo_grove": "2023-06-13 15:36:52 +0000",
+      "marsh": "2023-06-13 14:04:21 +0000",
+      "jade_cliffs": "2023-06-13 14:12:52 +0000",
       "clover_patch": "2023-06-11 20:12:15 +0000",
+      "wetland": "2023-06-13 14:07:38 +0000",
       "mystic_grove": "2023-06-11 18:27:44 +0000",
+      "cold_desert": "2023-06-13 13:52:42 +0000",
+      "old_growth_woodland": "2023-06-13 15:35:37 +0000",
       "maple_woods": "2023-06-11 20:10:20 +0000",
       "crystalline_chasm": "2023-06-11 16:54:08 +0000",
+      "withered_abyss": "2023-06-13 12:43:48 +0000",
       "field": "2023-06-11 18:21:25 +0000",
       "orchard": "2023-06-12 12:27:14 +0000",
+      "lavender_forest": "2023-06-13 15:34:54 +0000",
+      "mediterranean_forest": "2023-06-13 13:57:43 +0000",
+      "bog": "2023-06-13 14:07:50 +0000",
       "coniferous_forest": "2023-06-13 11:24:14 +0000",
       "forested_field": "2023-06-11 18:57:30 +0000",
       "spider_nest": "2023-06-11 18:51:06 +0000",
@@ -79,14 +92,20 @@
       "cherry_blossom_grove": "2023-06-11 17:12:01 +0000",
       "visceral_heap": "2023-06-12 12:55:32 +0000",
       "seasonal_orchard": "2023-06-13 11:18:19 +0000",
+      "dune_beach": "2023-06-13 14:03:56 +0000",
+      "highland_moor": "2023-06-13 15:08:48 +0000",
       "seasonal_forest": "2023-06-11 18:23:34 +0000",
       "dead_forest": "2023-06-11 23:17:57 +0000",
+      "volcano": "2023-06-13 15:35:45 +0000",
+      "volcanic_plains": "2023-06-13 15:36:26 +0000",
       "lavender_field": "2023-06-12 12:24:26 +0000",
       "fir_clearing": "2023-06-13 11:24:53 +0000",
       "pumpkin_patch": "2023-06-13 11:04:05 +0000",
       "grassland": "2023-06-11 18:19:44 +0000",
       "prairie": "2023-06-12 12:25:22 +0000",
       "snowy_coniferous_forest": "2023-06-11 23:26:20 +0000",
+      "snowy_fir_clearing": "2023-06-13 14:21:42 +0000",
+      "tundra": "2023-06-13 15:15:56 +0000",
       "glowing_grotto": "2023-06-11 21:35:49 +0000",
       "undergrowth": "2023-06-11 20:35:12 +0000",
       "crag": "2023-06-11 21:34:31 +0000",
@@ -1823,24 +1842,41 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2023-06-13 13:50:04 +0000",
       "minecraft:old_growth_pine_taiga": "2023-06-11 21:38:05 +0000",
       "minecraft:taiga": "2023-06-11 21:49:44 +0000",
+      "minecraft:deep_ocean": "2023-06-13 15:12:28 +0000",
       "minecraft:frozen_river": "2023-06-11 23:22:09 +0000",
+      "minecraft:birch_forest": "2023-06-13 14:14:09 +0000",
+      "minecraft:savanna_plateau": "2023-06-13 13:59:13 +0000",
       "minecraft:beach": "2023-06-13 11:53:33 +0000",
       "minecraft:dark_forest": "2023-06-11 17:25:02 +0000",
+      "minecraft:mangrove_swamp": "2023-06-13 14:02:06 +0000",
       "minecraft:river": "2023-06-11 16:23:33 +0000",
+      "minecraft:lukewarm_ocean": "2023-06-13 14:00:17 +0000",
       "minecraft:stony_shore": "2023-06-11 23:21:34 +0000",
+      "minecraft:snowy_plains": "2023-06-13 13:50:01 +0000",
       "minecraft:dripstone_caves": "2023-06-11 18:04:48 +0000",
       "minecraft:snowy_taiga": "2023-06-11 23:20:54 +0000",
       "minecraft:grove": "2023-06-11 21:36:40 +0000",
       "minecraft:cold_ocean": "2023-06-13 11:26:37 +0000",
+      "minecraft:forest": "2023-06-13 14:01:25 +0000",
       "minecraft:lush_caves": "2023-06-11 20:26:20 +0000",
       "minecraft:deep_cold_ocean": "2023-06-13 11:27:57 +0000",
+      "minecraft:ice_spikes": "2023-06-13 15:15:32 +0000",
+      "minecraft:frozen_ocean": "2023-06-13 13:48:11 +0000",
+      "minecraft:deep_frozen_ocean": "2023-06-13 15:16:58 +0000",
+      "minecraft:windswept_forest": "2023-06-13 14:09:40 +0000",
+      "minecraft:ocean": "2023-06-13 13:56:49 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-06-11 21:37:47 +0000",
+      "minecraft:snowy_beach": "2023-06-13 15:14:19 +0000",
+      "minecraft:windswept_savanna": "2023-06-13 14:02:43 +0000",
+      "minecraft:deep_lukewarm_ocean": "2023-06-13 14:00:40 +0000",
       "minecraft:flower_forest": "2023-06-12 12:25:39 +0000",
       "minecraft:old_growth_birch_forest": "2023-06-11 17:23:55 +0000",
       "minecraft:deep_dark": "2023-06-11 21:40:38 +0000",
       "minecraft:meadow": "2023-06-11 21:51:31 +0000",
+      "minecraft:savanna": "2023-06-13 13:57:46 +0000",
       "minecraft:plains": "2023-06-13 11:55:44 +0000"
     },
     "done": false
@@ -1932,6 +1968,7 @@
       "minecraft:wither_skeleton": "2023-06-11 20:32:55 +0000",
       "minecraft:cave_spider": "2023-06-11 18:57:37 +0000",
       "minecraft:piglin": "2023-06-12 12:35:27 +0000",
+      "minecraft:enderman": "2023-06-13 13:02:50 +0000",
       "minecraft:vex": "2023-06-11 17:32:51 +0000",
       "minecraft:zombie": "2023-06-11 16:34:25 +0000",
       "minecraft:zombie_villager": "2023-06-11 16:30:43 +0000"
@@ -5915,10 +5952,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2023-06-13 12:36:45 +0000",
       "minecraft:nether_wastes": "2023-06-11 20:35:08 +0000",
-      "minecraft:warped_forest": "2023-06-12 12:55:35 +0000"
+      "minecraft:soul_sand_valley": "2023-06-13 13:01:20 +0000",
+      "minecraft:warped_forest": "2023-06-12 12:55:35 +0000",
+      "minecraft:basalt_deltas": "2023-06-13 12:39:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
@@ -10699,6 +10739,715 @@
   "blue_skies:recipes/misc/winter_leaf_seeds": {
     "criteria": {
       "has_item": "2023-06-13 11:46:40 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2023-06-13 12:14:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed": "2023-06-13 12:17:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2023-06-13 12:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2023-06-13 12:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2023-06-13 12:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2023-06-13 12:50:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2023-06-13 12:55:16 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2023-06-13 13:07:10 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2023-06-13 13:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2023-06-13 13:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2023-06-13 13:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2023-06-13 13:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2023-06-13 13:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2023-06-13 13:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2023-06-13 13:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2023-06-13 13:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2023-06-13 13:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2023-06-13 13:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2023-06-13 13:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2023-06-13 13:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2023-06-13 13:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2023-06-13 13:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2023-06-13 13:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2023-06-13 13:48:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2023-06-13 14:31:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2023-06-13 14:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2023-06-13 14:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2023-06-13 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2023-06-13 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/quartz_column": {
+    "criteria": {
+      "has_item": "2023-06-13 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2023-06-13 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2023-06-13 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2023-06-13 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2023-06-13 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/quartz_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2023-06-13 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2023-06-13 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2023-06-13 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2023-06-13 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2023-06-13 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2023-06-13 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2023-06-13 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/quartz_column_stonecutting": {
+    "criteria": {
+      "has_item": "2023-06-13 16:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2023-06-13 16:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2023-06-13 16:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2023-06-13 16:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2023-06-13 16:27:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2023-06-13 16:36:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gold_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/lapis_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/stone_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/blast_furnace_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_coal_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_copper_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/copper_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/iron_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gilded_blackstone_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobblestone_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/coal_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_iron_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/remote_access_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_gold_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/redstone_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_diamond_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gravel_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_redstone_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/emerald_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/smoker_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/wire_cutters": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/netherrack_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/furnace_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/ancient_debris_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/end_stone_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/dirt_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/nether_gold_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/diamond_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/quartz_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/sand_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
+    "criteria": {
+      "has_mine": "2023-06-13 16:38:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2023-06-13 16:40:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:46:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:46:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:46:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:46:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:46:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:46:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_jacaranda_planks": "2023-06-13 16:46:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:46:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:46:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2023-06-13 17:05:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2023-06-13 17:05:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_button": {
+    "criteria": {
+      "has_block": "2023-06-13 17:08:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_spruce_stairs": {
+    "criteria": {
+      "has_block": "2023-06-13 17:08:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_pressure_plate": {
+    "criteria": {
+      "has_block": "2023-06-13 17:08:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_spruce_slab": {
+    "criteria": {
+      "has_block": "2023-06-13 17:08:28 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2023-06-13 17:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2023-06-13 17:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2023-06-13 17:20:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "twilight_oak_planks": "2023-06-13 17:21:58 +0000",
+      "twilight_oak_log": "2023-06-13 17:21:19 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2023-06-13 17:21:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2023-06-13 17:21:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_chest": {
+    "criteria": {
+      "has_item": "2023-06-13 17:21:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_gate": {
+    "criteria": {
+      "has_item": "2023-06-13 17:21:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_door": {
+    "criteria": {
+      "has_item": "2023-06-13 17:21:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_stairs": {
+    "criteria": {
+      "has_item": "2023-06-13 17:21:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_slab": {
+    "criteria": {
+      "has_item": "2023-06-13 17:21:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_button": {
+    "criteria": {
+      "has_item": "2023-06-13 17:21:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_trapdoor": {
+    "criteria": {
+      "has_item": "2023-06-13 17:21:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_sign_wood": {
+    "criteria": {
+      "has_item": "2023-06-13 17:21:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/twilight_oak_fence": {
+    "criteria": {
+      "has_item": "2023-06-13 17:21:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/twilight_oak_plate": {
+    "criteria": {
+      "has_item": "2023-06-13 17:21:58 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/rootling_seeds": {
+    "criteria": {
+      "get_stew": "2023-06-13 17:57:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_button": {
+    "criteria": {
+      "has_block": "2023-06-13 17:55:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_slab": {
+    "criteria": {
+      "has_block": "2023-06-13 17:55:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_oak_stairs": {
+    "criteria": {
+      "has_block": "2023-06-13 17:55:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
+    "criteria": {
+      "has_block": "2023-06-13 17:55:09 +0000"
     },
     "done": true
   },
