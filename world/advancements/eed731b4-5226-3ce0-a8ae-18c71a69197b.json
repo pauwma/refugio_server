@@ -6067,21 +6067,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/tools/creeper_smithing_iron": {
+  "minecraft:recipes/food/dried_kelp": {
     "criteria": {
-      "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/tools/emerald_smithing_iron": {
-    "criteria": {
-      "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/tools/spider_smithing_iron": {
-    "criteria": {
-      "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
+      "has_dried_kelp_block": "2023-06-12 22:45:50 +0000"
     },
     "done": true
   },
@@ -6097,21 +6085,21 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/tools/quartz_smithing_iron": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
+      "has_wood_slab": "2023-06-12 22:45:56 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/tools/iron_golem_smithing_iron": {
+  "twigs:recipes/tables/birch_table_slab": {
     "criteria": {
-      "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
+      "has_bamboo": "2023-06-12 22:45:56 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/tools/villager_smithing_iron": {
+  "blue_skies:recipes/building_blocks/trough": {
     "criteria": {
-      "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
+      "has_item": "2023-06-12 22:45:56 +0000"
     },
     "done": true
   },
@@ -6133,9 +6121,81 @@
     },
     "done": true
   },
-  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+  "vinery:basket": {
     "criteria": {
-      "has_lava_bucket": "2023-06-12 23:46:47 +0000"
+      "has_wheat": "2023-06-12 22:46:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:dough": {
+    "criteria": {
+      "has_wheat": "2023-06-12 22:46:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:straw_hat": {
+    "criteria": {
+      "has_wheat": "2023-06-12 22:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2023-06-12 22:46:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2023-06-12 23:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2023-06-12 23:04:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2023-06-12 23:04:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/creeper_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/emerald_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/spider_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/quartz_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/iron_golem_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/villager_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
     },
     "done": true
   },
@@ -6151,27 +6211,9 @@
     },
     "done": true
   },
-  "vinery:basket": {
-    "criteria": {
-      "has_wheat": "2023-06-12 22:46:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2023-06-12 23:46:47 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/tools/redstone_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2023-06-12 23:04:57 +0000"
     },
     "done": true
   },
@@ -6220,12 +6262,6 @@
   "travelersbackpack:recipes/tools/pumpkin_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
-    },
-    "done": true
-  },
-  "vinery:dough": {
-    "criteria": {
-      "has_wheat": "2023-06-12 22:46:26 +0000"
     },
     "done": true
   },
@@ -6283,12 +6319,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2023-06-12 22:45:56 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/tools/gold_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
@@ -6337,12 +6367,6 @@
     },
     "done": true
   },
-  "twigs:recipes/tables/birch_table_slab": {
-    "criteria": {
-      "has_bamboo": "2023-06-12 22:45:56 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/tools/wither_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
@@ -6361,12 +6385,6 @@
     },
     "done": true
   },
-  "vinery:straw_hat": {
-    "criteria": {
-      "has_wheat": "2023-06-12 22:46:26 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/tools/bee_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
@@ -6376,24 +6394,6 @@
   "travelersbackpack:recipes/tools/chicken_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/trough": {
-    "criteria": {
-      "has_item": "2023-06-12 22:45:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wheat": {
-    "criteria": {
-      "has_hay_block": "2023-06-12 22:46:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2023-06-12 23:04:57 +0000"
     },
     "done": true
   },
@@ -6415,21 +6415,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp": {
-    "criteria": {
-      "has_dried_kelp_block": "2023-06-12 22:45:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
-    "criteria": {
-      "has_cooked_rabbit": "2023-06-12 23:04:57 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/tools/cactus_smithing_iron": {
     "criteria": {
       "has_iron_tier_upgrade": "2023-06-12 23:37:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2023-06-12 23:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2023-06-12 23:46:47 +0000"
     },
     "done": true
   },
