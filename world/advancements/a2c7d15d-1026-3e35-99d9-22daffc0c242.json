@@ -11421,12 +11421,6 @@
     },
     "done": true
   },
-  "biomemakeover:biomemakeover/rootling_seeds": {
-    "criteria": {
-      "get_stew": "2023-06-13 17:57:05 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_oak_button": {
     "criteria": {
       "has_block": "2023-06-13 17:55:09 +0000"
@@ -11448,6 +11442,301 @@
   "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
     "criteria": {
       "has_block": "2023-06-13 17:55:09 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/rootling_seeds": {
+    "criteria": {
+      "get_stew": "2023-06-13 17:57:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2023-06-13 18:41:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2023-06-13 18:41:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2023-06-13 18:41:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2023-06-13 18:41:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2023-06-13 18:41:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2023-06-13 18:41:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2023-06-13 18:41:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2023-06-13 18:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2023-06-13 18:41:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_lich": "2023-06-13 18:56:06 +0000",
+      "kill_naga": "2023-06-13 18:42:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2023-06-13 18:42:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "naga": "2023-06-13 18:42:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2023-06-13 18:42:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2023-06-13 18:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2023-06-13 18:45:09 +0000"
+    },
+    "done": true
+  },
+  "vinery:loam": {
+    "criteria": {
+      "has_clay_ball": "2023-06-13 18:45:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_painting": "2023-06-13 18:45:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2023-06-13 18:45:23 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/essences/corrupt_essence": {
+    "criteria": {
+      "has_fermented_spider_eye": "2023-06-13 18:47:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2023-06-13 18:52:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-06-13 18:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-06-13 18:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-06-13 18:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-06-13 18:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-06-13 18:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2023-06-13 18:52:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2023-06-13 18:53:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map": {
+    "criteria": {
+      "has_item": "2023-06-13 18:53:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2023-06-13 18:53:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2023-06-13 18:53:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2023-06-13 18:56:06 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2023-06-13 18:56:06 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2023-06-13 18:56:06 +0000"
+    },
+    "done": false
+  },
+  "upgradednetherite:recipes/essences/ender_essence": {
+    "criteria": {
+      "has_ender_pearl": "2023-06-13 18:56:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2023-06-13 18:56:24 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/parabolic_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2023-06-13 18:56:24 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/radio_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2023-06-13 18:56:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2023-06-13 18:56:27 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fortification_scepter": {
+    "criteria": {
+      "has_item": "2023-06-13 18:56:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2023-06-13 19:13:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall": {
+    "criteria": {
+      "has_block": "2023-06-13 19:13:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
+    "criteria": {
+      "has_block": "2023-06-13 19:13:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2023-06-13 19:13:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone": {
+    "criteria": {
+      "has_item": "2023-06-13 19:13:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2023-06-13 19:13:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2023-06-13 19:00:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2023-06-13 19:13:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_lever": {
+    "criteria": {
+      "has_cobble": "2023-06-13 19:13:49 +0000"
     },
     "done": true
   },

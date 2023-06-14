@@ -1108,6 +1108,7 @@
       "jade_cliffs": "2023-06-11 20:34:54 +0000",
       "clover_patch": "2023-06-12 10:49:42 +0000",
       "mystic_grove": "2023-06-12 10:44:28 +0000",
+      "old_growth_woodland": "2023-06-13 23:51:54 +0000",
       "maple_woods": "2023-06-11 21:11:54 +0000",
       "crystalline_chasm": "2023-06-13 12:30:26 +0000",
       "withered_abyss": "2023-06-13 12:43:49 +0000",
@@ -1124,7 +1125,10 @@
       "dune_beach": "2023-06-12 13:58:06 +0000",
       "highland_moor": "2023-06-12 14:16:01 +0000",
       "seasonal_forest": "2023-06-11 20:56:31 +0000",
+      "volcano": "2023-06-13 23:51:42 +0000",
       "pasture": "2023-06-12 13:58:14 +0000",
+      "rocky_rainforest": "2023-06-13 23:52:59 +0000",
+      "volcanic_plains": "2023-06-13 23:51:36 +0000",
       "lavender_field": "2023-06-11 20:45:19 +0000",
       "fir_clearing": "2023-06-11 22:11:51 +0000",
       "pumpkin_patch": "2023-06-11 20:59:17 +0000",
@@ -1133,6 +1137,8 @@
       "snowy_fir_clearing": "2023-06-12 10:31:26 +0000",
       "snowy_coniferous_forest": "2023-06-12 12:40:54 +0000",
       "undergrowth": "2023-06-13 12:36:55 +0000",
+      "rainforest": "2023-06-13 23:52:44 +0000",
+      "crag": "2023-06-13 23:20:46 +0000",
       "ominous_woods": "2023-06-11 22:17:16 +0000"
     },
     "done": false
@@ -1551,6 +1557,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2023-06-13 23:26:41 +0000",
       "minecraft:old_growth_pine_taiga": "2023-06-12 10:37:07 +0000",
       "minecraft:taiga": "2023-06-11 21:37:57 +0000",
       "minecraft:deep_ocean": "2023-06-11 22:39:18 +0000",
@@ -1562,6 +1569,7 @@
       "minecraft:river": "2023-06-11 20:56:45 +0000",
       "minecraft:stony_shore": "2023-06-11 21:35:05 +0000",
       "minecraft:dripstone_caves": "2023-06-11 21:54:43 +0000",
+      "minecraft:jagged_peaks": "2023-06-13 23:26:52 +0000",
       "minecraft:cold_ocean": "2023-06-11 22:21:02 +0000",
       "minecraft:forest": "2023-06-11 21:38:59 +0000",
       "minecraft:deep_cold_ocean": "2023-06-12 11:05:27 +0000",
@@ -2280,6 +2288,7 @@
       "minecraft:creeper": "2023-06-11 21:03:35 +0000",
       "minecraft:slime": "2023-06-12 11:37:43 +0000",
       "minecraft:evoker": "2023-06-12 12:13:07 +0000",
+      "minecraft:phantom": "2023-06-13 23:30:26 +0000",
       "minecraft:witch": "2023-06-11 23:00:37 +0000",
       "minecraft:stray": "2023-06-12 01:12:11 +0000",
       "minecraft:zombie": "2023-06-11 21:58:44 +0000",
@@ -7622,6 +7631,36 @@
   "securitycraft:recipes/redstone/reinforced_oak_pressure_plate": {
     "criteria": {
       "has_block": "2023-06-13 17:56:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/cyan_dye_from_glowflower": {
+    "criteria": {
+      "has_flower": "2023-06-13 23:35:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_membrane": "2023-06-13 23:30:50 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/essences/phantom_essence": {
+    "criteria": {
+      "has_phantom_membrane": "2023-06-13 23:30:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2023-06-13 23:53:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2023-06-13 23:46:41 +0000"
     },
     "done": true
   },

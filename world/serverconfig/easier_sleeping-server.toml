@@ -1,6 +1,6 @@
 #Percentage of players required to skip the night.
 #Range: 0 ~ 100
-sleep_percent = 30
+sleep_percent = 25
 #Message shown, if a player goes to bed
 sleep_message = "está durmiendo."
 #Message shown, if a player leaves his bed

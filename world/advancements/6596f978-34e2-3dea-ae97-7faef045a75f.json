@@ -5447,99 +5447,21 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+  "aether:recipes/combat/iron_chestplate_repairing": {
     "criteria": {
-      "has_item": "2023-06-13 15:56:25 +0000"
+      "has_iron_chestplate": "2023-06-13 15:40:53 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_light_blue_pane2": {
+  "aether:recipes/tools/golden_axe_repairing": {
     "criteria": {
-      "recipe_condition1": "2023-06-13 17:21:51 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/umbran_planks": {
-    "criteria": {
-      "has_logs": "2023-06-13 16:17:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2023-06-13 16:25:38 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_pink_pane2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:21:51 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_magenta_pane2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:21:51 +0000"
+      "has_golden_axe": "2023-06-13 15:51:09 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2023-06-13 15:53:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_chiseled_quartz_block": "2023-06-13 15:56:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_barrel": {
-    "criteria": {
-      "has_slabs": "2023-06-13 15:54:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2023-06-13 16:25:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2023-06-13 15:54:46 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_orange2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/birch_banister": {
-    "criteria": {
-      "has_item": "2023-06-13 15:54:19 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_black2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_concrete_powder": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
     },
     "done": true
   },
@@ -5555,51 +5477,9 @@
     },
     "done": true
   },
-  "aether:recipes/tools/fishing_rod_repairing": {
-    "criteria": {
-      "has_fishing_rod": "2023-06-13 15:55:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/gravel_bricks/gravel_bricks": {
-    "criteria": {
-      "has_item": "2023-06-13 17:13:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2023-06-13 16:25:38 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_light_blue2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2023-06-13 15:56:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2023-06-13 15:53:51 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/maple_bookshelf": {
-    "criteria": {
-      "has_item": "2023-06-13 15:56:25 +0000"
     },
     "done": true
   },
@@ -5609,75 +5489,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
-    "criteria": {
-      "has_planks": "2023-06-13 17:09:08 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_white2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2023-06-13 16:25:38 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:21:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2023-06-13 15:56:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2023-06-13 15:53:51 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/fir_fence": {
-    "criteria": {
-      "has_planks": "2023-06-13 17:15:27 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_orange_pane2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:21:51 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_button": {
-    "criteria": {
-      "has_planks": "2023-06-13 17:15:27 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_brown_pane2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:21:51 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_door": {
-    "criteria": {
-      "has_planks": "2023-06-13 17:15:27 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_chestplate_repairing": {
-    "criteria": {
-      "has_iron_chestplate": "2023-06-13 15:40:53 +0000"
     },
     "done": true
   },
@@ -5687,651 +5501,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2023-06-13 16:25:38 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_lime_pane2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:21:51 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/umbran_pressure_plate": {
-    "criteria": {
-      "has_planks": "2023-06-13 16:20:53 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_stairs": {
-    "criteria": {
-      "has_planks": "2023-06-13 17:15:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/umbran_fence": {
-    "criteria": {
-      "has_planks": "2023-06-13 16:20:53 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_fence": {
-    "criteria": {
-      "has_planks": "2023-06-13 17:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_chiseled_quartz_block": "2023-06-13 15:56:46 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
-    "criteria": {
-      "has_planks": "2023-06-13 17:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_concrete_powder": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/silt_from_sand": {
-    "criteria": {
-      "has_item": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/iron_axe_repairing": {
-    "criteria": {
-      "has_iron_axe": "2023-06-13 16:16:59 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/umbran_fence_gate": {
-    "criteria": {
-      "has_planks": "2023-06-13 16:20:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_red2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_button": {
-    "criteria": {
-      "has_planks": "2023-06-13 17:09:08 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2023-06-13 15:59:08 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_light_gray2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2023-06-13 15:54:30 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_cyan_pane2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:21:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2023-06-13 16:25:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_wood": {
-    "criteria": {
-      "has_log": "2023-06-13 16:15:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2023-06-13 16:25:38 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/stackable_book": {
-    "criteria": {
-      "has_book": "2023-06-13 15:56:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_door": {
-    "criteria": {
-      "has_planks": "2023-06-13 17:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_planks": {
-    "criteria": {
-      "has_logs": "2023-06-13 16:15:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/umbran_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-06-13 16:20:53 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:recipes/misc/manual": {
-    "criteria": {
-      "has_book": "2023-06-13 15:56:25 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_white_pane2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:21:51 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/book_of_lore": {
-    "criteria": {
-      "has_book": "2023-06-13 15:56:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2023-06-13 17:13:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_concrete_powder": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/umbran_button": {
-    "criteria": {
-      "has_planks": "2023-06-13 16:20:53 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/umbran_stairs": {
-    "criteria": {
-      "has_planks": "2023-06-13 16:20:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2023-06-13 15:56:25 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_leggings_repairing": {
-    "criteria": {
-      "has_leather_leggings": "2023-06-13 17:08:27 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/umbran_slab": {
-    "criteria": {
-      "has_planks": "2023-06-13 16:20:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
-    "criteria": {
-      "has_item": "2023-06-13 15:56:25 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_gray2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/umbran_wood": {
-    "criteria": {
-      "has_log": "2023-06-13 16:17:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_slab": {
-    "criteria": {
-      "has_planks": "2023-06-13 17:15:27 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/clear_glass_pane1": {
-    "criteria": {
-      "recipe_condition": "2023-06-13 17:21:51 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
-    "criteria": {
-      "has_item": "2023-06-13 15:56:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2023-06-13 15:54:19 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/golden_axe_repairing": {
-    "criteria": {
-      "has_golden_axe": "2023-06-13 15:51:09 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_yellow2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
-    "criteria": {
-      "has_planks": "2023-06-13 17:09:08 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_fence_gate": {
-    "criteria": {
-      "has_planks": "2023-06-13 17:15:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_light_gray_pane2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:21:51 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:21:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2023-06-13 16:18:49 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2023-06-13 15:56:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2023-06-13 16:25:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_chiseled_quartz_block": "2023-06-13 15:56:46 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_sign": {
-    "criteria": {
-      "has_mahogany_planks": "2023-06-13 17:09:08 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/cherry_bookshelf": {
-    "criteria": {
-      "has_item": "2023-06-13 15:56:25 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:recipes/misc/cassette_tape_glass": {
-    "criteria": {
-      "has_dried_kelp": "2023-06-13 16:02:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2023-06-13 16:25:38 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_purple2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2023-06-13 16:25:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/fir_sign": {
-    "criteria": {
-      "has_fir_planks": "2023-06-13 17:15:27 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_green2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_purple_pane2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:21:51 +0000"
-    },
-    "done": true
-  },
-  "iammusicplayer:recipes/misc/cassette_tape": {
-    "criteria": {
-      "has_dried_kelp": "2023-06-13 16:02:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2023-06-13 16:25:38 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_green_pane2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:21:51 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
-    "criteria": {
-      "has_item": "2023-06-13 15:56:25 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/skyroot_bookshelf": {
-    "criteria": {
-      "has_book": "2023-06-13 15:56:25 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/umbran_sign": {
-    "criteria": {
-      "has_umbran_planks": "2023-06-13 16:20:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
-    "criteria": {
-      "has_item": "2023-06-13 17:13:52 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_pink2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:21:51 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/umbran_door": {
-    "criteria": {
-      "has_planks": "2023-06-13 16:20:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_chiseled_quartz_block": "2023-06-13 15:56:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
-    "criteria": {
-      "has_dried_kelp": "2023-06-13 16:02:35 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/birch_table_slab": {
-    "criteria": {
-      "has_bamboo": "2023-06-13 15:54:19 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_lime2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2023-06-13 16:25:38 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_magenta2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/dead_planks": {
-    "criteria": {
-      "has_logs": "2023-06-13 17:32:49 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_gray_pane2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:21:51 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_pane1": {
-    "criteria": {
-      "recipe_condition": "2023-06-13 16:25:38 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_pane3": {
-    "criteria": {
-      "recipe_condition": "2023-06-13 17:20:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2023-06-13 15:53:51 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/dead_wood": {
-    "criteria": {
-      "has_log": "2023-06-13 17:32:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
-    "criteria": {
-      "has_item": "2023-06-13 17:13:52 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-06-13 17:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_brown2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-06-13 17:15:27 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
-    "criteria": {
-      "has_planks": "2023-06-13 17:09:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2023-06-13 16:25:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2023-06-13 15:54:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2023-06-13 16:25:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
-    "criteria": {
-      "has_planks": "2023-06-13 17:15:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2023-06-13 16:25:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_sand": "2023-06-13 17:13:42 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_cyan2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-13 17:20:05 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
-    "criteria": {
-      "has_item": "2023-06-13 15:56:25 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/trough": {
-    "criteria": {
-      "has_item": "2023-06-13 15:54:19 +0000"
     },
     "done": true
   },
@@ -6353,9 +5525,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod": {
+  "aether:recipes/decorations/skyroot_barrel": {
     "criteria": {
-      "has_cod": "2023-06-13 15:54:46 +0000"
+      "has_slabs": "2023-06-13 15:54:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2023-06-13 15:54:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2023-06-13 15:54:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/birch_table_slab": {
+    "criteria": {
+      "has_bamboo": "2023-06-13 15:54:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2023-06-13 15:54:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2023-06-13 15:54:30 +0000"
     },
     "done": true
   },
@@ -6365,9 +5567,843 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2023-06-13 15:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2023-06-13 15:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2023-06-13 15:54:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2023-06-13 15:55:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2023-06-13 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2023-06-13 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2023-06-13 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2023-06-13 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_book": "2023-06-13 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/manual": {
+    "criteria": {
+      "has_book": "2023-06-13 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2023-06-13 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2023-06-13 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2023-06-13 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2023-06-13 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2023-06-13 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cherry_bookshelf": {
+    "criteria": {
+      "has_item": "2023-06-13 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2023-06-13 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2023-06-13 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2023-06-13 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2023-06-13 15:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2023-06-13 15:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2023-06-13 15:56:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2023-06-13 15:56:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2023-06-13 15:59:08 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/cassette_tape_glass": {
+    "criteria": {
+      "has_dried_kelp": "2023-06-13 16:02:35 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/cassette_tape": {
+    "criteria": {
+      "has_dried_kelp": "2023-06-13 16:02:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2023-06-13 16:02:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2023-06-13 16:15:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2023-06-13 16:15:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2023-06-13 16:16:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_planks": {
+    "criteria": {
+      "has_logs": "2023-06-13 16:17:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_wood": {
+    "criteria": {
+      "has_log": "2023-06-13 16:17:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2023-06-13 16:18:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:20:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_fence": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:20:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:20:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:20:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_button": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:20:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_stairs": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:20:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/umbran_slab": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:20:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/umbran_sign": {
+    "criteria": {
+      "has_umbran_planks": "2023-06-13 16:20:53 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/umbran_door": {
+    "criteria": {
+      "has_planks": "2023-06-13 16:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2023-06-13 16:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2023-06-13 16:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2023-06-13 16:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2023-06-13 16:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2023-06-13 16:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2023-06-13 16:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2023-06-13 16:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2023-06-13 16:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2023-06-13 16:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2023-06-13 16:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2023-06-13 16:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2023-06-13 16:25:38 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2023-06-13 16:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2023-06-13 16:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2023-06-13 16:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2023-06-13 16:25:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2023-06-13 17:08:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2023-06-13 17:09:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2023-06-13 17:09:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-06-13 17:09:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2023-06-13 17:09:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2023-06-13 17:09:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-06-13 17:09:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_mahogany_planks": "2023-06-13 17:09:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-06-13 17:09:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2023-06-13 17:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2023-06-13 17:13:42 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2023-06-13 17:13:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2023-06-13 17:13:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2023-06-13 17:13:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2023-06-13 17:13:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2023-06-13 17:15:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2023-06-13 17:15:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2023-06-13 17:15:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2023-06-13 17:15:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2023-06-13 17:15:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-06-13 17:15:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2023-06-13 17:15:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-06-13 17:15:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-06-13 17:15:27 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_orange2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_blue2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_gray2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_purple2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_lime2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_magenta2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane3": {
+    "criteria": {
+      "recipe_condition": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_brown2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/misc/clear_glass1": {
     "criteria": {
       "recipe_condition": "2023-06-13 17:20:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_blue_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pink_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_magenta_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_orange_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_brown_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_lime_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_pane1": {
+    "criteria": {
+      "recipe_condition": "2023-06-13 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_gray_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_purple_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_gray_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-13 17:21:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_planks": {
+    "criteria": {
+      "has_logs": "2023-06-13 17:32:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/dead_wood": {
+    "criteria": {
+      "has_log": "2023-06-13 17:32:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2023-06-13 19:35:38 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:chiselsandbits/root": {
+    "criteria": {
+      "chisel": "2023-06-13 19:51:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2023-06-13 19:35:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_painting": "2023-06-13 18:35:35 +0000"
+    },
+    "done": true
+  },
+  "vinery:loam": {
+    "criteria": {
+      "has_clay_ball": "2023-06-13 19:35:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2023-06-13 18:55:30 +0000"
     },
     "done": true
   },

@@ -7539,21 +7539,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
+    "criteria": {
+      "has_item": "2023-06-13 16:54:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
+    "criteria": {
+      "has_item": "2023-06-13 17:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_black_dye": "2023-06-13 17:31:19 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/cherry_stick": {
-    "criteria": {
-      "has_item": "2023-06-13 17:35:44 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/cherry_axe": {
-    "criteria": {
-      "has_resource": "2023-06-13 17:35:44 +0000"
     },
     "done": true
   },
@@ -7563,27 +7563,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_item": "2023-06-13 17:35:44 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/clear_glass_black_pane2": {
     "criteria": {
       "recipe_condition2": "2023-06-13 17:31:19 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_item": "2023-06-13 17:35:44 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_item": "2023-06-13 17:35:44 +0000"
     },
     "done": true
   },
@@ -7602,12 +7584,6 @@
   "twilightforest:magic_map_focus": {
     "criteria": {
       "focus": "2023-06-13 17:31:19 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/cherry_shovel": {
-    "criteria": {
-      "has_resource": "2023-06-13 17:35:44 +0000"
     },
     "done": true
   },
@@ -7653,9 +7629,99 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
+  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
     "criteria": {
-      "has_item": "2023-06-13 16:54:33 +0000"
+      "recipe_condition2": "2023-06-13 17:31:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2023-06-13 17:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2023-06-13 17:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-06-13 17:31:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2023-06-13 17:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2023-06-13 17:31:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2023-06-13 17:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2023-06-13 17:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2023-06-13 17:31:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_item": "2023-06-13 17:35:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/cherry_stick": {
+    "criteria": {
+      "has_item": "2023-06-13 17:35:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/cherry_axe": {
+    "criteria": {
+      "has_resource": "2023-06-13 17:35:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_item": "2023-06-13 17:35:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_item": "2023-06-13 17:35:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_item": "2023-06-13 17:35:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/cherry_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-13 17:35:44 +0000"
     },
     "done": true
   },
@@ -7683,27 +7749,9 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_black_pane2": {
-    "criteria": {
-      "recipe_condition2": "2023-06-13 17:31:19 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
-    "criteria": {
-      "has_item": "2023-06-13 17:31:19 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/cherry_fence_gate": {
     "criteria": {
       "has_item": "2023-06-13 17:35:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2023-06-13 17:31:20 +0000"
     },
     "done": true
   },
@@ -7725,54 +7773,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_black_dye": "2023-06-13 17:31:19 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
-    "criteria": {
-      "has_item": "2023-06-13 17:11:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2023-06-13 17:31:19 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
-    "criteria": {
-      "has_item": "2023-06-13 17:31:19 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_item": "2023-06-13 17:35:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_black_dye": "2023-06-13 17:31:19 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
-    "criteria": {
-      "has_item": "2023-06-13 17:31:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_candle": {
-    "criteria": {
-      "has_black_dye": "2023-06-13 17:31:19 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/blue_skies_tools/cherry_hoe": {
     "criteria": {
       "has_resource": "2023-06-13 17:35:44 +0000"
@@ -7782,6 +7782,30 @@
   "blue_skies:recipes/blue_skies_tools/cherry_pickaxe": {
     "criteria": {
       "has_resource": "2023-06-13 17:35:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cherry_pie_with_ventium": {
+    "criteria": {
+      "has_item": "2023-06-13 22:43:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cherry_pie_with_iron": {
+    "criteria": {
+      "has_item": "2023-06-13 22:43:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:regrowth": {
+    "criteria": {
+      "have_sapling": "2023-06-13 22:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2023-06-13 22:45:15 +0000"
     },
     "done": true
   },

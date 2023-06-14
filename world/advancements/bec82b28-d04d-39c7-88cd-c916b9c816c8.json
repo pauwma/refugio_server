@@ -1102,15 +1102,18 @@
       "muskeg": "2023-06-11 21:18:18 +0000",
       "shrubland": "2023-06-11 16:23:12 +0000",
       "rocky_shrubland": "2023-06-10 12:22:53 +0000",
+      "erupting_inferno": "2023-06-13 21:41:22 +0000",
       "mystic_grove": "2023-06-11 16:28:26 +0000",
       "maple_woods": "2023-06-11 16:31:01 +0000",
       "crystalline_chasm": "2023-06-12 01:20:40 +0000",
+      "withered_abyss": "2023-06-13 21:37:07 +0000",
       "field": "2023-06-11 16:29:58 +0000",
       "forested_field": "2023-06-11 16:30:04 +0000",
       "old_growth_dead_forest": "2023-06-11 19:05:41 +0000",
       "cherry_blossom_grove": "2023-06-12 13:15:52 +0000",
       "dead_forest": "2023-06-11 22:11:32 +0000",
       "grassland": "2023-06-12 13:15:50 +0000",
+      "snowy_coniferous_forest": "2023-06-13 21:30:56 +0000",
       "tundra": "2023-06-13 13:27:32 +0000",
       "glowing_grotto": "2023-06-11 21:32:32 +0000",
       "snowy_maple_woods": "2023-06-11 20:21:44 +0000"
@@ -1310,6 +1313,7 @@
       "minecraft:snowy_plains": "2023-06-12 13:25:13 +0000",
       "minecraft:snowy_taiga": "2023-06-11 19:06:46 +0000",
       "minecraft:dripstone_caves": "2023-06-11 22:38:09 +0000",
+      "minecraft:grove": "2023-06-13 20:53:47 +0000",
       "minecraft:lush_caves": "2023-06-11 20:15:59 +0000",
       "minecraft:frozen_ocean": "2023-06-11 19:09:42 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-06-11 16:31:44 +0000",
@@ -3460,9 +3464,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2023-06-13 21:38:18 +0000",
       "minecraft:skeleton": "2023-06-11 20:15:17 +0000",
+      "minecraft:vindicator": "2023-06-13 23:09:52 +0000",
       "minecraft:spider": "2023-06-11 20:16:06 +0000",
       "minecraft:creeper": "2023-06-11 20:21:14 +0000",
+      "minecraft:wither_skeleton": "2023-06-13 21:37:33 +0000",
       "minecraft:cave_spider": "2023-06-11 20:29:08 +0000",
       "minecraft:enderman": "2023-06-11 20:18:29 +0000",
       "minecraft:zombie": "2023-06-11 20:18:13 +0000",
@@ -8272,33 +8279,27 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/maple_chest": {
+  "blue_skies:recipes/building_blocks/lunar_planks": {
     "criteria": {
-      "has_item": "2023-06-13 15:46:48 +0000"
+      "has_item": "2023-06-13 15:35:23 +0000"
     },
     "done": true
   },
-  "aether:recipes/building_blocks/carved_stairs": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
-      "has_carved_stone": "2023-06-13 16:25:11 +0000"
+      "has_salmon": "2023-06-13 15:43:56 +0000"
     },
     "done": true
   },
-  "blue_skies:everdawn/poison_shroom": {
+  "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
-      "touch_shroom": "2023-06-13 15:45:14 +0000"
+      "has_salmon": "2023-06-13 15:43:56 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/food/cooked_monitor_tail_from_campfire_cooking_monitor_tail": {
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
-      "has_item": "2023-06-13 15:52:01 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/holystone_sword_repairing": {
-    "criteria": {
-      "has_holystone_sword": "2023-06-13 16:08:13 +0000"
+      "has_salmon": "2023-06-13 15:43:56 +0000"
     },
     "done": true
   },
@@ -8308,33 +8309,21 @@
     },
     "done": true
   },
-  "blue_skies:recipes/redstone/lunar_button": {
+  "blue_skies:everdawn/poison_shroom": {
     "criteria": {
-      "has_item": "2023-06-13 15:56:10 +0000"
+      "touch_shroom": "2023-06-13 15:45:14 +0000"
     },
     "done": true
   },
-  "aether:bronze_dungeon": {
+  "blue_skies:recipes/misc/scalefruit_seeds": {
     "criteria": {
-      "kill_slider": "2023-06-13 16:25:09 +0000"
+      "has_item": "2023-06-13 15:45:24 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/lunar_stairs": {
+  "blue_skies:recipes/building_blocks/maple_chest": {
     "criteria": {
-      "has_item": "2023-06-13 15:56:10 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
-    "criteria": {
-      "has_carved_stone": "2023-06-13 16:25:11 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/lunar_planks": {
-    "criteria": {
-      "has_item": "2023-06-13 15:35:23 +0000"
+      "has_item": "2023-06-13 15:46:48 +0000"
     },
     "done": true
   },
@@ -8344,9 +8333,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
     "criteria": {
-      "has_salmon": "2023-06-13 15:43:56 +0000"
+      "has_item": "2023-06-13 15:51:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_monitor_tail_from_campfire_cooking_monitor_tail": {
+    "criteria": {
+      "has_item": "2023-06-13 15:52:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_monitor_tail_from_smoking_monitor_tail": {
+    "criteria": {
+      "has_item": "2023-06-13 15:52:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_monitor_tail_from_smelting_monitor_tail": {
+    "criteria": {
+      "has_item": "2023-06-13 15:52:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/lunar_button": {
+    "criteria": {
+      "has_item": "2023-06-13 15:56:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stairs": {
+    "criteria": {
+      "has_item": "2023-06-13 15:56:10 +0000"
     },
     "done": true
   },
@@ -8359,18 +8378,6 @@
   "blue_skies:recipes/blue_skies_tools/lunar_shovel": {
     "criteria": {
       "has_resource": "2023-06-13 15:56:10 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/carved_wall_from_carved_stone_stonecutting": {
-    "criteria": {
-      "has_carved_stone": "2023-06-13 16:25:11 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/carved_stairs_from_carved_stone_stonecutting": {
-    "criteria": {
-      "has_carved_stone": "2023-06-13 16:25:11 +0000"
     },
     "done": true
   },
@@ -8392,18 +8399,6 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone": {
-    "criteria": {
-      "has_item": "2023-06-13 15:51:29 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/food/cooked_monitor_tail_from_smoking_monitor_tail": {
-    "criteria": {
-      "has_item": "2023-06-13 15:52:01 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/misc/lunar_stick": {
     "criteria": {
       "has_item": "2023-06-13 15:56:10 +0000"
@@ -8416,39 +8411,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2023-06-13 15:43:56 +0000"
-    },
-    "done": true
-  },
-  "aether:lance_loot": {
-    "criteria": {
-      "lance_loot": "2023-06-13 16:25:26 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/carved_slab": {
-    "criteria": {
-      "has_carved_stone": "2023-06-13 16:25:11 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/redstone/lunar_pressure_plate": {
     "criteria": {
       "has_item": "2023-06-13 15:56:10 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/scalefruit_seeds": {
-    "criteria": {
-      "has_item": "2023-06-13 15:45:24 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/carved_slab_from_carved_stone_stonecutting": {
-    "criteria": {
-      "has_carved_stone": "2023-06-13 16:25:11 +0000"
     },
     "done": true
   },
@@ -8461,18 +8426,6 @@
   "blue_skies:recipes/building_blocks/lunar_door": {
     "criteria": {
       "has_item": "2023-06-13 15:56:10 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/carved_wall": {
-    "criteria": {
-      "has_carved_stone": "2023-06-13 16:25:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2023-06-13 15:43:56 +0000"
     },
     "done": true
   },
@@ -8494,15 +8447,435 @@
     },
     "done": true
   },
-  "blue_skies:recipes/food/cooked_monitor_tail_from_smelting_monitor_tail": {
-    "criteria": {
-      "has_item": "2023-06-13 15:52:01 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/blue_skies_tools/lunar_hoe": {
     "criteria": {
       "has_resource": "2023-06-13 15:56:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/holystone_sword_repairing": {
+    "criteria": {
+      "has_holystone_sword": "2023-06-13 16:08:13 +0000"
+    },
+    "done": true
+  },
+  "aether:bronze_dungeon": {
+    "criteria": {
+      "kill_slider": "2023-06-13 16:25:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_stairs": {
+    "criteria": {
+      "has_carved_stone": "2023-06-13 16:25:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/sentry_stone_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2023-06-13 16:25:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/carved_wall_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2023-06-13 16:25:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_stairs_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2023-06-13 16:25:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_slab": {
+    "criteria": {
+      "has_carved_stone": "2023-06-13 16:25:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/carved_slab_from_carved_stone_stonecutting": {
+    "criteria": {
+      "has_carved_stone": "2023-06-13 16:25:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/carved_wall": {
+    "criteria": {
+      "has_carved_stone": "2023-06-13 16:25:11 +0000"
+    },
+    "done": true
+  },
+  "aether:lance_loot": {
+    "criteria": {
+      "lance_loot": "2023-06-13 16:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-06-13 21:00:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2023-06-13 21:05:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2023-06-13 21:05:50 +0000"
+    },
+    "done": true
+  },
+  "vinery:kitchen_sink": {
+    "criteria": {
+      "has_cauldron": "2023-06-13 21:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-13 21:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-13 21:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-13 21:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-13 21:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-13 21:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-13 21:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-13 21:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-13 21:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2023-06-13 21:36:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2023-06-13 21:36:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-06-13 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/essences/fire_essence": {
+    "criteria": {
+      "has_blaze_rod": "2023-06-13 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/chisel_netherite": {
+    "criteria": {
+      "has_rod": "2023-06-13 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2023-06-13 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2023-06-13 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2023-06-13 21:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2023-06-13 21:43:35 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2023-06-13 21:44:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2023-06-13 21:44:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2023-06-13 21:44:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2023-06-13 21:44:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2023-06-13 21:44:39 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2023-06-13 21:44:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2023-06-13 21:46:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2023-06-13 21:46:22 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/blackstone_column": {
+    "criteria": {
+      "has_item": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/columns/blackstone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2023-06-13 21:47:13 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/essences/ender_essence": {
+    "criteria": {
+      "has_ender_pearl": "2023-06-13 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/parabolic_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2023-06-13 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:recipes/misc/radio_antenna": {
+    "criteria": {
+      "has_ender_pearl": "2023-06-13 22:04:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2023-06-13 22:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2023-06-13 22:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2023-06-13 22:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-06-13 22:45:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:keys": {
+    "criteria": {
+      "obtain_key": "2023-06-13 22:46:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_axe_repairing": {
+    "criteria": {
+      "has_stone_axe": "2023-06-13 22:58:51 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:enter_blinding_dungeon": {
+    "criteria": {
+      "entered_everdawn_blinding_dungeon": "2023-06-13 23:09:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:progression/unlock_everdawn_blinding_key_trade": {
+    "criteria": {
+      "click_keystone": "2023-06-13 23:12:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_alchemist": {
+    "criteria": {
+      "kill_alchemist": "2023-06-13 23:21:39 +0000"
     },
     "done": true
   },
