@@ -1103,6 +1103,7 @@
       "shrubland": "2023-06-12 12:06:45 +0000",
       "rocky_shrubland": "2023-06-12 11:51:15 +0000",
       "highland": "2023-06-13 19:25:29 +0000",
+      "bamboo_grove": "2023-06-14 12:11:48 +0000",
       "jade_cliffs": "2023-06-12 14:03:55 +0000",
       "clover_patch": "2023-06-12 15:10:48 +0000",
       "mystic_grove": "2023-06-12 14:56:28 +0000",
@@ -1112,6 +1113,7 @@
       "lavender_forest": "2023-06-12 12:26:27 +0000",
       "spider_nest": "2023-06-12 12:27:51 +0000",
       "forested_field": "2023-06-12 15:11:00 +0000",
+      "redwood_forest": "2023-06-14 13:44:06 +0000",
       "cherry_blossom_grove": "2023-06-12 14:57:59 +0000",
       "seasonal_forest": "2023-06-13 19:57:40 +0000",
       "grassland": "2023-06-12 14:57:48 +0000",
@@ -1811,12 +1813,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2023-06-14 13:51:08 +0000",
       "minecraft:frozen_river": "2023-06-13 20:16:44 +0000",
       "minecraft:birch_forest": "2023-06-12 15:20:10 +0000",
       "minecraft:beach": "2023-06-12 15:14:09 +0000",
       "minecraft:dark_forest": "2023-06-12 15:20:11 +0000",
       "minecraft:river": "2023-06-12 12:13:04 +0000",
       "minecraft:frozen_ocean": "2023-06-13 19:58:12 +0000",
+      "minecraft:old_growth_spruce_taiga": "2023-06-14 13:50:28 +0000",
       "minecraft:snowy_beach": "2023-06-13 19:58:10 +0000",
       "minecraft:deep_dark": "2023-06-12 13:55:52 +0000"
     },
@@ -1908,9 +1912,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2023-06-14 13:45:08 +0000",
       "baked_potato": "2023-06-12 15:42:27 +0000",
       "beef": "2023-06-12 15:15:45 +0000",
       "porkchop": "2023-06-12 15:20:57 +0000",
+      "apple": "2023-06-14 12:06:59 +0000",
       "spider_eye": "2023-06-12 14:28:47 +0000",
       "cooked_cod": "2023-06-12 12:27:20 +0000",
       "mutton": "2023-06-12 14:58:34 +0000",
@@ -8109,6 +8115,60 @@
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2023-06-13 23:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2023-06-14 13:44:59 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cake_compat": {
+    "criteria": {
+      "has_item": "2023-06-14 13:44:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2023-06-14 13:44:59 +0000"
+    },
+    "done": true
+  },
+  "vinery:apple_cupcake": {
+    "criteria": {
+      "has_egg": "2023-06-14 13:44:59 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2023-06-14 13:47:16 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/mansion": {
+    "criteria": {
+      "ghost_town": "2023-06-14 13:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2023-06-14 13:47:57 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2023-06-14 13:51:18 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2023-06-14 13:51:18 +0000"
     },
     "done": true
   },

@@ -1994,8 +1994,10 @@
       "cooked_beef": "2023-06-11 17:33:51 +0000",
       "baked_potato": "2023-06-11 20:00:02 +0000",
       "bread": "2023-06-11 16:38:06 +0000",
+      "golden_apple": "2023-06-14 16:07:01 +0000",
       "rotten_flesh": "2023-06-11 16:35:29 +0000",
       "glow_berries": "2023-06-11 22:47:50 +0000",
+      "golden_carrot": "2023-06-14 16:11:04 +0000",
       "cooked_rabbit": "2023-06-11 17:58:07 +0000",
       "cooked_chicken": "2023-06-11 18:53:01 +0000",
       "cooked_salmon": "2023-06-11 16:32:33 +0000"
@@ -6808,9 +6810,10 @@
   },
   "blue_skies:thinking_with_portals": {
     "criteria": {
-      "enter_everbright": "2023-06-11 23:34:56 +0000"
+      "enter_everbright": "2023-06-11 23:34:56 +0000",
+      "enter_everdawn": "2023-06-14 17:21:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "mcwtrpdoors:recipes/print_cottage": {
     "criteria": {
@@ -11803,6 +11806,312 @@
   "biomesoplenty:recipes/decorations/magic_fence": {
     "criteria": {
       "has_planks": "2023-06-14 08:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2023-06-14 15:38:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/wooden_sword_repairing": {
+    "criteria": {
+      "has_wooden_sword": "2023-06-14 15:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2023-06-14 15:51:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/falconry_glove": {
+    "criteria": {
+      "falconry_glove": "2023-06-14 15:55:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2023-06-14 15:59:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/dusk_axe": {
+    "criteria": {
+      "has_resource": "2023-06-14 17:37:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs_stonecutting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-14 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_fence_gate": {
+    "criteria": {
+      "has_item": "2023-06-14 17:37:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/poison_shroom": {
+    "criteria": {
+      "touch_shroom": "2023-06-14 17:38:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/polished_cinderstone": {
+    "criteria": {
+      "has_item": "2023-06-14 17:43:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_planks": {
+    "criteria": {
+      "has_item": "2023-06-14 17:37:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_sword": {
+    "criteria": {
+      "has_resource": "2023-06-14 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2023-06-14 16:46:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_fence": {
+    "criteria": {
+      "has_item": "2023-06-14 17:37:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs": {
+    "criteria": {
+      "has_item": "2023-06-14 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_sign": {
+    "criteria": {
+      "has_item": "2023-06-14 17:37:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/enter": {
+    "criteria": {
+      "enter_everdawn": "2023-06-14 17:21:41 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/dusk_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-14 17:37:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_slab": {
+    "criteria": {
+      "has_item": "2023-06-14 17:37:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_crafting_table": {
+    "criteria": {
+      "has_item": "2023-06-14 17:37:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/dusk_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-14 17:37:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_axe": {
+    "criteria": {
+      "has_resource": "2023-06-14 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-14 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-14 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cinderstone_wall": {
+    "criteria": {
+      "has_item": "2023-06-14 17:43:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cinderstone_stairs": {
+    "criteria": {
+      "has_item": "2023-06-14 17:43:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_door": {
+    "criteria": {
+      "has_item": "2023-06-14 17:37:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_stairs": {
+    "criteria": {
+      "has_item": "2023-06-14 17:37:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stone": {
+    "criteria": {
+      "has_item": "2023-06-14 17:35:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cinderstone_stairs_stonecutting_cinderstone": {
+    "criteria": {
+      "has_item": "2023-06-14 17:43:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/dusk_sword": {
+    "criteria": {
+      "has_resource": "2023-06-14 17:37:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cinderstone_wall_stonecutting_cinderstone": {
+    "criteria": {
+      "has_item": "2023-06-14 17:43:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/polished_cinderstone_stonecutting_cinderstone": {
+    "criteria": {
+      "has_item": "2023-06-14 17:43:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_chest": {
+    "criteria": {
+      "has_item": "2023-06-14 17:37:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/dusk_button": {
+    "criteria": {
+      "has_item": "2023-06-14 17:37:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stone_from_smelting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-14 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_wall": {
+    "criteria": {
+      "has_item": "2023-06-14 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_wall_stonecutting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-14 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cinderstone_slab_stonecutting_cinderstone": {
+    "criteria": {
+      "has_item": "2023-06-14 17:43:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cinderstone_slab": {
+    "criteria": {
+      "has_item": "2023-06-14 17:43:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/get_wood": {
+    "criteria": {
+      "has_dusk_log": "2023-06-14 17:37:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_slab_stonecutting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-14 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/dusk_stick": {
+    "criteria": {
+      "has_item": "2023-06-14 17:37:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_slab": {
+    "criteria": {
+      "has_item": "2023-06-14 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/lunar_lever": {
+    "criteria": {
+      "has_item": "2023-06-14 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_trapdoor": {
+    "criteria": {
+      "has_item": "2023-06-14 17:37:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-14 17:31:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/dusk_pressure_plate": {
+    "criteria": {
+      "has_item": "2023-06-14 17:37:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_ladder": {
+    "criteria": {
+      "has_item": "2023-06-14 17:37:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_bug": {
+    "criteria": {
+      "kill_infested_swarmer": "2023-06-14 17:49:12 +0000"
+    },
+    "done": false
+  },
+  "blue_skies:recipes/blue_skies_tools/dusk_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-14 17:37:37 +0000"
     },
     "done": true
   },
