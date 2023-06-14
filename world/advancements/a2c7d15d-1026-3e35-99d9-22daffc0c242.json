@@ -11740,6 +11740,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2023-06-14 08:35:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2023-06-14 08:35:27 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/magic_trapdoor": {
     "criteria": {
       "has_planks": "2023-06-14 08:35:35 +0000"
@@ -11749,12 +11761,6 @@
   "biomesoplenty:recipes/building_blocks/magic_stairs": {
     "criteria": {
       "has_planks": "2023-06-14 08:35:35 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/magic_wood": {
-    "criteria": {
-      "has_log": "2023-06-14 08:35:27 +0000"
     },
     "done": true
   },
@@ -11779,12 +11785,6 @@
   "biomesoplenty:recipes/redstone/magic_button": {
     "criteria": {
       "has_planks": "2023-06-14 08:35:35 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/magic_planks": {
-    "criteria": {
-      "has_logs": "2023-06-14 08:35:27 +0000"
     },
     "done": true
   },
