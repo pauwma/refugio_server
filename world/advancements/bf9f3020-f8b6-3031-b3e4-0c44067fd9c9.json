@@ -1820,6 +1820,8 @@
       "minecraft:beach": "2023-06-12 15:14:09 +0000",
       "minecraft:dark_forest": "2023-06-12 15:20:11 +0000",
       "minecraft:river": "2023-06-12 12:13:04 +0000",
+      "minecraft:dripstone_caves": "2023-06-14 21:12:15 +0000",
+      "minecraft:lush_caves": "2023-06-14 20:45:04 +0000",
       "minecraft:frozen_ocean": "2023-06-13 19:58:12 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-06-14 13:50:28 +0000",
       "minecraft:snowy_beach": "2023-06-13 19:58:10 +0000",
@@ -1930,7 +1932,8 @@
       "cooked_chicken": "2023-06-12 12:21:57 +0000",
       "cod": "2023-06-12 12:26:46 +0000",
       "rabbit_stew": "2023-06-12 14:47:04 +0000",
-      "cooked_salmon": "2023-06-12 12:15:39 +0000"
+      "cooked_salmon": "2023-06-12 12:15:39 +0000",
+      "carrot": "2023-06-14 21:17:48 +0000"
     },
     "done": false
   },
@@ -2411,6 +2414,7 @@
       "minecraft:cave_spider": "2023-06-12 14:06:41 +0000",
       "minecraft:silverfish": "2023-06-12 15:53:07 +0000",
       "minecraft:zombie": "2023-06-12 12:19:29 +0000",
+      "minecraft:drowned": "2023-06-14 21:09:45 +0000",
       "minecraft:zombie_villager": "2023-06-12 12:20:01 +0000"
     },
     "done": false
@@ -8255,6 +8259,174 @@
   "twigs:recipes/schist/schist_wall_stonecutting": {
     "criteria": {
       "has_item": "2023-06-14 18:29:31 +0000"
+    },
+    "done": true
+  },
+  "vinery:coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2023-06-14 21:19:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_jacaranda_wood": {
+    "criteria": {
+      "has_log": "2023-06-14 22:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-06-14 22:10:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2023-06-14 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2023-06-14 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2023-06-14 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2023-06-14 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cherry_pie_with_ventium": {
+    "criteria": {
+      "has_item": "2023-06-14 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cherry_pie_with_iron": {
+    "criteria": {
+      "has_item": "2023-06-14 22:26:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2023-06-14 22:35:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2023-06-14 22:39:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2023-06-14 22:39:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2023-06-14 22:39:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2023-06-14 22:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2023-06-14 22:40:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
+    "criteria": {
+      "has_item": "2023-06-14 22:42:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
+    "criteria": {
+      "has_item": "2023-06-14 22:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2023-06-14 22:42:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/maze_map": {
+    "criteria": {
+      "has_item": "2023-06-14 22:43:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-06-14 22:47:16 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/essences/fire_essence": {
+    "criteria": {
+      "has_blaze_rod": "2023-06-14 22:47:16 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/chisel_netherite": {
+    "criteria": {
+      "has_rod": "2023-06-14 22:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2023-06-14 22:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2023-06-14 22:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2023-06-14 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/sealant": {
+    "criteria": {
+      "has_tag_a": "2023-06-14 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2023-06-14 22:47:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2023-06-14 22:47:59 +0000"
     },
     "done": true
   },
