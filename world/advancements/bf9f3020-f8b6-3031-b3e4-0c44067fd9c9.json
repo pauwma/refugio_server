@@ -1813,6 +1813,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2023-06-14 18:28:01 +0000",
       "minecraft:taiga": "2023-06-14 13:51:08 +0000",
       "minecraft:frozen_river": "2023-06-13 20:16:44 +0000",
       "minecraft:birch_forest": "2023-06-12 15:20:10 +0000",
@@ -1822,7 +1823,8 @@
       "minecraft:frozen_ocean": "2023-06-13 19:58:12 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-06-14 13:50:28 +0000",
       "minecraft:snowy_beach": "2023-06-13 19:58:10 +0000",
-      "minecraft:deep_dark": "2023-06-12 13:55:52 +0000"
+      "minecraft:deep_dark": "2023-06-12 13:55:52 +0000",
+      "minecraft:meadow": "2023-06-14 18:27:29 +0000"
     },
     "done": false
   },
@@ -8169,6 +8171,90 @@
   "twigs:recipes/rocky_dirt": {
     "criteria": {
       "has_item": "2023-06-14 13:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2023-06-14 18:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2023-06-14 18:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2023-06-14 18:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2023-06-14 18:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2023-06-14 18:27:02 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_slab": {
+    "criteria": {
+      "has_item": "2023-06-14 18:29:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2023-06-14 18:29:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/polished_schist": {
+    "criteria": {
+      "has_item": "2023-06-14 18:29:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_stairs": {
+    "criteria": {
+      "has_item": "2023-06-14 18:29:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/polished_schist_bricks_from_schist_stonecutting": {
+    "criteria": {
+      "has_item": "2023-06-14 18:29:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2023-06-14 18:29:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_wall": {
+    "criteria": {
+      "has_item": "2023-06-14 18:29:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/polished_schist_stonecutting": {
+    "criteria": {
+      "has_item": "2023-06-14 18:29:31 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2023-06-14 18:29:31 +0000"
     },
     "done": true
   },

@@ -12111,7 +12111,9 @@
   },
   "blue_skies:everdawn/kill_bug": {
     "criteria": {
-      "kill_infested_swarmer": "2023-06-14 17:49:12 +0000"
+      "kill_emberback": "2023-06-14 18:04:27 +0000",
+      "kill_infested_swarmer": "2023-06-14 17:49:12 +0000",
+      "kill_nyctofly": "2023-06-14 18:07:18 +0000"
     },
     "done": false
   },
