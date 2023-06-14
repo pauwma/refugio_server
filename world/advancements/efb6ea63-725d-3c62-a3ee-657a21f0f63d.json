@@ -11762,12 +11762,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2023-06-14 16:44:47 +0000"
-    },
-    "done": true
-  },
   "cataclysm:kill_ignis": {
     "criteria": {
       "ignis": "2023-06-14 16:19:33 +0000"
@@ -11777,6 +11771,12 @@
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2023-06-14 16:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2023-06-14 16:44:47 +0000"
     },
     "done": true
   },
