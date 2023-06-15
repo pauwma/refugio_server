@@ -11820,15 +11820,21 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
-    "criteria": {
-      "has_log": "2023-06-14 21:53:09 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/magic_wood": {
     "criteria": {
       "has_log": "2023-06-14 21:50:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2023-06-14 21:50:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2023-06-14 21:53:09 +0000"
     },
     "done": true
   },
@@ -11838,9 +11844,657 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/magic_planks": {
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
-      "has_logs": "2023-06-14 21:50:14 +0000"
+      "has_pink_tulip": "2023-06-15 13:48:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2023-06-15 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2023-06-15 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2023-06-15 13:51:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/retinal_scanner": {
+    "criteria": {
+      "has_stone": "2023-06-15 13:57:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_stone_pressure_plate": {
+    "criteria": {
+      "has_block": "2023-06-15 13:57:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2023-06-15 13:57:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab": {
+    "criteria": {
+      "has_block": "2023-06-15 13:57:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_stone_button": {
+    "criteria": {
+      "has_block": "2023-06-15 13:57:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks": {
+    "criteria": {
+      "has_block": "2023-06-15 13:57:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keycard_reader": {
+    "criteria": {
+      "has_stone": "2023-06-15 13:57:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2023-06-15 13:57:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2023-06-15 13:57:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_stairs": {
+    "criteria": {
+      "has_block": "2023-06-15 13:57:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2023-06-15 13:57:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2023-06-15 13:57:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2023-06-15 13:57:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_smooth_stone": {
+    "criteria": {
+      "has_item": "2023-06-15 13:57:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2023-06-15 13:57:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2023-06-15 13:57:18 +0000"
+    },
+    "done": true
+  },
+  "vinery:grass_slab": {
+    "criteria": {
+      "has_grass_block": "2023-06-15 14:03:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cut_midnight_sandstone_stonecutting_midnight_sandstone": {
+    "criteria": {
+      "has_item": "2023-06-15 14:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/midnight_sandstone_slab": {
+    "criteria": {
+      "has_item": "2023-06-15 14:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/midnight_sandstone_stairs": {
+    "criteria": {
+      "has_item": "2023-06-15 14:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/midnight_sandstone_slab_stonecutting_midnight_sandstone": {
+    "criteria": {
+      "has_item": "2023-06-15 14:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_midnight_sandstone_stonecutting_midnight_sandstone": {
+    "criteria": {
+      "has_item": "2023-06-15 14:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/midnight_sandstone_wall_stonecutting_midnight_sandstone": {
+    "criteria": {
+      "has_item": "2023-06-15 14:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/midnight_sandstone_pillar_stonecutting_midnight_sandstone": {
+    "criteria": {
+      "has_item": "2023-06-15 14:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/smooth_midnight_sandstone_from_smelting_midnight_sandstone": {
+    "criteria": {
+      "has_item": "2023-06-15 14:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cut_midnight_sandstone_slab_stonecutting_midnight_sandstone": {
+    "criteria": {
+      "has_item": "2023-06-15 14:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cut_midnight_sandstone": {
+    "criteria": {
+      "has_item": "2023-06-15 14:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/midnight_sandstone_stairs_stonecutting_midnight_sandstone": {
+    "criteria": {
+      "has_item": "2023-06-15 14:23:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/midnight_sandstone_wall": {
+    "criteria": {
+      "has_item": "2023-06-15 14:23:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_painting": "2023-06-15 14:23:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/frostbright_stick": {
+    "criteria": {
+      "has_item": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_stairs": {
+    "criteria": {
+      "has_item": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_button": {
+    "criteria": {
+      "has_block": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/frostbright_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_crafting_table": {
+    "criteria": {
+      "has_item": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_fence_gate": {
+    "criteria": {
+      "has_item": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/frostbright_button": {
+    "criteria": {
+      "has_item": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_trapdoor": {
+    "criteria": {
+      "has_item": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_cherry_planks": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_sign": {
+    "criteria": {
+      "has_item": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/frostbright_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_spruce_stairs": {
+    "criteria": {
+      "has_block": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_door": {
+    "criteria": {
+      "has_item": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_fence": {
+    "criteria": {
+      "has_item": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/frostbright_axe": {
+    "criteria": {
+      "has_resource": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_slab": {
+    "criteria": {
+      "has_item": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_pressure_plate": {
+    "criteria": {
+      "has_block": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/frostbright_pressure_plate": {
+    "criteria": {
+      "has_item": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/frostbright_sword": {
+    "criteria": {
+      "has_resource": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/frostbright_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_spruce_slab": {
+    "criteria": {
+      "has_block": "2023-06-15 14:26:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-06-15 14:26:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2023-06-15 14:26:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2023-06-15 14:26:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-06-15 14:26:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-06-15 14:26:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2023-06-15 14:26:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2023-06-15 14:26:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_magic_planks": "2023-06-15 14:26:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2023-06-15 14:26:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_item": "2023-06-15 14:44:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2023-06-15 14:46:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobbled_deepslate_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gold_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/lapis_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/stone_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/blast_furnace_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_coal_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_copper_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/copper_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/iron_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gilded_blackstone_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/cobblestone_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/coal_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_iron_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/remote_access_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_gold_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/redstone_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_diamond_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/gravel_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_redstone_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/emerald_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/smoker_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_lapis_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/wire_cutters": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/netherrack_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/furnace_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/ancient_debris_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/end_stone_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/dirt_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/nether_gold_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/diamond_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/quartz_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/sand_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
+    "criteria": {
+      "has_mine": "2023-06-15 14:49:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_from_block": {
+    "criteria": {
+      "has_item": "2023-06-15 15:13:34 +0000"
     },
     "done": true
   },
