@@ -9237,27 +9237,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs_stonecutting_lunar_cobblestone": {
-    "criteria": {
-      "has_item": "2023-06-15 16:37:28 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/combat/maple_spear": {
     "criteria": {
       "has_item": "2023-06-15 16:37:22 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/lunar_stone_sword": {
-    "criteria": {
-      "has_resource": "2023-06-15 16:37:28 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs": {
-    "criteria": {
-      "has_item": "2023-06-15 16:37:28 +0000"
     },
     "done": true
   },
@@ -9279,12 +9261,6 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/lunar_stone_axe": {
-    "criteria": {
-      "has_resource": "2023-06-15 16:37:28 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/misc/moonstone_from_shard": {
     "criteria": {
       "has_item": "2023-06-15 16:37:22 +0000"
@@ -9294,18 +9270,6 @@
   "blue_skies:recipes/combat/dusk_spear": {
     "criteria": {
       "has_item": "2023-06-15 16:37:22 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/lunar_stone_hoe": {
-    "criteria": {
-      "has_resource": "2023-06-15 16:37:28 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/lunar_stone_pickaxe": {
-    "criteria": {
-      "has_resource": "2023-06-15 16:37:28 +0000"
     },
     "done": true
   },
@@ -9327,6 +9291,48 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2023-06-15 16:37:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs_stonecutting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-15 16:37:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_sword": {
+    "criteria": {
+      "has_resource": "2023-06-15 16:37:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs": {
+    "criteria": {
+      "has_item": "2023-06-15 16:37:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_axe": {
+    "criteria": {
+      "has_resource": "2023-06-15 16:37:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-15 16:37:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-15 16:37:28 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/lunar_stone_from_smelting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2023-06-15 16:37:28 +0000"
@@ -9342,12 +9348,6 @@
   "blue_skies:recipes/building_blocks/lunar_cobblestone_wall_stonecutting_lunar_cobblestone": {
     "criteria": {
       "has_item": "2023-06-15 16:37:28 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/tools/zeal_lighter": {
-    "criteria": {
-      "has_item": "2023-06-15 16:37:22 +0000"
     },
     "done": true
   },

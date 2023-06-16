@@ -1306,6 +1306,7 @@
       "minecraft:frozen_river": "2023-06-14 21:50:50 +0000",
       "minecraft:sunflower_plains": "2023-06-12 22:30:36 +0000",
       "minecraft:windswept_hills": "2023-06-14 22:10:54 +0000",
+      "minecraft:beach": "2023-06-15 22:20:21 +0000",
       "minecraft:stony_peaks": "2023-06-13 11:13:16 +0000",
       "minecraft:river": "2023-06-12 22:13:20 +0000",
       "minecraft:stony_shore": "2023-06-12 22:59:36 +0000",
@@ -4854,9 +4855,21 @@
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
+  "endrem:main/corrupted_eye": {
     "criteria": {
-      "potion": "2023-06-14 22:09:39 +0000"
+      "corrupted_eye": "2023-06-14 21:45:44 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "corrupted_eye": "2023-06-14 21:45:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-06-14 21:46:02 +0000"
     },
     "done": true
   },
@@ -4872,27 +4885,177 @@
     },
     "done": true
   },
-  "endrem:main/corrupted_eye": {
-    "criteria": {
-      "corrupted_eye": "2023-06-14 21:45:44 +0000"
-    },
-    "done": true
-  },
   "endrem:main/cold_eye": {
     "criteria": {
       "cold_eye": "2023-06-14 22:08:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "minecraft:nether/brew_potion": {
     "criteria": {
-      "has_carrot": "2023-06-14 21:46:02 +0000"
+      "potion": "2023-06-14 22:09:39 +0000"
     },
     "done": true
   },
-  "endrem:main/root": {
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
     "criteria": {
-      "corrupted_eye": "2023-06-14 21:45:44 +0000"
+      "has_item": "2023-06-15 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2023-06-15 22:12:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/snowcap_mushroom_block": {
+    "criteria": {
+      "has_item": "2023-06-15 22:17:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-06-15 22:12:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-06-15 22:12:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2023-06-15 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2023-06-15 22:12:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_turquoise_stonebrick_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2023-06-15 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2023-06-15 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-06-15 22:12:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/pink_dye_from_camellia": {
+    "criteria": {
+      "has_item": "2023-06-15 22:18:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2023-06-15 22:12:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_cherry_planks": "2023-06-15 22:12:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2023-06-15 22:40:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2023-06-15 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2023-06-15 22:17:21 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2023-06-15 22:17:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2023-06-15 22:12:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2023-06-15 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-06-15 22:17:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2023-06-15 22:12:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2023-06-15 22:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2023-06-15 22:40:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2023-06-15 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2023-06-15 22:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2023-06-15 22:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2023-06-15 22:40:25 +0000"
     },
     "done": true
   },
