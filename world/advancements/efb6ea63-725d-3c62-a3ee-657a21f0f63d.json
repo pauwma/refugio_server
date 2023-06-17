@@ -13646,15 +13646,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2023-06-16 16:23:41 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/misc/horizonite_nugget_from_smelting_horizonite_axe": {
     "criteria": {
       "has_item": "2023-06-16 14:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2023-06-16 16:23:41 +0000"
     },
     "done": true
   },
