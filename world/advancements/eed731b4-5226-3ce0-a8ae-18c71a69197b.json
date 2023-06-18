@@ -9752,27 +9752,33 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/glowing_nature_stone_slab_stonecutting_glowing_nature_stone": {
+  "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
-      "has_item": "2023-06-17 11:05:20 +0000"
+      "has_ice": "2023-06-17 10:30:43 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/nature_stonebrick_stonecutting_nature_stone": {
+  "blue_skies:recipes/building_blocks/turquoise_stone": {
     "criteria": {
-      "has_item": "2023-06-17 11:03:13 +0000"
+      "has_item": "2023-06-17 10:31:41 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/glowing_nature_stone_stairs_stonecutting_glowing_nature_stone": {
+  "blue_skies:recipes/misc/aquite_from_smelting_raw_aquite": {
     "criteria": {
-      "has_item": "2023-06-17 11:05:20 +0000"
+      "has_item": "2023-06-17 10:32:43 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/light_blue_cushion": {
+  "blue_skies:recipes/building_blocks/raw_aquite_block_from_raw_aquite": {
     "criteria": {
-      "has_cushion": "2023-06-17 10:53:56 +0000"
+      "has_item": "2023-06-17 10:32:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_from_blasting_raw_aquite": {
+    "criteria": {
+      "has_item": "2023-06-17 10:32:43 +0000"
     },
     "done": true
   },
@@ -9782,9 +9788,87 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/glowing_nature_stone_stairs": {
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab_stonecutting_turquoise_cobblestone": {
     "criteria": {
-      "has_item": "2023-06-17 11:05:20 +0000"
+      "has_item": "2023-06-17 10:32:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
+    "criteria": {
+      "has_resource": "2023-06-17 10:32:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-17 10:32:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-17 10:32:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
+    "criteria": {
+      "has_resource": "2023-06-17 10:32:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-17 10:32:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab": {
+    "criteria": {
+      "has_item": "2023-06-17 10:32:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-17 10:32:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone_from_smelting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-17 10:32:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-17 10:32:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs": {
+    "criteria": {
+      "has_item": "2023-06-17 10:32:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall": {
+    "criteria": {
+      "has_item": "2023-06-17 10:32:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone_crystal": {
+    "criteria": {
+      "has_item": "2023-06-17 10:41:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:keys": {
+    "criteria": {
+      "obtain_key": "2023-06-17 10:49:30 +0000"
     },
     "done": true
   },
@@ -9794,27 +9878,21 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab_stonecutting_turquoise_cobblestone": {
+  "blue_skies:recipes/food/cherry_pie_with_iron": {
     "criteria": {
-      "has_item": "2023-06-17 10:32:45 +0000"
+      "has_item": "2023-06-17 10:50:29 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/nature_stone_pillar_stonecutting_nature_stone": {
+  "blue_skies:progression/unlock_everbright_blinding_key_trade": {
     "criteria": {
-      "has_item": "2023-06-17 11:03:13 +0000"
+      "click_keystone": "2023-06-17 10:50:41 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_stairs_stonecutting_glowing_nature_stone": {
+  "handcrafted:recipes/misc/light_blue_cushion": {
     "criteria": {
-      "has_item": "2023-06-17 11:05:20 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:progression/unlock_nature_key_trade": {
-    "criteria": {
-      "click_keystone": "2023-06-17 11:31:32 +0000"
+      "has_cushion": "2023-06-17 10:53:56 +0000"
     },
     "done": true
   },
@@ -9824,9 +9902,39 @@
     },
     "done": true
   },
-  "blue_skies:recipes/misc/winter_leaf_seeds": {
+  "comforts:sleeping_bag_light_blue": {
     "criteria": {
-      "has_item": "2023-06-17 11:43:06 +0000"
+      "has_light_blue_wool": "2023-06-17 10:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2023-06-17 10:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2023-06-17 10:53:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_sheet": {
+    "criteria": {
+      "has_sheet": "2023-06-17 10:53:56 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2023-06-17 10:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/blue_cape_light_blue_wool": {
+    "criteria": {
+      "has_light_blue_wool": "2023-06-17 10:53:56 +0000"
     },
     "done": true
   },
@@ -9836,21 +9944,105 @@
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/diopside_axe": {
+  "blue_skies:recipes/building_blocks/glowing_blinding_slab": {
     "criteria": {
-      "has_resource": "2023-06-17 11:21:52 +0000"
+      "has_item": "2023-06-17 10:55:13 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smelting_municipal_monkfish": {
+  "blue_skies:recipes/building_blocks/glowing_blinding_wall": {
     "criteria": {
-      "has_item": "2023-06-17 11:45:25 +0000"
+      "has_item": "2023-06-17 10:55:13 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/combat/diopside_leggings": {
+  "blue_skies:recipes/building_blocks/glowing_blinding_wall_stonecutting_glowing_blinding_stone": {
     "criteria": {
-      "has_item": "2023-06-17 11:21:52 +0000"
+      "has_item": "2023-06-17 10:55:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stairs_stonecutting_glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 10:55:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stairs": {
+    "criteria": {
+      "has_item": "2023-06-17 10:55:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_wall": {
+    "criteria": {
+      "has_item": "2023-06-17 10:55:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_slab_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 10:55:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_slab": {
+    "criteria": {
+      "has_item": "2023-06-17 10:55:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/carved_blinding_stone_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 10:55:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stone_pillar_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 10:55:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stairs": {
+    "criteria": {
+      "has_item": "2023-06-17 10:55:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_stairs_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 10:55:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/blinding_wall_stonecutting_blinding_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 10:55:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/kill_summoner": {
+    "criteria": {
+      "kill_summoner": "2023-06-17 10:58:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter_nature_dungeon": {
+    "criteria": {
+      "entered_dungeon": "2023-06-17 11:02:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stonebrick_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 11:03:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stone_pillar_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 11:03:13 +0000"
     },
     "done": true
   },
@@ -9866,51 +10058,123 @@
     },
     "done": true
   },
-  "blue_skies:regrowth": {
-    "criteria": {
-      "have_sapling": "2023-06-17 11:43:06 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_blinding_slab": {
-    "criteria": {
-      "has_item": "2023-06-17 10:55:13 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_light_blue": {
-    "criteria": {
-      "has_light_blue_wool": "2023-06-17 10:53:56 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/nature_stonebrick": {
     "criteria": {
       "has_item": "2023-06-17 11:03:13 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
+  "blue_skies:recipes/building_blocks/nature_stone_stairs_stonecutting_nature_stone": {
     "criteria": {
-      "has_resource": "2023-06-17 10:32:45 +0000"
+      "has_item": "2023-06-17 11:03:13 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/frostbright_chest": {
+  "blue_skies:recipes/building_blocks/nature_stonebrick_wall_stonecutting_nature_stone": {
     "criteria": {
-      "has_item": "2023-06-17 11:47:48 +0000"
+      "has_item": "2023-06-17 11:03:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stone_slab": {
+    "criteria": {
+      "has_item": "2023-06-17 11:03:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stone_stairs": {
+    "criteria": {
+      "has_item": "2023-06-17 11:03:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/carved_nature_stonebrick_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 11:03:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/nature_stone_slab_stonecutting_nature_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 11:03:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone_slab_stonecutting_glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 11:05:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone_stairs_stonecutting_glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 11:05:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone_stairs": {
+    "criteria": {
+      "has_item": "2023-06-17 11:05:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_stairs_stonecutting_glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 11:05:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick": {
+    "criteria": {
+      "has_item": "2023-06-17 11:05:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_slab_stonecutting_glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 11:05:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_wall_stonecutting_glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 11:05:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_stonecutting_glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 11:05:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone_slab": {
+    "criteria": {
+      "has_item": "2023-06-17 11:05:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/pink_dye_from_blush_blossom": {
+    "criteria": {
+      "has_item": "2023-06-17 11:05:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/diopside_axe": {
+    "criteria": {
+      "has_resource": "2023-06-17 11:21:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/diopside_leggings": {
+    "criteria": {
+      "has_item": "2023-06-17 11:21:52 +0000"
     },
     "done": true
   },
   "blue_skies:recipes/blue_skies_tools/diopside_shovel": {
     "criteria": {
       "has_resource": "2023-06-17 11:21:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/nature_stone_stairs_stonecutting_nature_stone": {
-    "criteria": {
-      "has_item": "2023-06-17 11:03:13 +0000"
     },
     "done": true
   },
@@ -9932,117 +10196,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_carpet": {
-    "criteria": {
-      "has_light_blue_wool": "2023-06-17 10:53:56 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall_stonecutting_turquoise_cobblestone": {
-    "criteria": {
-      "has_item": "2023-06-17 10:32:45 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/nature_stonebrick_wall_stonecutting_nature_stone": {
-    "criteria": {
-      "has_item": "2023-06-17 11:03:13 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/aquite_from_smelting_raw_aquite": {
-    "criteria": {
-      "has_item": "2023-06-17 10:32:43 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/blinding_wall": {
-    "criteria": {
-      "has_item": "2023-06-17 10:55:40 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/blinding_slab_stonecutting_blinding_stone": {
-    "criteria": {
-      "has_item": "2023-06-17 10:55:40 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/nature_stone_slab": {
-    "criteria": {
-      "has_item": "2023-06-17 11:03:13 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/combat/diopside_helmet": {
     "criteria": {
       "has_item": "2023-06-17 11:21:52 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/glowing_blinding_wall": {
-    "criteria": {
-      "has_item": "2023-06-17 10:55:13 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/blinding_slab": {
-    "criteria": {
-      "has_item": "2023-06-17 10:55:40 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_blinding_wall_stonecutting_glowing_blinding_stone": {
-    "criteria": {
-      "has_item": "2023-06-17 10:55:13 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:progression/unlock_everbright_blinding_key_trade": {
-    "criteria": {
-      "click_keystone": "2023-06-17 10:50:41 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_hoe": {
-    "criteria": {
-      "has_resource": "2023-06-17 10:32:45 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/pink_dye_from_blush_blossom": {
-    "criteria": {
-      "has_item": "2023-06-17 11:05:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick": {
-    "criteria": {
-      "has_item": "2023-06-17 11:05:20 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/combat/diopside_boots": {
     "criteria": {
       "has_item": "2023-06-17 11:21:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/carved_blinding_stone_stonecutting_blinding_stone": {
-    "criteria": {
-      "has_item": "2023-06-17 10:55:40 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_stone": {
-    "criteria": {
-      "has_item": "2023-06-17 10:31:41 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
-    "criteria": {
-      "has_resource": "2023-06-17 10:32:45 +0000"
     },
     "done": true
   },
@@ -10058,21 +10220,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/frostbright_ladder": {
+  "blue_skies:recipes/misc/diopside_block": {
     "criteria": {
-      "has_item": "2023-06-17 11:47:48 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/nature_stone_stairs": {
-    "criteria": {
-      "has_item": "2023-06-17 11:03:13 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_slab_stonecutting_glowing_nature_stone": {
-    "criteria": {
-      "has_item": "2023-06-17 11:05:20 +0000"
+      "has_item": "2023-06-17 11:21:52 +0000"
     },
     "done": true
   },
@@ -10082,123 +10232,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_banner": {
+  "blue_skies:progression/unlock_nature_key_trade": {
     "criteria": {
-      "has_light_blue_wool": "2023-06-17 10:53:56 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs_stonecutting_turquoise_cobblestone": {
-    "criteria": {
-      "has_item": "2023-06-17 10:32:45 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smoking_municipal_monkfish": {
-    "criteria": {
-      "has_item": "2023-06-17 11:45:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/packed_ice": {
-    "criteria": {
-      "has_ice": "2023-06-17 10:30:43 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab": {
-    "criteria": {
-      "has_item": "2023-06-17 10:32:45 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/pine_fruit_seeds": {
-    "criteria": {
-      "has_item": "2023-06-17 11:47:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/blinding_stone_pillar_stonecutting_blinding_stone": {
-    "criteria": {
-      "has_item": "2023-06-17 10:55:40 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/blinding_stairs": {
-    "criteria": {
-      "has_item": "2023-06-17 10:55:40 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/food/cooked_municipal_monkfish_from_campfire_cooking_municipal_monkfish": {
-    "criteria": {
-      "has_item": "2023-06-17 11:45:25 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/diopside_block": {
-    "criteria": {
-      "has_item": "2023-06-17 11:21:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_wall_stonecutting_glowing_nature_stone": {
-    "criteria": {
-      "has_item": "2023-06-17 11:05:20 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/light_blue_sheet": {
-    "criteria": {
-      "has_sheet": "2023-06-17 10:53:56 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_blinding_stairs_stonecutting_glowing_blinding_stone": {
-    "criteria": {
-      "has_item": "2023-06-17 10:55:13 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
-    "criteria": {
-      "has_resource": "2023-06-17 10:32:45 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/raw_aquite_block_from_raw_aquite": {
-    "criteria": {
-      "has_item": "2023-06-17 10:32:43 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_stonecutting_glowing_nature_stone": {
-    "criteria": {
-      "has_item": "2023-06-17 11:05:20 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/aquite_from_blasting_raw_aquite": {
-    "criteria": {
-      "has_item": "2023-06-17 10:32:43 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_light_blue": {
-    "criteria": {
-      "has_light_blue_wool": "2023-06-17 10:53:56 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/glowing_nature_stone_slab": {
-    "criteria": {
-      "has_item": "2023-06-17 11:05:20 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everbright/kill_summoner": {
-    "criteria": {
-      "kill_summoner": "2023-06-17 10:58:03 +0000"
+      "click_keystone": "2023-06-17 11:31:32 +0000"
     },
     "done": true
   },
@@ -10208,87 +10244,105 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/carved_nature_stonebrick_stonecutting_nature_stone": {
+  "blue_skies:recipes/misc/winter_leaf_seeds": {
     "criteria": {
-      "has_item": "2023-06-17 11:03:13 +0000"
+      "has_item": "2023-06-17 11:43:06 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/nature_stone_slab_stonecutting_nature_stone": {
+  "blue_skies:regrowth": {
     "criteria": {
-      "has_item": "2023-06-17 11:03:13 +0000"
+      "have_sapling": "2023-06-17 11:43:06 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/turquoise_stone_from_smelting_turquoise_cobblestone": {
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smelting_municipal_monkfish": {
     "criteria": {
-      "has_item": "2023-06-17 10:32:45 +0000"
+      "has_item": "2023-06-17 11:45:25 +0000"
     },
     "done": true
   },
-  "blue_skies:everbright/enter_nature_dungeon": {
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smoking_municipal_monkfish": {
     "criteria": {
-      "entered_dungeon": "2023-06-17 11:02:31 +0000"
+      "has_item": "2023-06-17 11:45:25 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/food/cherry_pie_with_iron": {
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_campfire_cooking_municipal_monkfish": {
     "criteria": {
-      "has_item": "2023-06-17 10:50:29 +0000"
+      "has_item": "2023-06-17 11:45:25 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/blinding_stairs_stonecutting_blinding_stone": {
+  "blue_skies:recipes/building_blocks/frostbright_chest": {
     "criteria": {
-      "has_item": "2023-06-17 10:55:40 +0000"
+      "has_item": "2023-06-17 11:47:48 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/glowing_blinding_stairs": {
+  "blue_skies:recipes/building_blocks/frostbright_ladder": {
     "criteria": {
-      "has_item": "2023-06-17 10:55:13 +0000"
+      "has_item": "2023-06-17 11:47:48 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
+  "blue_skies:recipes/misc/pine_fruit_seeds": {
     "criteria": {
-      "has_resource": "2023-06-17 10:32:45 +0000"
+      "has_item": "2023-06-17 11:47:52 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone_crystal": {
+  "conjurer_illager:find_theatre": {
     "criteria": {
-      "has_item": "2023-06-17 10:41:42 +0000"
+      "in_theater": "2023-06-18 15:15:09 +0000"
     },
     "done": true
   },
-  "blue_skies:keys": {
+  "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
-      "obtain_key": "2023-06-17 10:49:30 +0000"
+      "has_diamond_chestplate": "2023-06-18 15:22:48 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs": {
+  "aether:recipes/combat/diamond_sword_repairing": {
     "criteria": {
-      "has_item": "2023-06-17 10:32:45 +0000"
+      "has_diamond_sword": "2023-06-18 15:26:08 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/blinding_wall_stonecutting_blinding_stone": {
+  "handcrafted:recipes/misc/fancy_painting": {
     "criteria": {
-      "has_item": "2023-06-17 10:55:40 +0000"
+      "has_painting": "2023-06-18 15:32:13 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall": {
+  "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
-      "has_item": "2023-06-17 10:32:45 +0000"
+      "has_iron_bars": "2023-06-18 15:32:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/blue_cape_light_blue_wool": {
+  "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
-      "has_light_blue_wool": "2023-06-17 10:53:56 +0000"
+      "has_diamond_helmet": "2023-06-18 15:22:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2023-06-18 15:19:31 +0000"
+    },
+    "done": true
+  },
+  "conjurer_illager:kill_conjurer": {
+    "criteria": {
+      "kill_conjurer": "2023-06-18 15:30:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2023-06-18 15:19:31 +0000"
     },
     "done": true
   },

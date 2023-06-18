@@ -7611,6 +7611,32 @@
     },
     "done": true
   },
+  "blue_skies:recipes/food/cooked_monitor_tail_from_campfire_cooking_monitor_tail": {
+    "criteria": {
+      "has_item": "2023-06-18 11:19:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_monitor_tail_from_smoking_monitor_tail": {
+    "criteria": {
+      "has_item": "2023-06-18 11:19:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_monitor_tail_from_smelting_monitor_tail": {
+    "criteria": {
+      "has_item": "2023-06-18 11:19:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_bug": {
+    "criteria": {
+      "kill_emberback": "2023-06-18 11:20:49 +0000",
+      "kill_infested_swarmer": "2023-06-18 13:39:01 +0000",
+      "kill_venom_spider": "2023-06-18 13:16:17 +0000"
+    },
+    "done": false
+  },
   "blue_skies:recipes/blue_skies_tools/maple_pickaxe": {
     "criteria": {
       "has_resource": "2023-06-18 11:22:17 +0000"
@@ -7626,18 +7652,6 @@
   "blue_skies:recipes/blue_skies_tools/maple_shovel": {
     "criteria": {
       "has_resource": "2023-06-18 11:22:17 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/food/cooked_monitor_tail_from_campfire_cooking_monitor_tail": {
-    "criteria": {
-      "has_item": "2023-06-18 11:19:53 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:progression/unlock_everdawn_blinding_key_trade": {
-    "criteria": {
-      "click_keystone": "2023-06-18 11:35:23 +0000"
     },
     "done": true
   },
@@ -7665,21 +7679,9 @@
     },
     "done": true
   },
-  "blue_skies:enter_blinding_dungeon": {
-    "criteria": {
-      "entered_everdawn_blinding_dungeon": "2023-06-18 11:22:19 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/maple_stairs": {
     "criteria": {
       "has_item": "2023-06-18 11:22:17 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/food/cooked_monitor_tail_from_smoking_monitor_tail": {
-    "criteria": {
-      "has_item": "2023-06-18 11:19:53 +0000"
     },
     "done": true
   },
@@ -7731,9 +7733,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/food/cooked_monitor_tail_from_smelting_monitor_tail": {
+  "blue_skies:enter_blinding_dungeon": {
     "criteria": {
-      "has_item": "2023-06-18 11:19:53 +0000"
+      "entered_everdawn_blinding_dungeon": "2023-06-18 11:22:19 +0000"
     },
     "done": true
   },
@@ -7743,11 +7745,395 @@
     },
     "done": true
   },
-  "blue_skies:everdawn/kill_bug": {
+  "blue_skies:progression/unlock_everdawn_blinding_key_trade": {
     "criteria": {
-      "kill_emberback": "2023-06-18 11:20:49 +0000"
+      "click_keystone": "2023-06-18 11:35:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_horizofin_tunid_from_smoking_horizofin_tunid": {
+    "criteria": {
+      "has_item": "2023-06-18 13:17:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_horizofin_tunid_from_campfire_cooking_horizofin_tunid": {
+    "criteria": {
+      "has_item": "2023-06-18 13:17:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_horizofin_tunid_from_smelting_horizofin_tunid": {
+    "criteria": {
+      "has_item": "2023-06-18 13:17:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs_stonecutting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-18 13:18:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_sword": {
+    "criteria": {
+      "has_resource": "2023-06-18 13:18:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_stairs": {
+    "criteria": {
+      "has_item": "2023-06-18 13:18:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_axe": {
+    "criteria": {
+      "has_resource": "2023-06-18 13:18:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-18 13:18:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-18 13:18:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stone_from_smelting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-18 13:18:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_wall": {
+    "criteria": {
+      "has_item": "2023-06-18 13:18:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_wall_stonecutting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-18 13:18:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_slab_stonecutting_lunar_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-18 13:18:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_cobblestone_slab": {
+    "criteria": {
+      "has_item": "2023-06-18 13:18:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/lunar_lever": {
+    "criteria": {
+      "has_item": "2023-06-18 13:18:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/lunar_stone_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-18 13:18:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/sunstone_block": {
+    "criteria": {
+      "has_item": "2023-06-18 13:19:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/polished_cinderstone": {
+    "criteria": {
+      "has_item": "2023-06-18 13:24:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cinderstone_wall": {
+    "criteria": {
+      "has_item": "2023-06-18 13:24:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cinderstone_stairs": {
+    "criteria": {
+      "has_item": "2023-06-18 13:24:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cinderstone_stairs_stonecutting_cinderstone": {
+    "criteria": {
+      "has_item": "2023-06-18 13:24:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cinderstone_wall_stonecutting_cinderstone": {
+    "criteria": {
+      "has_item": "2023-06-18 13:24:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/polished_cinderstone_stonecutting_cinderstone": {
+    "criteria": {
+      "has_item": "2023-06-18 13:24:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cinderstone_slab_stonecutting_cinderstone": {
+    "criteria": {
+      "has_item": "2023-06-18 13:24:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cinderstone_slab": {
+    "criteria": {
+      "has_item": "2023-06-18 13:24:13 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/sunstone_crystal_from_block": {
+    "criteria": {
+      "has_item": "2023-06-18 13:28:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/umber_wall": {
+    "criteria": {
+      "has_item": "2023-06-18 13:29:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/umber_wall_stonecutting_umber": {
+    "criteria": {
+      "has_item": "2023-06-18 13:29:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/polished_umber_stonecutting_umber": {
+    "criteria": {
+      "has_item": "2023-06-18 13:29:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/umber_slab_stonecutting_umber": {
+    "criteria": {
+      "has_item": "2023-06-18 13:29:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/polished_umber": {
+    "criteria": {
+      "has_item": "2023-06-18 13:29:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/umber_stairs_stonecutting_umber": {
+    "criteria": {
+      "has_item": "2023-06-18 13:29:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/umber_stairs": {
+    "criteria": {
+      "has_item": "2023-06-18 13:29:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/umber_slab": {
+    "criteria": {
+      "has_item": "2023-06-18 13:29:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stone": {
+    "criteria": {
+      "has_item": "2023-06-18 13:34:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2023-06-18 13:39:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/horizonite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2023-06-18 13:40:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-18 13:40:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/horizonite_block": {
+    "criteria": {
+      "has_item": "2023-06-18 13:40:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_sword": {
+    "criteria": {
+      "has_resource": "2023-06-18 13:40:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-18 13:40:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/horizonite_forge": {
+    "criteria": {
+      "has_item": "2023-06-18 13:40:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/get_horizonite": {
+    "criteria": {
+      "obtain_material": "2023-06-18 13:40:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/horizonite_boots": {
+    "criteria": {
+      "has_item": "2023-06-18 13:40:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/horizonite_leggings": {
+    "criteria": {
+      "has_item": "2023-06-18 13:40:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/horizonite_chestplate": {
+    "criteria": {
+      "has_item": "2023-06-18 13:40:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-18 13:40:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/horizonite_helmet": {
+    "criteria": {
+      "has_item": "2023-06-18 13:40:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/horizonite_axe": {
+    "criteria": {
+      "has_resource": "2023-06-18 13:40:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_chest": {
+    "criteria": {
+      "has_item": "2023-06-18 13:44:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_ladder": {
+    "criteria": {
+      "has_item": "2023-06-18 13:44:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:persian": "2023-06-18 14:37:57 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2023-06-18 14:37:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rimestone_slab_stonecutting_rimestone": {
+    "criteria": {
+      "has_item": "2023-06-18 16:42:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/polished_rimestone": {
+    "criteria": {
+      "has_item": "2023-06-18 16:42:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rimestone_stairs_stonecutting_rimestone": {
+    "criteria": {
+      "has_item": "2023-06-18 16:42:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rimestone_wall_stonecutting_rimestone": {
+    "criteria": {
+      "has_item": "2023-06-18 16:42:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rimestone_stairs": {
+    "criteria": {
+      "has_item": "2023-06-18 16:42:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rimestone_wall": {
+    "criteria": {
+      "has_item": "2023-06-18 16:42:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/raw_falsite_block_from_raw_falsite": {
+    "criteria": {
+      "has_item": "2023-06-18 16:33:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/falsite_ingot_from_smelting_raw_falsite": {
+    "criteria": {
+      "has_item": "2023-06-18 16:33:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/rimestone_slab": {
+    "criteria": {
+      "has_item": "2023-06-18 16:42:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/falsite_ingot_from_blasting_raw_falsite": {
+    "criteria": {
+      "has_item": "2023-06-18 16:33:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/polished_rimestone_stonecutting_rimestone": {
+    "criteria": {
+      "has_item": "2023-06-18 16:42:50 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3337
 }
