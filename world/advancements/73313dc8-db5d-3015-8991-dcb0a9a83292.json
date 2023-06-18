@@ -1314,6 +1314,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2023-06-17 21:34:17 +0000",
       "minecraft:old_growth_pine_taiga": "2023-06-13 23:17:38 +0000",
       "minecraft:taiga": "2023-06-13 23:20:00 +0000",
       "minecraft:frozen_river": "2023-06-14 21:50:50 +0000",
@@ -1325,6 +1326,7 @@
       "minecraft:stony_shore": "2023-06-12 22:59:36 +0000",
       "minecraft:snowy_plains": "2023-06-14 21:51:40 +0000",
       "minecraft:snowy_taiga": "2023-06-14 21:52:42 +0000",
+      "minecraft:grove": "2023-06-17 21:34:41 +0000",
       "minecraft:cold_ocean": "2023-06-16 21:45:13 +0000",
       "minecraft:forest": "2023-06-12 22:44:22 +0000",
       "minecraft:frozen_ocean": "2023-06-14 21:58:45 +0000",
@@ -3470,7 +3472,10 @@
       "minecraft:skeleton": "2023-06-12 23:33:12 +0000",
       "minecraft:spider": "2023-06-12 23:27:52 +0000",
       "minecraft:creeper": "2023-06-12 23:29:26 +0000",
+      "minecraft:enderman": "2023-06-17 21:40:25 +0000",
+      "minecraft:stray": "2023-06-17 21:40:51 +0000",
       "minecraft:zombie": "2023-06-12 23:22:15 +0000",
+      "minecraft:drowned": "2023-06-17 21:30:54 +0000",
       "minecraft:zombie_villager": "2023-06-16 11:25:11 +0000"
     },
     "done": false
@@ -6409,117 +6414,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2023-06-17 16:12:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2023-06-17 15:42:50 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/decorations/wood/spruce_banister": {
     "criteria": {
       "has_item": "2023-06-17 15:42:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2023-06-17 15:48:01 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall": {
-    "criteria": {
-      "has_item": "2023-06-17 16:17:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2023-06-17 16:00:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2023-06-17 15:42:58 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_medium_pot": {
-    "criteria": {
-      "has_gold_block": "2023-06-17 16:12:03 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
-    "criteria": {
-      "has_item": "2023-06-17 16:17:35 +0000"
-    },
-    "done": true
-  },
-  "vinery:fermentation_barrel": {
-    "criteria": {
-      "has_barrel": "2023-06-17 16:16:22 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/white_dye_from_snowbloom": {
-    "criteria": {
-      "has_item": "2023-06-17 16:16:44 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab": {
-    "criteria": {
-      "has_item": "2023-06-17 16:17:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2023-06-17 15:42:58 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/iron_ladder": {
-    "criteria": {
-      "has_iron_bars": "2023-06-17 16:20:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2023-06-17 15:42:58 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_thick_pot": {
-    "criteria": {
-      "has_gold_block": "2023-06-17 16:12:03 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_thin_pot": {
-    "criteria": {
-      "has_gold_block": "2023-06-17 16:12:03 +0000"
-    },
-    "done": true
-  },
   "twigs:recipes/tables/spruce_table_slab": {
     "criteria": {
       "has_bamboo": "2023-06-17 15:42:34 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall_stonecutting_lunar_stonebrick": {
-    "criteria": {
-      "has_item": "2023-06-17 16:17:35 +0000"
     },
     "done": true
   },
@@ -6535,6 +6438,132 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2023-06-17 15:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2023-06-17 15:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2023-06-17 15:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2023-06-17 15:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2023-06-17 15:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2023-06-17 15:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2023-06-17 15:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2023-06-17 15:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2023-06-17 15:48:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2023-06-17 16:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2023-06-17 16:12:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_gold_block": "2023-06-17 16:12:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_gold_block": "2023-06-17 16:12:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_gold_block": "2023-06-17 16:12:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_gold_block": "2023-06-17 16:12:03 +0000"
+    },
+    "done": true
+  },
+  "vinery:fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2023-06-17 16:16:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/white_dye_from_snowbloom": {
+    "criteria": {
+      "has_item": "2023-06-17 16:16:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2023-06-17 16:17:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_lunar_stonebrick_from_smelting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2023-06-17 16:17:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2023-06-17 16:17:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_stonebrick_wall_stonecutting_lunar_stonebrick": {
+    "criteria": {
+      "has_item": "2023-06-17 16:17:35 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/chiseled_lunar_stonebrick_stonecutting_lunar_stonebrick": {
     "criteria": {
       "has_item": "2023-06-17 16:17:35 +0000"
@@ -6547,45 +6576,778 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
-    "criteria": {
-      "has_dried_kelp": "2023-06-17 15:42:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2023-06-17 15:48:01 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/lunar_stonebrick_stairs": {
     "criteria": {
       "has_item": "2023-06-17 16:17:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2023-06-17 15:42:50 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_wide_pot": {
-    "criteria": {
-      "has_gold_block": "2023-06-17 16:12:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2023-06-17 15:42:50 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/lunar_stonebrick_slab_stonecutting_lunar_stonebrick": {
     "criteria": {
       "has_item": "2023-06-17 16:17:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2023-06-17 16:20:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2023-06-17 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2023-06-17 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2023-06-17 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2023-06-17 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2023-06-17 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/schist/schist": {
+    "criteria": {
+      "has_item": "2023-06-17 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite": {
+    "criteria": {
+      "has_item": "2023-06-17 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2023-06-17 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2023-06-17 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2023-06-17 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bloodstone/bloodstone": {
+    "criteria": {
+      "has_item": "2023-06-17 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2023-06-17 21:28:07 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/acacia_banister": {
+    "criteria": {
+      "has_item": "2023-06-17 21:28:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/acacia_table": {
+    "criteria": {
+      "has_the_recipe": "2023-06-17 21:28:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/acacia_table_slab": {
+    "criteria": {
+      "has_bamboo": "2023-06-17 21:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2023-06-17 21:29:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:root": {
+    "criteria": {
+      "enter_everdawn": "2023-06-17 21:53:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/enter": {
+    "criteria": {
+      "enter_everdawn": "2023-06-17 21:53:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:thinking_with_portals": {
+    "criteria": {
+      "enter_everbright": "2023-06-17 21:54:42 +0000",
+      "enter_everdawn": "2023-06-17 21:53:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/yellow_dye_from_lucentroot": {
+    "criteria": {
+      "has_item": "2023-06-17 21:53:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_item": "2023-06-17 21:54:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/get_wood": {
+    "criteria": {
+      "has_maple_log": "2023-06-17 21:54:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/enter": {
+    "criteria": {
+      "enter_everbright": "2023-06-17 21:54:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_wood": {
+    "criteria": {
+      "has_frostbright_log": "2023-06-17 21:55:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_planks": {
+    "criteria": {
+      "has_item": "2023-06-17 21:55:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_planks": {
+    "criteria": {
+      "has_item": "2023-06-17 21:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2023-06-17 21:59:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/turquoise_lever": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_axe": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_sword": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs_stonecutting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_slab": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/furnace_compat": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone_from_smelting_turquoise_cobblestone": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/turquoise_stone_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_stairs": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_cobblestone_wall": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:11 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/frostbright_stick": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_stairs": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/frostbright_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_crafting_table": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_fence_gate": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/frostbright_button": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_trapdoor": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_sign": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/frostbright_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_door": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_fence": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/frostbright_axe": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_slab": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/frostbright_pressure_plate": {
+    "criteria": {
+      "has_item": "2023-06-17 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/frostbright_sword": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/frostbright_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:00:57 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_chest": {
+    "criteria": {
+      "has_item": "2023-06-17 22:01:09 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_ladder": {
+    "criteria": {
+      "has_item": "2023-06-17 22:01:09 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/pyrope_block": {
+    "criteria": {
+      "has_item": "2023-06-17 22:07:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_helmet": {
+    "criteria": {
+      "has_item": "2023-06-17 22:07:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_pyrope": {
+    "criteria": {
+      "obtain_material": "2023-06-17 22:07:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_axe": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:07:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:07:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:07:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_boots": {
+    "criteria": {
+      "has_item": "2023-06-17 22:07:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_sword": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:07:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_leggings": {
+    "criteria": {
+      "has_item": "2023-06-17 22:07:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/pyrope_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:07:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/pyrope_chestplate": {
+    "criteria": {
+      "has_item": "2023-06-17 22:07:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stone": {
+    "criteria": {
+      "has_item": "2023-06-17 22:08:12 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smelting_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2023-06-17 22:18:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_smoking_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2023-06-17 22:18:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_municipal_monkfish_from_campfire_cooking_municipal_monkfish": {
+    "criteria": {
+      "has_item": "2023-06-17 22:18:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/taratite_wall": {
+    "criteria": {
+      "has_item": "2023-06-17 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/polished_taratite_stonecutting_taratite": {
+    "criteria": {
+      "has_item": "2023-06-17 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/taratite_slab_stonecutting_taratite": {
+    "criteria": {
+      "has_item": "2023-06-17 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/taratite_slab": {
+    "criteria": {
+      "has_item": "2023-06-17 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/taratite_stairs": {
+    "criteria": {
+      "has_item": "2023-06-17 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/polished_taratite": {
+    "criteria": {
+      "has_item": "2023-06-17 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/stonecutter_compat": {
+    "criteria": {
+      "has_item": "2023-06-17 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/taratite_wall_stonecutting_taratite": {
+    "criteria": {
+      "has_item": "2023-06-17 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/taratite_stairs_stonecutting_taratite": {
+    "criteria": {
+      "has_item": "2023-06-17 22:21:15 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/moonstone_block_from_moonstone_crystal": {
+    "criteria": {
+      "has_item": "2023-06-17 22:25:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_from_smelting_raw_aquite": {
+    "criteria": {
+      "has_item": "2023-06-17 22:27:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/raw_aquite_block_from_raw_aquite": {
+    "criteria": {
+      "has_item": "2023-06-17 22:27:10 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_from_blasting_raw_aquite": {
+    "criteria": {
+      "has_item": "2023-06-17 22:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2023-06-17 22:30:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/starlit_button": {
+    "criteria": {
+      "has_item": "2023-06-17 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/starlit_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_stairs": {
+    "criteria": {
+      "has_item": "2023-06-17 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/starlit_pressure_plate": {
+    "criteria": {
+      "has_item": "2023-06-17 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_door": {
+    "criteria": {
+      "has_item": "2023-06-17 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/starlit_stick": {
+    "criteria": {
+      "has_item": "2023-06-17 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_crafting_table": {
+    "criteria": {
+      "has_item": "2023-06-17 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/starlit_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_sign": {
+    "criteria": {
+      "has_item": "2023-06-17 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/starlit_sword": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_slab": {
+    "criteria": {
+      "has_item": "2023-06-17 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_fence": {
+    "criteria": {
+      "has_item": "2023-06-17 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/starlit_axe": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/starlit_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_fence_gate": {
+    "criteria": {
+      "has_item": "2023-06-17 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_trapdoor": {
+    "criteria": {
+      "has_item": "2023-06-17 22:31:50 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_chest": {
+    "criteria": {
+      "has_item": "2023-06-17 22:31:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_ladder": {
+    "criteria": {
+      "has_item": "2023-06-17 22:31:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_hoe": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_axe": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_sword": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_leggings": {
+    "criteria": {
+      "has_item": "2023-06-17 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_boots": {
+    "criteria": {
+      "has_item": "2023-06-17 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_aquite": {
+    "criteria": {
+      "obtain_material": "2023-06-17 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_helmet": {
+    "criteria": {
+      "has_item": "2023-06-17 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/aquite_pickaxe": {
+    "criteria": {
+      "has_resource": "2023-06-17 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/aquite_chestplate": {
+    "criteria": {
+      "has_item": "2023-06-17 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/aquite_block": {
+    "criteria": {
+      "has_item": "2023-06-17 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_venison_from_campfire_cooking_venison": {
+    "criteria": {
+      "has_item": "2023-06-17 22:38:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_venison_from_smelting_venison": {
+    "criteria": {
+      "has_item": "2023-06-17 22:38:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_venison_from_smoking_venison": {
+    "criteria": {
+      "has_item": "2023-06-17 22:38:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/pine_fruit_seeds": {
+    "criteria": {
+      "has_item": "2023-06-17 22:41:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/warding_pearl": {
+    "criteria": {
+      "has_item": "2023-06-17 22:43:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/light_blue_dye_from_frose": {
+    "criteria": {
+      "has_item": "2023-06-17 22:43:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_chest": {
+    "criteria": {
+      "has_item": "2023-06-17 22:44:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_ladder": {
+    "criteria": {
+      "has_item": "2023-06-17 22:44:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2023-06-17 23:46:43 +0000"
     },
     "done": true
   },
