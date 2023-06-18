@@ -1825,6 +1825,7 @@
       "minecraft:frozen_ocean": "2023-06-13 19:58:12 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-06-14 13:50:28 +0000",
       "minecraft:snowy_beach": "2023-06-13 19:58:10 +0000",
+      "minecraft:old_growth_birch_forest": "2023-06-18 11:39:23 +0000",
       "minecraft:deep_dark": "2023-06-12 13:55:52 +0000",
       "minecraft:meadow": "2023-06-14 18:27:29 +0000"
     },
@@ -2413,6 +2414,7 @@
       "minecraft:skeleton": "2023-06-12 12:28:42 +0000",
       "minecraft:spider": "2023-06-12 14:56:13 +0000",
       "minecraft:creeper": "2023-06-12 12:45:43 +0000",
+      "minecraft:evoker": "2023-06-18 11:57:48 +0000",
       "minecraft:cave_spider": "2023-06-12 14:06:41 +0000",
       "minecraft:silverfish": "2023-06-12 15:53:07 +0000",
       "minecraft:zombie": "2023-06-12 12:19:29 +0000",
@@ -9193,6 +9195,132 @@
   "biomemakeover:biomemakeover/illunite_shard": {
     "criteria": {
       "get_stew": "2023-06-16 17:42:23 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-18 11:40:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-18 11:40:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-18 11:40:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-18 11:40:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-18 11:40:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-18 11:40:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-18 11:40:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-18 11:40:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-18 11:40:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2023-06-18 11:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2023-06-18 11:40:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-18 11:40:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2023-06-18 11:40:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-18 11:40:30 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-18 11:40:30 +0000"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/moth_scales": {
+    "criteria": {
+      "get_stew": "2023-06-18 11:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2023-06-18 11:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2023-06-18 11:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2023-06-18 11:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2023-06-18 11:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2023-06-18 11:53:22 +0000"
     },
     "done": true
   },

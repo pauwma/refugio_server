@@ -3470,8 +3470,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2023-06-12 23:33:12 +0000",
+      "minecraft:vindicator": "2023-06-18 11:33:15 +0000",
       "minecraft:spider": "2023-06-12 23:27:52 +0000",
       "minecraft:creeper": "2023-06-12 23:29:26 +0000",
+      "minecraft:witch": "2023-06-18 11:24:00 +0000",
       "minecraft:enderman": "2023-06-17 21:40:25 +0000",
       "minecraft:stray": "2023-06-17 21:40:51 +0000",
       "minecraft:zombie": "2023-06-12 23:22:15 +0000",
@@ -7369,21 +7371,15 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_light_blue_pane2": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "recipe_condition1": "2023-06-18 00:25:26 +0000"
+      "has_iron_block": "2023-06-18 00:17:08 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_pink_pane2": {
+  "minecraft:recipes/decorations/anvil": {
     "criteria": {
-      "recipe_condition1": "2023-06-18 00:25:26 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_magenta_pane2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-18 00:25:26 +0000"
+      "has_iron_block": "2023-06-18 00:17:08 +0000"
     },
     "done": true
   },
@@ -7408,6 +7404,108 @@
   "connectedglass:recipes/misc/borderless_glass_white2": {
     "criteria": {
       "recipe_condition1": "2023-06-18 00:24:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-18 00:24:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_blue2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-18 00:24:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-18 00:24:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_gray2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-18 00:24:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-18 00:24:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_purple2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-18 00:24:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-18 00:24:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-18 00:24:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_lime2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-18 00:24:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_magenta2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-18 00:24:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pane3": {
+    "criteria": {
+      "recipe_condition": "2023-06-18 00:24:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_brown2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-18 00:24:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-18 00:24:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass1": {
+    "criteria": {
+      "recipe_condition": "2023-06-18 00:24:50 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_light_blue_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-18 00:25:26 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_pink_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-18 00:25:26 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_magenta_pane2": {
+    "criteria": {
+      "recipe_condition1": "2023-06-18 00:25:26 +0000"
     },
     "done": true
   },
@@ -7441,36 +7539,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2023-06-18 00:25:42 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_red2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-18 00:24:50 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_blue2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-18 00:24:50 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_light_gray2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-18 00:24:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2023-06-18 00:17:08 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/borderless_glass_cyan_pane2": {
     "criteria": {
       "recipe_condition1": "2023-06-18 00:25:26 +0000"
@@ -7483,27 +7551,9 @@
     },
     "done": true
   },
-  "iammusicplayer:iammusicplayer/add_music": {
-    "criteria": {
-      "add_music": "2023-06-18 00:31:17 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_gray2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-18 00:24:50 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/clear_glass_pane1": {
     "criteria": {
       "recipe_condition": "2023-06-18 00:25:26 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_yellow2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-18 00:24:50 +0000"
     },
     "done": true
   },
@@ -7519,24 +7569,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2023-06-18 00:25:42 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_purple2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-18 00:24:50 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_green2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-18 00:24:50 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/borderless_glass_purple_pane2": {
     "criteria": {
       "recipe_condition1": "2023-06-18 00:25:26 +0000"
@@ -7549,27 +7581,9 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_pink2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-18 00:24:50 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/borderless_glass_red_pane2": {
     "criteria": {
       "recipe_condition1": "2023-06-18 00:25:26 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_lime2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-18 00:24:50 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/misc/borderless_glass_magenta2": {
-    "criteria": {
-      "recipe_condition1": "2023-06-18 00:24:50 +0000"
     },
     "done": true
   },
@@ -7579,35 +7593,161 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_pane3": {
+  "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
-      "recipe_condition": "2023-06-18 00:24:50 +0000"
+      "has_redstone_block": "2023-06-18 00:25:42 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_brown2": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "recipe_condition1": "2023-06-18 00:24:50 +0000"
+      "has_redstone_block": "2023-06-18 00:25:42 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_cyan2": {
+  "iammusicplayer:iammusicplayer/add_music": {
     "criteria": {
-      "recipe_condition1": "2023-06-18 00:24:50 +0000"
+      "add_music": "2023-06-18 00:31:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "blue_skies:recipes/blue_skies_tools/maple_pickaxe": {
     "criteria": {
-      "has_iron_block": "2023-06-18 00:17:08 +0000"
+      "has_resource": "2023-06-18 11:22:17 +0000"
     },
     "done": true
   },
-  "connectedglass:recipes/misc/clear_glass1": {
+  "blue_skies:recipes/blue_skies_tools/maple_hoe": {
     "criteria": {
-      "recipe_condition": "2023-06-18 00:24:50 +0000"
+      "has_resource": "2023-06-18 11:22:17 +0000"
     },
     "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_shovel": {
+    "criteria": {
+      "has_resource": "2023-06-18 11:22:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_monitor_tail_from_campfire_cooking_monitor_tail": {
+    "criteria": {
+      "has_item": "2023-06-18 11:19:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:progression/unlock_everdawn_blinding_key_trade": {
+    "criteria": {
+      "click_keystone": "2023-06-18 11:35:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/maple_stick": {
+    "criteria": {
+      "has_item": "2023-06-18 11:22:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_item": "2023-06-18 11:22:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_item": "2023-06-18 11:22:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_trapdoor": {
+    "criteria": {
+      "has_item": "2023-06-18 11:22:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:enter_blinding_dungeon": {
+    "criteria": {
+      "entered_everdawn_blinding_dungeon": "2023-06-18 11:22:19 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_item": "2023-06-18 11:22:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_monitor_tail_from_smoking_monitor_tail": {
+    "criteria": {
+      "has_item": "2023-06-18 11:19:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_crafting_table": {
+    "criteria": {
+      "has_item": "2023-06-18 11:22:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_sign": {
+    "criteria": {
+      "has_item": "2023-06-18 11:22:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_fence_gate": {
+    "criteria": {
+      "has_item": "2023-06-18 11:22:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_axe": {
+    "criteria": {
+      "has_resource": "2023-06-18 11:22:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_item": "2023-06-18 11:22:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_fence": {
+    "criteria": {
+      "has_item": "2023-06-18 11:22:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/maple_sword": {
+    "criteria": {
+      "has_resource": "2023-06-18 11:22:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_door": {
+    "criteria": {
+      "has_item": "2023-06-18 11:22:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_monitor_tail_from_smelting_monitor_tail": {
+    "criteria": {
+      "has_item": "2023-06-18 11:19:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:keys": {
+    "criteria": {
+      "obtain_key": "2023-06-18 11:23:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everdawn/kill_bug": {
+    "criteria": {
+      "kill_emberback": "2023-06-18 11:20:49 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3337
 }
