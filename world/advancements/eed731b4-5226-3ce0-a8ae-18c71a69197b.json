@@ -10433,5 +10433,35 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2023-06-19 12:28:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2023-06-19 13:22:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2023-06-19 13:50:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2023-06-19 13:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2023-06-19 13:56:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }

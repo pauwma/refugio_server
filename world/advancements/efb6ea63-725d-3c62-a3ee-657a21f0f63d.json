@@ -65,9 +65,11 @@
       "woodland": "2023-06-13 23:51:50 +0000",
       "shrubland": "2023-06-11 16:18:17 +0000",
       "rocky_shrubland": "2023-06-11 16:19:47 +0000",
+      "scrubland": "2023-06-19 12:42:52 +0000",
       "erupting_inferno": "2023-06-11 21:40:43 +0000",
       "highland": "2023-06-11 17:24:20 +0000",
       "bamboo_grove": "2023-06-12 17:13:52 +0000",
+      "marsh": "2023-06-19 12:41:37 +0000",
       "jade_cliffs": "2023-06-11 16:57:28 +0000",
       "clover_patch": "2023-06-11 19:33:07 +0000",
       "mystic_grove": "2023-06-12 13:00:23 +0000",
@@ -83,11 +85,13 @@
       "coniferous_forest": "2023-06-11 19:43:54 +0000",
       "spider_nest": "2023-06-11 16:47:09 +0000",
       "forested_field": "2023-06-11 19:49:16 +0000",
+      "wasteland": "2023-06-19 12:45:47 +0000",
       "old_growth_dead_forest": "2023-06-15 16:41:48 +0000",
       "redwood_forest": "2023-06-11 17:11:13 +0000",
       "visceral_heap": "2023-06-12 12:55:31 +0000",
       "cherry_blossom_grove": "2023-06-12 16:22:15 +0000",
       "seasonal_orchard": "2023-06-11 23:17:35 +0000",
+      "dune_beach": "2023-06-19 12:40:26 +0000",
       "highland_moor": "2023-06-11 20:38:29 +0000",
       "seasonal_forest": "2023-06-11 21:09:08 +0000",
       "volcano": "2023-06-13 23:51:38 +0000",
@@ -2298,9 +2302,14 @@
       "minecraft:frozen_river": "2023-06-13 13:29:22 +0000",
       "minecraft:sunflower_plains": "2023-06-11 16:29:05 +0000",
       "minecraft:birch_forest": "2023-06-11 20:59:36 +0000",
+      "minecraft:windswept_hills": "2023-06-19 12:40:52 +0000",
+      "minecraft:bamboo_jungle": "2023-06-19 12:43:56 +0000",
+      "minecraft:wooded_badlands": "2023-06-19 12:48:06 +0000",
       "minecraft:beach": "2023-06-11 20:33:43 +0000",
       "minecraft:dark_forest": "2023-06-11 17:48:33 +0000",
+      "minecraft:sparse_jungle": "2023-06-19 12:43:52 +0000",
       "minecraft:river": "2023-06-11 17:48:23 +0000",
+      "minecraft:lukewarm_ocean": "2023-06-19 12:45:38 +0000",
       "minecraft:stony_shore": "2023-06-11 20:32:19 +0000",
       "minecraft:dripstone_caves": "2023-06-11 17:10:14 +0000",
       "minecraft:snowy_taiga": "2023-06-12 01:03:33 +0000",
@@ -2309,8 +2318,11 @@
       "minecraft:forest": "2023-06-11 18:29:54 +0000",
       "minecraft:lush_caves": "2023-06-14 20:49:00 +0000",
       "minecraft:deep_cold_ocean": "2023-06-11 20:32:54 +0000",
+      "minecraft:desert": "2023-06-19 12:45:48 +0000",
       "minecraft:ocean": "2023-06-11 20:33:37 +0000",
+      "minecraft:jungle": "2023-06-19 12:43:45 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-06-12 17:15:46 +0000",
+      "minecraft:warm_ocean": "2023-06-19 12:45:50 +0000",
       "minecraft:flower_forest": "2023-06-11 16:32:00 +0000",
       "minecraft:frozen_peaks": "2023-06-18 23:06:54 +0000",
       "minecraft:old_growth_birch_forest": "2023-06-11 23:46:35 +0000",
@@ -14805,6 +14817,402 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2023-06-19 00:37:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2023-06-19 12:51:15 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-19 15:46:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_glazed_wide_pot": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_glazed_wide_pot": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_thin_pot": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_flower": "2023-06-19 13:06:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_cup": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-19 15:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_medium_pot": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_bowl": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2023-06-19 14:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2023-06-19 13:12:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_plate": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2023-06-19 14:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2023-06-19 15:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2023-06-19 15:46:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cup": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-19 15:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/gongylidia": {
+    "criteria": {
+      "gongylidia": "2023-06-19 12:54:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2023-06-19 12:57:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cup": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_glazed_thick_pot": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2023-06-19 13:06:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_plate": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_plate": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-19 13:12:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2023-06-19 12:53:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2023-06-19 12:49:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_glazed_thin_pot": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_glazed_thin_pot": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2023-06-19 12:51:05 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-19 15:46:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_bowl": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_wide_pot": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_glazed_medium_pot": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_bowl": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_bowl": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-19 13:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2023-06-19 12:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2023-06-19 14:35:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_thick_pot": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:coarse_dirt_slab": {
+    "criteria": {
+      "has_coarse_dirt": "2023-06-19 12:52:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-19 13:12:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_plate": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_glazed_medium_pot": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_green2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-19 13:12:24 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_green_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-19 13:12:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cup": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_glazed_thick_pot": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_cyan2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-19 15:46:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2023-06-19 15:58:49 +0000"
     },
     "done": true
   },

@@ -10405,7 +10405,37 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2023-06-18 23:30:35 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2023-06-18 23:35:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2023-06-18 23:35:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2023-06-18 23:35:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2023-06-18 23:35:06 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
     "criteria": {
       "has_item": "2023-06-18 23:35:06 +0000"
     },
@@ -10420,9 +10450,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+  "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
-      "has_item": "2023-06-18 23:35:06 +0000"
+      "has_diamond_helmet": "2023-06-18 23:45:42 +0000"
     },
     "done": true
   },
@@ -10432,33 +10462,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
-      "has_item": "2023-06-18 23:35:06 +0000"
+      "has_diamond_pickaxe": "2023-06-19 17:54:52 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_helmet_repairing": {
+  "twilightforest:recipes/tools/charm_of_life_2": {
     "criteria": {
-      "has_diamond_helmet": "2023-06-18 23:45:42 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_boots": {
-    "criteria": {
-      "has_item": "2023-06-18 23:35:06 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2023-06-18 23:30:35 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_helmet": {
-    "criteria": {
-      "has_item": "2023-06-18 23:35:06 +0000"
+      "has_item": "2023-06-19 17:47:34 +0000"
     },
     "done": true
   },

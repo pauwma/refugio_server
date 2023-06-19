@@ -1099,6 +1099,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2023-06-19 12:23:18 +0000",
       "shrubland": "2023-06-11 16:38:10 +0000",
       "rocky_shrubland": "2023-06-09 19:50:50 +0000",
       "highland": "2023-06-11 17:11:52 +0000",
@@ -1118,12 +1119,17 @@
       "cherry_blossom_grove": "2023-06-11 17:14:58 +0000",
       "seasonal_orchard": "2023-06-12 17:14:50 +0000",
       "seasonal_forest": "2023-06-12 16:47:20 +0000",
+      "auroral_garden": "2023-06-19 12:24:32 +0000",
       "volcanic_plains": "2023-06-11 18:34:11 +0000",
       "lavender_field": "2023-06-11 18:19:11 +0000",
+      "fir_clearing": "2023-06-19 12:12:57 +0000",
       "pumpkin_patch": "2023-06-12 16:47:25 +0000",
       "grassland": "2023-06-11 19:02:13 +0000",
+      "snowy_coniferous_forest": "2023-06-19 12:24:36 +0000",
+      "snowy_fir_clearing": "2023-06-19 12:25:04 +0000",
       "rainforest": "2023-06-11 18:37:17 +0000",
       "crag": "2023-06-18 18:39:25 +0000",
+      "snowy_maple_woods": "2023-06-19 12:22:59 +0000",
       "ominous_woods": "2023-06-13 16:15:25 +0000"
     },
     "done": false
@@ -1858,6 +1864,7 @@
       "minecraft:old_growth_pine_taiga": "2023-06-12 17:13:13 +0000",
       "minecraft:taiga": "2023-06-12 17:13:04 +0000",
       "minecraft:deep_ocean": "2023-06-13 16:04:45 +0000",
+      "minecraft:frozen_river": "2023-06-19 12:18:37 +0000",
       "minecraft:sunflower_plains": "2023-06-11 18:19:10 +0000",
       "minecraft:birch_forest": "2023-06-11 19:01:02 +0000",
       "minecraft:beach": "2023-06-12 18:16:29 +0000",
@@ -1865,11 +1872,15 @@
       "minecraft:river": "2023-06-11 16:45:03 +0000",
       "minecraft:stony_shore": "2023-06-18 23:58:37 +0000",
       "minecraft:dripstone_caves": "2023-06-11 19:09:14 +0000",
+      "minecraft:snowy_taiga": "2023-06-19 12:17:56 +0000",
       "minecraft:cold_ocean": "2023-06-12 18:23:42 +0000",
       "minecraft:forest": "2023-06-12 16:47:31 +0000",
       "minecraft:deep_cold_ocean": "2023-06-13 16:05:13 +0000",
+      "minecraft:frozen_ocean": "2023-06-19 12:18:04 +0000",
+      "minecraft:deep_frozen_ocean": "2023-06-19 12:22:27 +0000",
       "minecraft:ocean": "2023-06-12 18:16:25 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-06-12 17:15:46 +0000",
+      "minecraft:snowy_beach": "2023-06-19 12:18:07 +0000",
       "minecraft:flower_forest": "2023-06-18 19:44:46 +0000",
       "minecraft:frozen_peaks": "2023-06-11 18:18:13 +0000",
       "minecraft:old_growth_birch_forest": "2023-06-12 16:27:08 +0000",
@@ -2351,7 +2362,8 @@
       "bread": "2023-06-12 16:30:36 +0000",
       "dried_kelp": "2023-06-13 16:19:26 +0000",
       "cooked_rabbit": "2023-06-11 18:55:27 +0000",
-      "cooked_chicken": "2023-06-12 18:09:57 +0000"
+      "cooked_chicken": "2023-06-12 18:09:57 +0000",
+      "carrot": "2023-06-19 12:23:56 +0000"
     },
     "done": false
   },
@@ -9251,6 +9263,150 @@
   "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
     "criteria": {
       "has_lapis_ore": "2023-06-18 23:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2023-06-19 12:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2023-06-19 12:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-06-19 12:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2023-06-19 12:18:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/jungle_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 12:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2023-06-19 12:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 12:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 12:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 12:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 12:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 12:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 12:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 12:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 12:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_beach": {
+    "criteria": {
+      "has_logs": "2023-06-19 12:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2023-06-19 12:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 12:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 12:19:13 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 12:19:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2023-06-19 12:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2023-06-19 12:20:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2023-06-19 12:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2023-06-19 12:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2023-06-19 17:46:55 +0000"
     },
     "done": true
   },

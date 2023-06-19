@@ -1104,6 +1104,7 @@
       "shrubland": "2023-06-12 22:13:24 +0000",
       "rocky_shrubland": "2023-06-12 22:09:08 +0000",
       "highland": "2023-06-13 10:55:18 +0000",
+      "marsh": "2023-06-19 15:50:59 +0000",
       "jade_cliffs": "2023-06-12 22:24:38 +0000",
       "clover_patch": "2023-06-12 22:44:57 +0000",
       "wetland": "2023-06-16 21:25:36 +0000",
@@ -1112,6 +1113,7 @@
       "old_growth_woodland": "2023-06-13 10:55:25 +0000",
       "maple_woods": "2023-06-13 23:15:39 +0000",
       "field": "2023-06-12 22:18:36 +0000",
+      "orchard": "2023-06-19 15:46:22 +0000",
       "lavender_forest": "2023-06-12 22:33:44 +0000",
       "bog": "2023-06-16 21:25:24 +0000",
       "coniferous_forest": "2023-06-14 21:49:32 +0000",
@@ -1121,6 +1123,7 @@
       "redwood_forest": "2023-06-16 21:34:48 +0000",
       "cherry_blossom_grove": "2023-06-13 10:50:41 +0000",
       "seasonal_orchard": "2023-06-16 21:25:08 +0000",
+      "dune_beach": "2023-06-19 15:46:11 +0000",
       "seasonal_forest": "2023-06-16 21:44:38 +0000",
       "auroral_garden": "2023-06-16 15:48:57 +0000",
       "dead_forest": "2023-06-16 15:49:34 +0000",
@@ -1137,7 +1140,8 @@
       "snowy_fir_clearing": "2023-06-16 16:40:22 +0000",
       "tundra": "2023-06-16 21:24:37 +0000",
       "glowing_grotto": "2023-06-12 22:52:43 +0000",
-      "snowy_maple_woods": "2023-06-14 22:06:39 +0000"
+      "snowy_maple_woods": "2023-06-14 22:06:39 +0000",
+      "crag": "2023-06-19 15:31:21 +0000"
     },
     "done": false
   },
@@ -1317,11 +1321,14 @@
       "minecraft:snowy_slopes": "2023-06-17 21:34:17 +0000",
       "minecraft:old_growth_pine_taiga": "2023-06-13 23:17:38 +0000",
       "minecraft:taiga": "2023-06-13 23:20:00 +0000",
+      "minecraft:deep_ocean": "2023-06-19 15:46:54 +0000",
       "minecraft:frozen_river": "2023-06-14 21:50:50 +0000",
       "minecraft:sunflower_plains": "2023-06-12 22:30:36 +0000",
+      "minecraft:birch_forest": "2023-06-19 15:51:18 +0000",
       "minecraft:windswept_hills": "2023-06-14 22:10:54 +0000",
       "minecraft:beach": "2023-06-15 22:20:21 +0000",
       "minecraft:stony_peaks": "2023-06-13 11:13:16 +0000",
+      "minecraft:dark_forest": "2023-06-19 15:51:31 +0000",
       "minecraft:river": "2023-06-12 22:13:20 +0000",
       "minecraft:stony_shore": "2023-06-12 22:59:36 +0000",
       "minecraft:snowy_plains": "2023-06-14 21:51:40 +0000",
@@ -1335,6 +1342,7 @@
       "minecraft:ocean": "2023-06-16 21:34:53 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-06-13 23:18:41 +0000",
       "minecraft:snowy_beach": "2023-06-14 21:58:42 +0000",
+      "minecraft:windswept_savanna": "2023-06-19 15:50:52 +0000",
       "minecraft:flower_forest": "2023-06-12 22:30:31 +0000",
       "minecraft:deep_dark": "2023-06-13 15:14:50 +0000",
       "minecraft:meadow": "2023-06-13 12:06:37 +0000",
@@ -1880,6 +1888,7 @@
       "sweet_berries": "2023-06-14 21:52:17 +0000",
       "cooked_beef": "2023-06-12 22:42:59 +0000",
       "baked_potato": "2023-06-16 12:42:34 +0000",
+      "beef": "2023-06-19 15:37:27 +0000",
       "porkchop": "2023-06-18 22:14:10 +0000",
       "apple": "2023-06-12 22:16:29 +0000",
       "cooked_cod": "2023-06-17 16:01:49 +0000",
@@ -3473,10 +3482,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2023-06-19 15:32:15 +0000",
       "minecraft:skeleton": "2023-06-12 23:33:12 +0000",
       "minecraft:vindicator": "2023-06-18 11:33:15 +0000",
       "minecraft:spider": "2023-06-12 23:27:52 +0000",
       "minecraft:creeper": "2023-06-12 23:29:26 +0000",
+      "minecraft:evoker": "2023-06-19 15:34:36 +0000",
       "minecraft:witch": "2023-06-18 11:24:00 +0000",
       "minecraft:cave_spider": "2023-06-19 00:30:54 +0000",
       "minecraft:enderman": "2023-06-17 21:40:25 +0000",
@@ -8371,6 +8382,324 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2023-06-19 00:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2023-06-19 15:33:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/waxed_oxidized_copper_pillar_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2023-06-19 15:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2023-06-19 15:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2023-06-19 15:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_copper": "2023-06-19 15:33:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/waxed_weathered_copper_pillar_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2023-06-19 15:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2023-06-19 15:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_from_waxed_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2023-06-19 15:33:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/waxed_copper_pillar_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2023-06-19 15:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_waxed_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2023-06-19 15:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2023-06-19 15:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2023-06-19 15:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_waxed_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2023-06-19 15:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2023-06-19 15:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2023-06-19 15:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper": {
+    "criteria": {
+      "has_waxed_weathered_copper": "2023-06-19 15:33:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2023-06-19 15:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2023-06-19 15:33:09 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/copper_pillar/waxed_exposed_copper_pillar_stonecutting": {
+    "criteria": {
+      "has_cut_copper_slab": "2023-06-19 15:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_slab_from_waxed_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2023-06-19 15:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper": {
+    "criteria": {
+      "has_waxed_exposed_copper": "2023-06-19 15:33:09 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2023-06-19 15:34:37 +0000"
+    },
+    "done": true
+  },
+  "vinery:wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2023-06-19 15:38:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2023-06-19 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/jungle_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 15:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2023-06-19 15:55:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 15:55:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 15:55:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 15:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2023-06-19 15:55:32 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_jungle_planks": {
+    "criteria": {
+      "has_ingredient": "2023-06-19 15:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2023-06-19 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 15:55:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 15:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-06-19 15:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2023-06-19 15:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2023-06-19 15:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2023-06-19 15:55:32 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 15:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2023-06-19 15:55:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/jungle_table": {
+    "criteria": {
+      "has_jungle": "2023-06-19 15:55:32 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 15:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2023-06-19 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2023-06-19 15:55:32 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 15:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-06-19 15:55:32 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_beach": {
+    "criteria": {
+      "has_logs": "2023-06-19 15:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2023-06-19 15:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2023-06-19 15:48:54 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 15:55:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 15:55:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/jungle/jungle_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2023-06-19 15:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-06-19 15:55:32 +0000"
     },
     "done": true
   },
