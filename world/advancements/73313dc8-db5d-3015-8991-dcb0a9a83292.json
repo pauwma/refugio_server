@@ -3478,6 +3478,7 @@
       "minecraft:spider": "2023-06-12 23:27:52 +0000",
       "minecraft:creeper": "2023-06-12 23:29:26 +0000",
       "minecraft:witch": "2023-06-18 11:24:00 +0000",
+      "minecraft:cave_spider": "2023-06-19 00:30:54 +0000",
       "minecraft:enderman": "2023-06-17 21:40:25 +0000",
       "minecraft:stray": "2023-06-17 21:40:51 +0000",
       "minecraft:zombie": "2023-06-12 23:22:15 +0000",
@@ -8307,6 +8308,12 @@
     },
     "done": false
   },
+  "alexsmobs:alexsmobs/rainbow_jelly": {
+    "criteria": {
+      "gustmaker": "2023-06-18 23:15:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2023-06-18 23:55:57 +0000"
@@ -8319,9 +8326,51 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rainbow_jelly": {
+  "twigs:recipes/copper_pillar/copper_pillar_stonecutting": {
     "criteria": {
-      "gustmaker": "2023-06-18 23:15:28 +0000"
+      "has_cut_copper_slab": "2023-06-19 00:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-06-19 00:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2023-06-19 00:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2023-06-19 00:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-06-19 00:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2023-06-19 00:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2023-06-19 00:28:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2023-06-19 00:33:25 +0000"
     },
     "done": true
   },
