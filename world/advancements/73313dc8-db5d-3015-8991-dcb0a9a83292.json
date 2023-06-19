@@ -1875,12 +1875,16 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2023-06-16 12:17:30 +0000",
+      "chicken": "2023-06-18 22:15:56 +0000",
       "cooked_mutton": "2023-06-12 22:56:47 +0000",
       "sweet_berries": "2023-06-14 21:52:17 +0000",
       "cooked_beef": "2023-06-12 22:42:59 +0000",
       "baked_potato": "2023-06-16 12:42:34 +0000",
+      "porkchop": "2023-06-18 22:14:10 +0000",
       "apple": "2023-06-12 22:16:29 +0000",
       "cooked_cod": "2023-06-17 16:01:49 +0000",
+      "rabbit": "2023-06-18 22:14:21 +0000",
+      "mutton": "2023-06-18 22:25:28 +0000",
       "bread": "2023-06-12 23:56:11 +0000",
       "rotten_flesh": "2023-06-16 11:34:13 +0000",
       "cooked_rabbit": "2023-06-12 23:18:38 +0000",
@@ -8069,6 +8073,24 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/raw_falsite_block_from_raw_falsite": {
+    "criteria": {
+      "has_item": "2023-06-18 16:33:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/falsite_ingot_from_smelting_raw_falsite": {
+    "criteria": {
+      "has_item": "2023-06-18 16:33:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/falsite_ingot_from_blasting_raw_falsite": {
+    "criteria": {
+      "has_item": "2023-06-18 16:33:28 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/rimestone_slab_stonecutting_rimestone": {
     "criteria": {
       "has_item": "2023-06-18 16:42:50 +0000"
@@ -8105,33 +8127,201 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/raw_falsite_block_from_raw_falsite": {
-    "criteria": {
-      "has_item": "2023-06-18 16:33:28 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/misc/falsite_ingot_from_smelting_raw_falsite": {
-    "criteria": {
-      "has_item": "2023-06-18 16:33:28 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/rimestone_slab": {
     "criteria": {
       "has_item": "2023-06-18 16:42:50 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/misc/falsite_ingot_from_blasting_raw_falsite": {
-    "criteria": {
-      "has_item": "2023-06-18 16:33:28 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/polished_rimestone_stonecutting_rimestone": {
     "criteria": {
       "has_item": "2023-06-18 16:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2023-06-18 21:56:01 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2023-06-18 21:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2023-06-18 21:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2023-06-18 21:59:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2023-06-18 22:05:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "boar": "2023-06-18 22:07:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-06-18 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2023-06-18 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2023-06-18 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-06-18 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2023-06-18 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2023-06-18 22:07:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2023-06-18 22:07:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2023-06-18 22:07:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-06-18 22:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2023-06-18 22:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2023-06-18 22:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2023-06-18 22:12:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2023-06-18 22:12:09 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smelted_venison": {
+    "criteria": {
+      "has_food": "2023-06-18 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/campfired_venison": {
+    "criteria": {
+      "has_food": "2023-06-18 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/food/food/smoked_venison": {
+    "criteria": {
+      "has_food": "2023-06-18 22:13:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2023-06-18 22:14:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2023-06-18 22:14:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2023-06-18 22:14:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2023-06-18 22:14:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2023-06-18 22:14:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "raw_venison": "2023-06-18 22:26:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2023-06-18 23:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2023-06-18 23:55:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rainbow_jelly": {
+    "criteria": {
+      "gustmaker": "2023-06-18 23:15:28 +0000"
     },
     "done": true
   },

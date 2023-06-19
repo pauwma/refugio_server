@@ -1123,6 +1123,7 @@
       "pumpkin_patch": "2023-06-12 16:47:25 +0000",
       "grassland": "2023-06-11 19:02:13 +0000",
       "rainforest": "2023-06-11 18:37:17 +0000",
+      "crag": "2023-06-18 18:39:25 +0000",
       "ominous_woods": "2023-06-13 16:15:25 +0000"
     },
     "done": false
@@ -1862,14 +1863,17 @@
       "minecraft:beach": "2023-06-12 18:16:29 +0000",
       "minecraft:dark_forest": "2023-06-11 18:54:19 +0000",
       "minecraft:river": "2023-06-11 16:45:03 +0000",
+      "minecraft:stony_shore": "2023-06-18 23:58:37 +0000",
       "minecraft:dripstone_caves": "2023-06-11 19:09:14 +0000",
       "minecraft:cold_ocean": "2023-06-12 18:23:42 +0000",
       "minecraft:forest": "2023-06-12 16:47:31 +0000",
       "minecraft:deep_cold_ocean": "2023-06-13 16:05:13 +0000",
       "minecraft:ocean": "2023-06-12 18:16:25 +0000",
       "minecraft:old_growth_spruce_taiga": "2023-06-12 17:15:46 +0000",
+      "minecraft:flower_forest": "2023-06-18 19:44:46 +0000",
       "minecraft:frozen_peaks": "2023-06-11 18:18:13 +0000",
       "minecraft:old_growth_birch_forest": "2023-06-12 16:27:08 +0000",
+      "minecraft:deep_dark": "2023-06-18 23:27:58 +0000",
       "minecraft:meadow": "2023-06-11 18:18:53 +0000",
       "minecraft:plains": "2023-06-12 16:50:05 +0000"
     },
@@ -2339,6 +2343,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2023-06-18 23:20:27 +0000",
       "cooked_mutton": "2023-06-11 17:01:06 +0000",
       "cooked_beef": "2023-06-11 16:55:30 +0000",
       "baked_potato": "2023-06-13 15:51:48 +0000",
@@ -2464,7 +2469,8 @@
       "minecraft:spider": "2023-06-18 15:29:26 +0000",
       "minecraft:cave_spider": "2023-06-11 17:19:21 +0000",
       "minecraft:zombie": "2023-06-11 17:21:04 +0000",
-      "minecraft:drowned": "2023-06-18 14:30:28 +0000"
+      "minecraft:drowned": "2023-06-18 14:30:28 +0000",
+      "minecraft:zombie_villager": "2023-06-18 22:30:24 +0000"
     },
     "done": false
   },
@@ -8357,6 +8363,894 @@
   "securitycraft:recipes/decorations/display_case": {
     "criteria": {
       "has_item_frame": "2023-06-18 17:52:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2023-06-18 18:40:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2023-06-18 18:42:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2023-06-18 18:42:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_jar": {
+    "criteria": {
+      "has_item": "2023-06-18 19:31:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/chicken_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/blaze_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/snow_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/diamond_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/pig_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/standard_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/quartz_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/wolf_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/wither_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/villager_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/horse_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/hay_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/sandstone_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/gold_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/sponge_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/spider_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/creeper_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/dragon_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/coal_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/skeleton_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/sheep_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/fox_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/squid_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/cow_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/pumpkin_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/cactus_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/lapis_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/bat_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/bookshelf_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/ghast_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/ocelot_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/netherite_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/nether_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/cake_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/enderman_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/emerald_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/iron_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/end_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/iron_golem_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/redstone_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/bee_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/magma_cube_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/tools/melon_smithing_diamond": {
+    "criteria": {
+      "has_diamond_tier_upgrade": "2023-06-18 19:38:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2023-06-18 19:54:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2023-06-18 20:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2023-06-18 20:15:24 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-18 20:15:24 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-18 20:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2023-06-18 20:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2023-06-18 20:15:24 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-18 20:15:24 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-18 20:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2023-06-18 20:15:24 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-18 20:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2023-06-18 20:15:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/hammer": {
+    "criteria": {
+      "has_board": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_shelf": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_nightstand": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_table": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_trophy": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_trophy": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_trophy": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_cupboard": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_side_table": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_counter": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_trophy": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_desk": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_trophy": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_trophy": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_board": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_couch": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_fancy_bed": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_trophy": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_trophy": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_dining_bench": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_trophy": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_chair": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_trophy": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_bench": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_drawer": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_board": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_trophy": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_board": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_trophy": "2023-06-18 20:16:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet_single": {
+    "criteria": {
+      "has_sheet": "2023-06-18 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet_single": {
+    "criteria": {
+      "has_sheet": "2023-06-18 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_sheet_single": {
+    "criteria": {
+      "has_sheet": "2023-06-18 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_sheet_single": {
+    "criteria": {
+      "has_sheet": "2023-06-18 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pink_sheet_single": {
+    "criteria": {
+      "has_sheet": "2023-06-18 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet_single": {
+    "criteria": {
+      "has_sheet": "2023-06-18 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/lime_sheet_single": {
+    "criteria": {
+      "has_sheet": "2023-06-18 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/purple_sheet_single": {
+    "criteria": {
+      "has_sheet": "2023-06-18 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/green_sheet_single": {
+    "criteria": {
+      "has_sheet": "2023-06-18 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_sheet_single": {
+    "criteria": {
+      "has_sheet": "2023-06-18 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_sheet_single": {
+    "criteria": {
+      "has_sheet": "2023-06-18 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_sheet_single": {
+    "criteria": {
+      "has_sheet": "2023-06-18 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_sheet_single": {
+    "criteria": {
+      "has_sheet": "2023-06-18 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet_single": {
+    "criteria": {
+      "has_sheet": "2023-06-18 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/orange_sheet_single": {
+    "criteria": {
+      "has_sheet": "2023-06-18 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/magenta_sheet_single": {
+    "criteria": {
+      "has_sheet": "2023-06-18 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/red_cushion_single": {
+    "criteria": {
+      "has_cushion": "2023-06-18 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_blue_cushion_single": {
+    "criteria": {
+      "has_cushion": "2023-06-18 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion_single": {
+    "criteria": {
+      "has_cushion": "2023-06-18 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/magenta_cushion_single": {
+    "criteria": {
+      "has_cushion": "2023-06-18 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/purple_cushion_single": {
+    "criteria": {
+      "has_cushion": "2023-06-18 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cushion_single": {
+    "criteria": {
+      "has_cushion": "2023-06-18 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_cushion_single": {
+    "criteria": {
+      "has_cushion": "2023-06-18 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion_single": {
+    "criteria": {
+      "has_cushion": "2023-06-18 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion_single": {
+    "criteria": {
+      "has_cushion": "2023-06-18 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/green_cushion_single": {
+    "criteria": {
+      "has_cushion": "2023-06-18 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/cyan_cushion_single": {
+    "criteria": {
+      "has_cushion": "2023-06-18 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pink_cushion_single": {
+    "criteria": {
+      "has_cushion": "2023-06-18 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/lime_cushion_single": {
+    "criteria": {
+      "has_cushion": "2023-06-18 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/yellow_cushion_single": {
+    "criteria": {
+      "has_cushion": "2023-06-18 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/brown_cushion_single": {
+    "criteria": {
+      "has_cushion": "2023-06-18 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/orange_cushion_single": {
+    "criteria": {
+      "has_cushion": "2023-06-18 20:19:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_counter": "2023-06-18 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_table": "2023-06-18 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_shelf": "2023-06-18 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_dining_bench": "2023-06-18 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2023-06-18 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2023-06-18 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_desk": "2023-06-18 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_couch": "2023-06-18 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_nightstand": "2023-06-18 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_bench": "2023-06-18 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_drawer": "2023-06-18 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_fancy_bed": "2023-06-18 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_chair": "2023-06-18 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_cupboard": "2023-06-18 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_side_table": "2023-06-18 20:26:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2023-06-18 20:36:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2023-06-18 20:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2023-06-18 21:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2023-06-18 22:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2023-06-18 22:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2023-06-18 22:28:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_magic_wood": {
+    "criteria": {
+      "has_log": "2023-06-18 22:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2023-06-18 23:32:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2023-06-18 23:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2023-06-18 23:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2023-06-18 23:32:52 +0000"
     },
     "done": true
   },
