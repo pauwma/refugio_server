@@ -14706,33 +14706,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
-    "criteria": {
-      "has_planks": "2023-06-19 00:25:52 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/snowcap_mushroom_block": {
-    "criteria": {
-      "has_item": "2023-06-19 00:21:26 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/redwood_sign": {
-    "criteria": {
-      "has_redwood_planks": "2023-06-19 00:25:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
       "has_magenta_dye": "2023-06-19 00:04:25 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
-    "criteria": {
-      "has_planks": "2023-06-19 00:25:52 +0000"
     },
     "done": true
   },
@@ -14754,15 +14730,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
-    "criteria": {
-      "has_pink_tulip": "2023-06-19 00:37:38 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/misc/scratched_glass_magenta2": {
     "criteria": {
       "recipe_condition2": "2023-06-19 00:04:25 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_magenta2": {
+    "criteria": {
+      "recipe_condition2": "2023-06-19 00:04:25 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/snowcap_mushroom_block": {
+    "criteria": {
+      "has_item": "2023-06-19 00:21:26 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-06-19 00:25:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2023-06-19 00:25:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-06-19 00:25:52 +0000"
     },
     "done": true
   },
@@ -14790,12 +14790,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/clear_glass_magenta2": {
-    "criteria": {
-      "recipe_condition2": "2023-06-19 00:04:25 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_planks": "2023-06-19 00:25:52 +0000"
@@ -14805,6 +14799,12 @@
   "biomesoplenty:recipes/building_blocks/redwood_stairs": {
     "criteria": {
       "has_planks": "2023-06-19 00:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2023-06-19 00:37:38 +0000"
     },
     "done": true
   },
